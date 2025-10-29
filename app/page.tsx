@@ -10,17 +10,23 @@ export default function Home() {
     "/anastasia2.jpg",
     "/anastasia3.jpg",
   ];
+  const thumbnails = [
+    "/thumb0.png",
+    "/thumb1.png",
+    "/thumb2.png",
+    "/thumb3.png",
+  ];
 
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [currentThumbnailIndex, setCurrentThumbnailIndex] = useState(0);
   const [currentStoryImageIndex, setCurrentStoryImageIndex] = useState(0);
 
   useEffect(() => {
     const interval = setInterval(() => {
-      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+      setCurrentThumbnailIndex((prevIndex) => (prevIndex + 1) % thumbnails.length);
     }, 3000); // Change image every 3 seconds
 
     return () => clearInterval(interval);
-  }, [images.length]);
+  }, [thumbnails.length]);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -32,7 +38,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Hero Section */}
+    {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20 px-4 sm:py-32 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
@@ -59,16 +65,16 @@ export default function Home() {
               </a>
             </div>
             <div className="flex justify-center lg:justify-end">
-              <div className="relative w-full max-w-md aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
-                {images.map((src, index) => (
+              <div className="relative w-full max-w-2xl aspect-[16/9] rounded-2xl overflow-hidden shadow-2xl">
+                {thumbnails.map((src, index) => (
                   <Image
                     key={src}
                     src={src}
                     alt="Анастасия Фаертаг"
-                    width={600}
+                    width={1280}
                     height={800}
-                    className={`object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 ${
-                      index === currentImageIndex ? "opacity-100" : "opacity-0"
+                    className={`object-cover w-full h-full absolute inset-0 transition-opacity duration-1000 ${
+                      index === currentThumbnailIndex ? "opacity-100" : "opacity-0"
                     }`}
                     priority={index === 0}
                   />

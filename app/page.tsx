@@ -1,10 +1,30 @@
+"use client";
+
 import Image from "next/image";
+import { useState, useEffect } from "react";
 
 export default function Home() {
+  const images = [
+    "/anastasia.jpg",
+    "/anastasia1.jpg",
+    "/anastasia2.jpg",
+    "/anastasia3.jpg",
+  ];
+
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+    }, 3000); // Change image every 3 seconds
+
+    return () => clearInterval(interval);
+  }, [images.length]);
+
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative bg-linear-to-br from-blue-50 to-indigo-100 py-20 px-4 sm:py-32 sm:px-6 lg:px-8">
+      <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20 px-4 sm:py-32 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
@@ -23,14 +43,19 @@ export default function Home() {
             </div>
             <div className="flex justify-center lg:justify-end">
               <div className="relative w-full max-w-md aspect-square rounded-2xl overflow-hidden shadow-2xl">
-                <Image
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&h=800&fit=crop&crop=face"
-                  alt="Анастасия Фаертаг"
-                  width={600}
-                  height={600}
-                  className="object-cover w-full h-full"
-                  priority
-                />
+                {images.map((src, index) => (
+                  <Image
+                    key={src}
+                    src={src}
+                    alt="Анастасия Фаертаг"
+                    width={600}
+                    height={600}
+                    className={`object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 ${
+                      index === currentImageIndex ? "opacity-100" : "opacity-0"
+                    }`}
+                    priority={index === 0}
+                  />
+                ))}
               </div>
             </div>
           </div>
@@ -136,7 +161,7 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="bg-linear-to-br from-indigo-50 to-blue-50 rounded-2xl p-8 md:p-12 mb-12">
+          <div className="bg-gradient-to-br from-indigo-50 to-blue-50 rounded-2xl p-8 md:p-12 mb-12">
             <h3 className="text-2xl font-semibold text-gray-900 mb-8">Что включено</h3>
             <div className="space-y-6">
               <div className="bg-white rounded-lg p-6 shadow-md">

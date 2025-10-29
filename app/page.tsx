@@ -15,6 +15,20 @@ export default function Home() {
     "/thumb1.png",
     "/thumb2.png",
     "/thumb3.png",
+    "/thumb4.png",
+    "/thumb5.png",
+    "/thumb6.png",
+  ];
+
+  const screenshots = [
+    "/screen0.jpeg",
+    "/screen1.jpeg",
+    "/screen2.jpeg",
+    "/screen3.jpeg",
+    "/screen4.jpeg",
+    "/screen5.jpeg",
+    "/screen6.jpeg",
+    "/screen7.jpeg",
   ];
 
   const [currentThumbnailIndex, setCurrentThumbnailIndex] = useState(0);
@@ -44,7 +58,8 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl mb-6">
-                  257 тысяч зрителей хотят услышать вашу историю
+                <span className="text-indigo-600">257 тысяч зрителей</span>{" "}
+                ждут <span className="text-indigo-600">Вашу</span> историю
               </h1>
               <p className="text-xl text-gray-700 max-w-3xl lg:max-w-none mx-auto lg:mx-0 mb-8">
                 Партнёрские видео и интеграции на
@@ -196,11 +211,7 @@ export default function Home() {
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Возраст</h3>
               <div className="space-y-3">
                 <div className="flex justify-between items-center">
-                  <span className="text-gray-700">45–65+</span>
-                  <span className="text-indigo-600 font-bold">≈ 60 %</span>
-                </div>
-                <div className="w-full bg-gray-200 rounded-full h-3">
-                  <div className="bg-indigo-600 h-3 rounded-full" style={{ width: "60%" }}></div>
+                  <span className="flex items-center justify-center w-full h-32 text-6xl font-extrabold text-gray-900">25+</span>
                 </div>
               </div>
             </div>
@@ -304,6 +315,38 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Detailed Statistics Section */}
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
+        <div className="mx-auto max-w-7xl">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+              Подробная статистика
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. 
+              Все цифры основаны на реальных данных аналитики.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {screenshots.map((src, index) => (
+              <div
+                key={src}
+                className="relative rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105 bg-gray-100"
+              >
+                <Image
+                  src={src}
+                  alt={`Статистика канала ${index + 1}`}
+                  width={1080}
+                  height={1920}
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+            ))}
           </div>
         </div>
       </section>

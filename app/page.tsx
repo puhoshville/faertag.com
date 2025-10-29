@@ -120,6 +120,119 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Special Issue Package Section */}
+      <section className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50">
+        <div className="mx-auto max-w-7xl">
+          {/* Premium Badge */}
+          <div className="flex justify-center mb-8">
+            <div className="relative inline-block">
+              <div className="absolute inset-0 bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 rounded-full blur-lg opacity-75 animate-pulse"></div>
+              <div className="relative bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 text-white px-8 py-3 rounded-full font-bold text-lg tracking-wide shadow-xl">
+                ⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐
+              </div>
+            </div>
+          </div>
+
+          <div className="text-center mb-16">
+            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
+              Специальный выпуск
+            </h2>
+            <p className="text-xl text-gray-700 max-w-3xl mx-auto font-medium">
+              Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.
+              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.
+            </p>
+          </div>
+
+          {/* Animated Gradient Border Container */}
+          <div className="animated-gradient-border premium-glow max-w-6xl mx-auto">
+            <div className="bg-white rounded-xl p-8 md:p-12">
+              <h3 className="text-3xl font-bold text-gray-900 mb-10 text-center">Что включено</h3>
+              <div className="space-y-6">
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 shadow-lg border-l-4 border-indigo-600">
+                  <div className="flex items-start">
+                    <div className="shrink-0 w-10 h-10 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-full flex items-center justify-center font-bold mr-4 text-lg shadow-lg">
+                      1
+                    </div>
+                    <div>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">
+                        Концепт и сценарий
+                      </h4>
+                      <p className="text-gray-700 leading-relaxed">
+                        Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 shadow-lg border-l-4 border-indigo-600">
+                  <div className="flex items-start">
+                    <div className="shrink-0 w-10 h-10 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-full flex items-center justify-center font-bold mr-4 text-lg shadow-lg">
+                      2
+                    </div>
+                    <div>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">
+                        Съёмка и продакшн
+                      </h4>
+                      <p className="text-gray-700 leading-relaxed">
+                        Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 shadow-lg border-l-4 border-indigo-600">
+                  <div className="flex items-start">
+                    <div className="shrink-0 w-10 h-10 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-full flex items-center justify-center font-bold mr-4 text-lg shadow-lg">
+                      3
+                    </div>
+                    <div>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">
+                        Полное упоминание бренда
+                      </h4>
+                      <p className="text-gray-700 leading-relaxed">
+                        Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 shadow-lg border-l-4 border-indigo-600">
+                  <div className="flex items-start">
+                    <div className="shrink-0 w-10 h-10 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-full flex items-center justify-center font-bold mr-4 text-lg shadow-lg">
+                      4
+                    </div>
+                    <div>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">
+                        Размещение и продвижение
+                      </h4>
+                      <p className="text-gray-700 leading-relaxed">
+                        Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 shadow-lg border-l-4 border-indigo-600">
+                  <div className="flex items-start">
+                    <div className="shrink-0 w-10 h-10 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-full flex items-center justify-center font-bold mr-4 text-lg shadow-lg">
+                      5
+                    </div>
+                    <div>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">
+                        Отчётность
+                      </h4>
+                      <p className="text-gray-700 leading-relaxed">
+                        Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Story Section */}
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="mx-auto max-w-7xl">
@@ -212,106 +325,6 @@ export default function Home() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center">
                   <span className="flex items-center justify-center w-full h-32 text-6xl font-extrabold text-gray-900">25+</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Special Issue Package Section */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
-        <div className="mx-auto max-w-7xl">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Специальный выпуск
-            </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.
-              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.
-            </p>
-          </div>
-
-          <div className="bg-gradient-to-br from-indigo-50 to-blue-50 rounded-2xl p-8 md:p-12 mb-12">
-            <h3 className="text-2xl font-semibold text-gray-900 mb-8">Что включено</h3>
-            <div className="space-y-6">
-              <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="flex items-start">
-                  <div className="shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold mr-4">
-                    1
-                  </div>
-                  <div>
-                    <h4 className="text-xl font-semibold text-gray-900 mb-2">
-                      Концепт и сценарий
-                    </h4>
-                    <p className="text-gray-600">
-                      Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="flex items-start">
-                  <div className="shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold mr-4">
-                    2
-                  </div>
-                  <div>
-                    <h4 className="text-xl font-semibold text-gray-900 mb-2">
-                      Съёмка и продакшн
-                    </h4>
-                    <p className="text-gray-600">
-                      Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="flex items-start">
-                  <div className="shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold mr-4">
-                    3
-                  </div>
-                  <div>
-                    <h4 className="text-xl font-semibold text-gray-900 mb-2">
-                      Полное упоминание бренда
-                    </h4>
-                    <p className="text-gray-600">
-                      Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="flex items-start">
-                  <div className="shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold mr-4">
-                    4
-                  </div>
-                  <div>
-                    <h4 className="text-xl font-semibold text-gray-900 mb-2">
-                      Размещение и продвижение
-                    </h4>
-                    <p className="text-gray-600">
-                      Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-white rounded-lg p-6 shadow-md">
-                <div className="flex items-start">
-                  <div className="shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center font-bold mr-4">
-                    5
-                  </div>
-                  <div>
-                    <h4 className="text-xl font-semibold text-gray-900 mb-2">
-                      Отчётность
-                    </h4>
-                    <p className="text-gray-600">
-                      Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.
-                    </p>
-                  </div>
                 </div>
               </div>
             </div>

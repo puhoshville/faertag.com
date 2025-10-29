@@ -12,10 +12,19 @@ export default function Home() {
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [currentStoryImageIndex, setCurrentStoryImageIndex] = useState(0);
 
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+    }, 3000); // Change image every 3 seconds
+
+    return () => clearInterval(interval);
+  }, [images.length]);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentStoryImageIndex((prevIndex) => (prevIndex + 1) % images.length);
     }, 3000); // Change image every 3 seconds
 
     return () => clearInterval(interval);
@@ -29,11 +38,18 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl mb-6">
-                Продвиньте свой бренд
-                среди активной аудитории 🇦🇲 Армении и 🇦🇲 Диаспоры
+                  257 тысяч зрителей хотят услышать вашу историю
               </h1>
               <p className="text-xl text-gray-700 max-w-3xl lg:max-w-none mx-auto lg:mx-0 mb-8">
-                Партнёрские видео, интеграции и имиджевые кампании на YouTube-канале FAERTAG IN
+                Партнёрские видео и интеграции на
+                <a 
+                  href="https://www.youtube.com/@faertag" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-indigo-600 transition-colors underline"
+                >
+                  YouTube-канале FAERTAG IN 🇦🇲
+                </a>
               </p>
               <a
                 href="#contact"
@@ -43,14 +59,14 @@ export default function Home() {
               </a>
             </div>
             <div className="flex justify-center lg:justify-end">
-              <div className="relative w-full max-w-md aspect-square rounded-2xl overflow-hidden shadow-2xl">
+              <div className="relative w-full max-w-md aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
                 {images.map((src, index) => (
                   <Image
                     key={src}
                     src={src}
                     alt="Анастасия Фаертаг"
                     width={600}
-                    height={600}
+                    height={800}
                     className={`object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 ${
                       index === currentImageIndex ? "opacity-100" : "opacity-0"
                     }`}
@@ -77,7 +93,45 @@ export default function Home() {
             </div>
             <div className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
               <div className="text-3xl font-bold text-indigo-600 mb-2">44 %</div>
-              <div className="text-gray-600">просмотров из Армении</div>
+              <div className="text-gray-600">просмотров из 🇦🇲</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Story Section */}
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
+        <div className="mx-auto max-w-7xl">
+          <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">
+            Обо мне
+          </h2>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div className="prose prose-lg max-w-none">
+              <p className="text-xl text-gray-700 leading-relaxed mb-6">
+                Меня зовут Анастасия Фаертаг.
+              </p>
+              <p className="text-xl text-gray-700 leading-relaxed mb-6">
+                Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.
+              </p>
+              <p className="text-xl text-gray-700 leading-relaxed">
+              В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.
+              </p>
+            </div>
+            <div className="flex justify-center lg:justify-end">
+              <div className="relative w-full max-w-md aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
+                {images.map((src, index) => (
+                  <Image
+                    key={`story-${src}`}
+                    src={src}
+                    alt="Анастасия Фаертаг"
+                    width={600}
+                    height={800}
+                    className={`object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 ${
+                      index === currentStoryImageIndex ? "opacity-100" : "opacity-0"
+                    }`}
+                  />
+                ))}
+              </div>
             </div>
           </div>
         </div>

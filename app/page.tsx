@@ -57,24 +57,23 @@ export default function Home() {
         <div className="mx-auto max-w-7xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
-              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl mb-6">
-                <span className="text-indigo-600">257 тысяч зрителей</span>{" "}
-                ждут <span className="text-indigo-600">Вашу</span> историю
+              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl mb-6 leading-tight">
+                <span className="text-indigo-600">257 тысяч зрителей</span> ждут Вашу историю
               </h1>
-              <p className="text-xl text-gray-700 max-w-3xl lg:max-w-none mx-auto lg:mx-0 mb-8">
-                Партнёрские видео и интеграции на
+              <p className="text-xl text-gray-700 max-w-3xl lg:max-w-none mx-auto lg:mx-0 mb-8 leading-relaxed">
+                Партнёрские видео и интеграции на{" "}
                 <a 
                   href="https://www.youtube.com/@faertag" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="hover:text-indigo-600 transition-colors underline"
+                  className="text-indigo-600 hover:text-indigo-700 transition-colors font-semibold underline decoration-2 underline-offset-2"
                 >
                   YouTube-канале FAERTAG IN 🇦🇲
                 </a>
               </p>
               <a
                 href="#contact"
-                className="inline-flex items-center justify-center rounded-lg bg-indigo-600 px-8 py-4 text-lg font-semibold text-white shadow-lg transition-all hover:bg-indigo-700 hover:shadow-xl"
+                className="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 px-10 py-4 text-lg font-semibold text-white shadow-xl transition-all hover:from-indigo-700 hover:to-purple-700 hover:shadow-2xl hover:scale-105"
               >
                 Начать сотрудничество
               </a>

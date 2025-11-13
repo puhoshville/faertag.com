@@ -14,7 +14,7 @@ const nextConfig = {
 
 // autoIntl bilan configni o'rash
 export default autoIntl({
-  defaultLocale: LanguageCode.en,
+  defaultLocale: LanguageCode.ru,
   includeNodeModules: false,
   targetLocales: [LanguageCode.es, LanguageCode.fr, LanguageCode.de],
   outputDir: "src/intl",

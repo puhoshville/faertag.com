@@ -5,11 +5,11 @@
       "scopes": {
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
           "type": "element",
-          "hash": "1e17729172313dfaf5608cf2c100e2d1",
+          "hash": "c53ce4e217de22c08b0251835354820e",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "<element:span>257 тысяч зрителей</element:span>ждут<element:span>Вашу</element:span>историю"
+          "content": "<element:span>257 тысяч зрителей</element:span>ждут Вашу историю"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
           "type": "element",
@@ -19,14 +19,6 @@
           "overrides": {},
           "content": "257 тысяч зрителей"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children4": {
-          "type": "element",
-          "hash": "5c81b388574a3a3ae5f7c2cd666b2d79",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "Вашу"
-        },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
           "type": "element",
           "hash": "981ca216ee6ab923ca9b4c1dc5042f31",
@@ -35,7 +27,7 @@
           "overrides": {},
           "content": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children1": {
+        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children3": {
           "type": "element",
           "hash": "e762460e745a87e7c446d3c8b4f0ff32",
           "context": "",

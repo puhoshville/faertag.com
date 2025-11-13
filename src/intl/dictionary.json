@@ -5,43 +5,34 @@
       "entries": {
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
           "content": {
-            "en": "<element:span>257 тысяч зрителей</element:span>ждут<element:span>Вашу</element:span>историю",
-            "es": "<element:span>257 mil espectadores</element:span>esperan<element:span>tu</element:span>historia",
-            "fr": "<element:span>257 mille spectateurs</element:span>attendent<element:span>votre</element:span>histoire",
-            "de": "<element:span>257 tausend Zuschauer</element:span> warten auf <element:span>Ihre</element:span> Geschichte"
+            "ru": "<element:span></element:span> ждут Вашу историю",
+            "es": "<element:span></element:span> esperan tu historia",
+            "fr": "<element:span></element:span> attendent votre histoire",
+            "de": "<element:span></element:span> warten auf Ihre Geschichte"
           },
-          "hash": "1e17729172313dfaf5608cf2c100e2d1"
+          "hash": "c53ce4e217de22c08b0251835354820e"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
           "content": {
-            "en": "257 тысяч зрителей",
+            "ru": "257 тысяч зрителей",
             "es": "257 mil espectadores",
             "fr": "257 mille spectateurs",
-            "de": "257 tausend Zuschauer"
+            "de": "257 Tausend Zuschauer"
           },
           "hash": "d9a8afa0970d3f08fd2d83279c959f75"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children4": {
-          "content": {
-            "en": "Вашу",
-            "es": "tu",
-            "fr": "votre",
-            "de": "Ihre"
-          },
-          "hash": "5c81b388574a3a3ae5f7c2cd666b2d79"
-        },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
           "content": {
-            "en": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
-            "es": "Videos de colaboración e integraciones en el<element:a>canal de YouTube FAERTAG IN 🇦🇲</element:a>",
-            "fr": "Vidéos partenaires et intégrations sur la<element:a>chaîne YouTube FAERTAG IN 🇦🇲</element:a>",
+            "ru": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
+            "es": "Videos de colaboración e integraciones en el <element:a>canal de YouTube FAERTAG IN 🇦🇲</element:a>",
+            "fr": "Vidéos partenaires et intégrations sur la <element:a>chaîne YouTube FAERTAG IN 🇦🇲</element:a>",
             "de": "Partnervideos und Integrationen auf dem <element:a>YouTube-Kanal FAERTAG IN 🇦🇲</element:a>"
           },
           "hash": "981ca216ee6ab923ca9b4c1dc5042f31"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children1": {
+        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children3": {
           "content": {
-            "en": "YouTube-канале FAERTAG IN 🇦🇲",
+            "ru": "YouTube-канале FAERTAG IN 🇦🇲",
             "es": "canal de YouTube FAERTAG IN 🇦🇲",
             "fr": "chaîne YouTube FAERTAG IN 🇦🇲",
             "de": "YouTube-Kanal FAERTAG IN 🇦🇲"
@@ -50,7 +41,7 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children5": {
           "content": {
-            "en": "Начать сотрудничество",
+            "ru": "Начать сотрудничество",
             "es": "Comenzar colaboración",
             "fr": "Commencer la collaboration",
             "de": "Zusammenarbeit beginnen"
@@ -59,16 +50,16 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children1": {
           "content": {
-            "en": "10 000+",
+            "ru": "10 000+",
             "es": "10.000+",
             "fr": "10 000+",
-            "de": "10 000+"
+            "de": "10.000+"
           },
           "hash": "4a6be9a28067aeadd53f0e11a3f17197"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children3": {
           "content": {
-            "en": "подписчиков",
+            "ru": "подписчиков",
             "es": "suscriptores",
             "fr": "abonnés",
             "de": "Abonnenten"
@@ -77,7 +68,7 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children1": {
           "content": {
-            "en": "1,6 млн",
+            "ru": "1,6 млн",
             "es": "1,6 millones",
             "fr": "1,6 million",
             "de": "1,6 Mio."
@@ -86,7 +77,7 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children3": {
           "content": {
-            "en": "просмотров за 28 дней",
+            "ru": "просмотров за 28 дней",
             "es": "de visualizaciones en 28 días",
             "fr": "de vues en 28 jours",
             "de": "Aufrufe in 28 Tagen"
@@ -95,16 +86,16 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children1": {
           "content": {
-            "en": "257 000",
+            "ru": "257 000",
             "es": "257.000",
             "fr": "257 000",
-            "de": "257 000"
+            "de": "257.000"
           },
           "hash": "669d042e9fe77edc75852cba69ee38fe"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children3": {
           "content": {
-            "en": "уникальных зрителей",
+            "ru": "уникальных зрителей",
             "es": "espectadores únicos",
             "fr": "spectateurs uniques",
             "de": "einzigartige Zuschauer"
@@ -113,7 +104,7 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children1": {
           "content": {
-            "en": "44 %",
+            "ru": "44 %",
             "es": "44 %",
             "fr": "44 %",
             "de": "44 %"
@@ -122,7 +113,7 @@
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children3": {
           "content": {
-            "en": "просмотров из 🇦🇲",
+            "ru": "просмотров из 🇦🇲",
             "es": "de visualizaciones desde 🇦🇲",
             "fr": "de vues depuis 🇦🇲",
             "de": "Aufrufe aus 🇦🇲"
@@ -131,7 +122,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children3/children1/children3": {
           "content": {
-            "en": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐",
+            "ru": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐",
             "es": "⭐ LA OFERTA MÁS VALIOSA ⭐",
             "fr": "⭐ OFFRE LA PLUS PRÉCIEUSE ⭐",
             "de": "⭐ DAS WERTVOLLSTE ANGEBOT ⭐"
@@ -140,7 +131,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children5/children1": {
           "content": {
-            "en": "Специальный выпуск",
+            "ru": "Специальный выпуск",
             "es": "Episodio especial",
             "fr": "Épisode spécial",
             "de": "Spezialausgabe"
@@ -149,16 +140,16 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children5/children3": {
           "content": {
-            "en": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.",
+            "ru": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.",
             "es": "Un video completo dedicado exclusivamente a tu marca, producto o campaña.\n              Creado en el estilo del canal para que sea percibido de manera orgánica por la audiencia y genere confianza.",
-            "fr": "Une vidéo complète entièrement dédiée à votre marque, produit ou campagne.\n              Créée dans le style de la chaîne pour être perçue naturellement par l'audience et inspirer confiance.",
-            "de": "Ein vollwertiges Video, das vollständig einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es von der Zielgruppe organisch wahrgenommen wird und Vertrauen weckt."
+            "fr": "Une vidéo complète entièrement dédiée à votre marque, produit ou campagne.\nCréée dans le style de la chaîne pour être perçue de manière organique par l'audience et inspirer confiance.",
+            "de": "Ein vollwertiges Video, das komplett einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es vom Publikum organisch wahrgenommen wird und Vertrauen weckt."
           },
           "hash": "aae6459237efbae27a58eebfa65df08a"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children1": {
           "content": {
-            "en": "Что включено",
+            "ru": "Что включено",
             "es": "Qué incluye",
             "fr": "Ce qui est inclus",
             "de": "Was enthalten ist"
@@ -167,7 +158,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children1": {
           "content": {
-            "en": "1",
+            "ru": "1",
             "es": "1",
             "fr": "1",
             "de": "1"
@@ -176,7 +167,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children1": {
           "content": {
-            "en": "Концепт и сценарий",
+            "ru": "Концепт и сценарий",
             "es": "Concepto y guion",
             "fr": "Concept et scénario",
             "de": "Konzept und Drehbuch"
@@ -185,7 +176,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children3": {
           "content": {
-            "en": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).",
+            "ru": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).",
             "es": "Desarrollo de la idea del video, creatividad y guion en colaboración con la marca. Posibilidad de adaptar el producto al contenido del blogger (historia, desafío, experimento, etc.).",
             "fr": "Développement de l'idée de la vidéo, du concept créatif et du scénario en collaboration avec la marque. Possibilité d'adapter le produit au contenu du blogueur (histoire, challenge, expérience, etc.).",
             "de": "Entwicklung der Videoidee, des Kreativkonzepts und des Drehbuchs gemeinsam mit der Marke. Möglichkeit, das Produkt an den Content des Bloggers anzupassen (Geschichte, Challenge, Experiment usw.)."
@@ -194,7 +185,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children1": {
           "content": {
-            "en": "2",
+            "ru": "2",
             "es": "2",
             "fr": "2",
             "de": "2"
@@ -203,25 +194,25 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children1": {
           "content": {
-            "en": "Съёмка и продакшн",
-            "es": "Filmación y producción",
+            "ru": "Съёмка и продакшн",
+            "es": "Grabación y producción",
             "fr": "Tournage et production",
-            "de": "Dreh und Produktion"
+            "de": "Aufnahme und Produktion"
           },
           "hash": "e35ae825ffae8fcd71a8b8d24cfd1b29"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children3": {
           "content": {
-            "en": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.",
-            "es": "Filmación completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido.",
-            "fr": "Tournage vidéo complet dans le style de la chaîne : mise en scène, montage, étalonnage, graphisme, son.",
-            "de": "Vollständige Videoproduktion im Stil des Kanals: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton."
+            "ru": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.",
+            "es": "Producción completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido.",
+            "fr": "Production vidéo complète dans le style de la chaîne : mise en scène, montage, étalonnage, graphisme, son.",
+            "de": "Vollständige Videoproduktion im Kanalstil: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton."
           },
           "hash": "332e1f5b9eb3e97b8975af17fc440d9a"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children1": {
           "content": {
-            "en": "3",
+            "ru": "3",
             "es": "3",
             "fr": "3",
             "de": "3"
@@ -230,16 +221,16 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children1": {
           "content": {
-            "en": "Полное упоминание бренда",
+            "ru": "Полное упоминание бренда",
             "es": "Mención completa de la marca",
             "fr": "Mention complète de la marque",
-            "de": "Vollständige Markenerwähnung"
+            "de": "Vollständige Markennennung"
           },
           "hash": "b146fb3d4f460f03b94d49e55cf5888d"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children3": {
           "content": {
-            "en": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.",
+            "ru": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.",
             "es": "Integración durante todo el video: logotipo, producto, mensajes clave, demostración de ventajas.",
             "fr": "Intégration tout au long de la vidéo : logo, produit, messages clés, démonstration des avantages.",
             "de": "Integration während des gesamten Videos: Logo, Produkt, Kernbotschaften, Demonstration der Vorteile."
@@ -248,7 +239,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children1": {
           "content": {
-            "en": "4",
+            "ru": "4",
             "es": "4",
             "fr": "4",
             "de": "4"
@@ -257,7 +248,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children1": {
           "content": {
-            "en": "Размещение и продвижение",
+            "ru": "Размещение и продвижение",
             "es": "Publicación y promoción",
             "fr": "Publication et promotion",
             "de": "Veröffentlichung und Promotion"
@@ -266,16 +257,16 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children3": {
           "content": {
-            "en": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.",
+            "ru": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.",
             "es": "Publicación en el canal principal de YouTube con enlace fijado en la descripción y en el primer comentario. Opcionalmente - publicación en la comunidad de YouTube o historias en otras redes sociales.",
-            "fr": "Publication sur la chaîne YouTube principale avec un lien épinglé dans la description et le premier commentaire. En option - publication dans la communauté YouTube ou stories sur d'autres réseaux sociaux.",
-            "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – Post in der YouTube-Community oder Stories in anderen sozialen Netzwerken."
+            "fr": "Publication sur la chaîne YouTube principale avec lien épinglé dans la description et premier commentaire. En option - post dans la communauté YouTube ou stories sur d'autres réseaux sociaux.",
+            "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – ein Beitrag in der YouTube-Community oder Stories in anderen sozialen Netzwerken."
           },
           "hash": "f381326140c4bbd7f5245a1fbe79390f"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children1": {
           "content": {
-            "en": "5",
+            "ru": "5",
             "es": "5",
             "fr": "5",
             "de": "5"
@@ -284,7 +275,7 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children1": {
           "content": {
-            "en": "Отчётность",
+            "ru": "Отчётность",
             "es": "Informes",
             "fr": "Rapports",
             "de": "Berichterstattung"
@@ -293,8 +284,8 @@
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children3": {
           "content": {
-            "en": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.",
-            "es": "Entrega de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement.",
+            "ru": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.",
+            "es": "Presentación de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement.",
             "fr": "Fourniture de statistiques après 7 et 30 jours : vues, rétention, clics sur les liens, engagement.",
             "de": "Bereitstellung von Statistiken nach 7 und 30 Tagen: Aufrufe, Verweildauer, Klicks auf Links, Engagement."
           },
@@ -302,7 +293,7 @@
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children1": {
           "content": {
-            "en": "Обо мне",
+            "ru": "Обо мне",
             "es": "Sobre mí",
             "fr": "À propos de moi",
             "de": "Über mich"
@@ -311,7 +302,7 @@
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children1": {
           "content": {
-            "en": "Меня зовут Анастасия Фаертаг.",
+            "ru": "Меня зовут Анастасия Фаертаг.",
             "es": "Me llamo Anastasia Faertag.",
             "fr": "Je m'appelle Anastasia Faertag.",
             "de": "Mein Name ist Anastasia Faertag."
@@ -320,25 +311,25 @@
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children3": {
           "content": {
-            "en": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.",
+            "ru": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.",
             "es": "Llevo tres años viviendo en Armenia y compartiendo mi vida aquí en YouTube.",
-            "fr": "Cela fait trois ans que je vis en Arménie et que je partage ma vie ici sur YouTube.",
+            "fr": "Cela fait déjà trois ans que je vis en Arménie et que je partage ma vie ici sur YouTube.",
             "de": "Seit drei Jahren lebe ich in Armenien und teile mein Leben hier auf YouTube."
           },
           "hash": "973488ed655fd63b0e258e0c35651a50"
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children5": {
           "content": {
-            "en": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.",
+            "ru": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.",
             "es": "En mis videos hablo sobre la gente, la cultura y las historias inspiradoras de este increíble país, desde la perspectiva de alguien que simplemente decidió quedarse a vivir aquí.",
-            "fr": "Dans mes vidéos, je parle des gens, de la culture et des histoires inspirantes de ce pays étonnant - à travers les yeux de quelqu'un qui a simplement décidé d'y vivre.",
-            "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und die inspirierenden Geschichten dieses wunderbaren Landes – aus der Perspektive einer Person, die sich einst entschieden hat, hier zu leben."
+            "fr": "Dans mes vidéos, je raconte les gens, la culture et les histoires inspirantes de ce pays étonnant - à travers les yeux de quelqu'un qui a simplement décidé d'y vivre.",
+            "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und inspirierende Geschichten dieses erstaunlichen Landes – aus der Perspektive einer Person, die sich einst entschied, hier zu leben."
           },
           "hash": "0248b21d24caa3b9a16da25761ddd25c"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children1": {
           "content": {
-            "en": "Основная аудитория",
+            "ru": "Основная аудитория",
             "es": "Audiencia principal",
             "fr": "Audience principale",
             "de": "Hauptzielgruppe"
@@ -347,7 +338,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children1": {
           "content": {
-            "en": "География",
+            "ru": "География",
             "es": "Geografía",
             "fr": "Géographie",
             "de": "Geografie"
@@ -356,7 +347,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children1": {
           "content": {
-            "en": "🇦🇲 Армения",
+            "ru": "🇦🇲 Армения",
             "es": "🇦🇲 Armenia",
             "fr": "🇦🇲 Arménie",
             "de": "🇦🇲 Armenien"
@@ -365,7 +356,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children3": {
           "content": {
-            "en": "44 %",
+            "ru": "44 %",
             "es": "44 %",
             "fr": "44 %",
             "de": "44 %"
@@ -374,7 +365,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children1": {
           "content": {
-            "en": "🇷🇺 Россия",
+            "ru": "🇷🇺 Россия",
             "es": "🇷🇺 Rusia",
             "fr": "🇷🇺 Russie",
             "de": "🇷🇺 Russland"
@@ -383,7 +374,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children3": {
           "content": {
-            "en": "22 %",
+            "ru": "22 %",
             "es": "22 %",
             "fr": "22 %",
             "de": "22 %"
@@ -392,7 +383,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children1": {
           "content": {
-            "en": "Пол",
+            "ru": "Пол",
             "es": "Género",
             "fr": "Sexe",
             "de": "Geschlecht"
@@ -401,7 +392,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children1": {
           "content": {
-            "en": "Мужчины",
+            "ru": "Мужчины",
             "es": "Hombres",
             "fr": "Hommes",
             "de": "Männer"
@@ -410,7 +401,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children3": {
           "content": {
-            "en": "69 %",
+            "ru": "69 %",
             "es": "69 %",
             "fr": "69 %",
             "de": "69 %"
@@ -419,7 +410,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children1": {
           "content": {
-            "en": "Женщины",
+            "ru": "Женщины",
             "es": "Mujeres",
             "fr": "Femmes",
             "de": "Frauen"
@@ -428,7 +419,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children3": {
           "content": {
-            "en": "31 %",
+            "ru": "31 %",
             "es": "31 %",
             "fr": "31 %",
             "de": "31 %"
@@ -437,7 +428,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children1": {
           "content": {
-            "en": "Возраст",
+            "ru": "Возраст",
             "es": "Edad",
             "fr": "Âge",
             "de": "Alter"
@@ -446,7 +437,7 @@
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children3/children1/children1": {
           "content": {
-            "en": "25+",
+            "ru": "25+",
             "es": "25+",
             "fr": "25+",
             "de": "25+"
@@ -455,17 +446,17 @@
         },
         "program/body2/declaration/body/body7/argument/children19/children1/children1/children1": {
           "content": {
-            "en": "Подробная статистика",
+            "ru": "Подробная статистика",
             "es": "Estadísticas detalladas",
             "fr": "Statistiques détaillées",
-            "de": "Detaillierte Statistiken"
+            "de": "Detaillierte Statistik"
           },
           "hash": "dad6f81abe0d432860d0304b4c129ec2"
         },
         "program/body2/declaration/body/body7/argument/children19/children1/children1/children3": {
           "content": {
-            "en": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики.",
-            "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras se basan en datos analíticos reales.",
+            "ru": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики.",
+            "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras están basadas en datos analíticos reales.",
             "fr": "Les captures d'écran de YouTube Studio confirment les statistiques de la chaîne et inspirent confiance.\nTous les chiffres sont basés sur des données analytiques réelles.",
             "de": "Screenshots aus YouTube Studio bestätigen die Kanalstatistiken und schaffen Vertrauen. Alle Zahlen basieren auf realen Analysedaten."
           },
@@ -473,7 +464,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children1": {
           "content": {
-            "en": "Дополнительные услуги",
+            "ru": "Дополнительные услуги",
             "es": "Servicios adicionales",
             "fr": "Services supplémentaires",
             "de": "Zusätzliche Dienstleistungen"
@@ -482,7 +473,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children1": {
           "content": {
-            "en": "Прямая интеграция в видео",
+            "ru": "Прямая интеграция в видео",
             "es": "Integración directa en el video",
             "fr": "Intégration directe dans la vidéo",
             "de": "Direkte Integration ins Video"
@@ -491,16 +482,16 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children3": {
           "content": {
-            "en": "Упоминание продукта в основном видео",
+            "ru": "Упоминание продукта в основном видео",
             "es": "Mención del producto en el video principal",
             "fr": "Mention du produit dans la vidéo principale",
-            "de": "Erwähnung des Produkts im Hauptvideo"
+            "de": "Produkterwähnung im Hauptvideo"
           },
           "hash": "08924c6d7933855c950f3bb74e234e75"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children1": {
           "content": {
-            "en": "Формат",
+            "ru": "Формат",
             "es": "Formato",
             "fr": "Format",
             "de": "Format"
@@ -509,7 +500,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children3": {
           "content": {
-            "en": "30–90 секунд",
+            "ru": "30–90 секунд",
             "es": "30–90 segundos",
             "fr": "30–90 secondes",
             "de": "30–90 Sekunden"
@@ -518,7 +509,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children1": {
           "content": {
-            "en": "Пример",
+            "ru": "Пример",
             "es": "Ejemplo",
             "fr": "Exemple",
             "de": "Beispiel"
@@ -527,34 +518,34 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children3": {
           "content": {
-            "en": "«Сегодня я пользуюсь X, и вот почему…»",
+            "ru": "«Сегодня я пользуюсь X, и вот почему…»",
             "es": "«Hoy estoy usando X, y estas son las razones...»",
-            "fr": "« Aujourd'hui j'utilise X, et voici pourquoi... »",
-            "de": "\"Heute benutze ich X, und hier ist der Grund...\""
+            "fr": "«Aujourd'hui j'utilise X, et voici pourquoi...»",
+            "de": "\"Heute benutze ich X, und hier ist der Grund dafür...\""
           },
           "hash": "5c2830ec1bfab285e20977754ddd33fb"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children1": {
           "content": {
-            "en": "Product placement",
-            "es": "Emplazamiento de producto",
+            "ru": "Product placement",
+            "es": "Product placement",
             "fr": "Placement de produit",
-            "de": "Produktplatzierung"
+            "de": "Product Placement"
           },
           "hash": "e005bba07c44b68cd7d35669856dc39d"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children3": {
           "content": {
-            "en": "Нативное размещение продукта в кадре",
+            "ru": "Нативное размещение продукта в кадре",
             "es": "Colocación nativa del producto en escena",
-            "fr": "Placement de produit natif dans le cadre",
+            "fr": "Placement natif du produit dans le cadre",
             "de": "Native Produktplatzierung im Bild"
           },
           "hash": "4aae658ccf41eced3314b2f1955f27f0"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children1": {
           "content": {
-            "en": "Формат",
+            "ru": "Формат",
             "es": "Formato",
             "fr": "Format",
             "de": "Format"
@@ -563,8 +554,8 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children3": {
           "content": {
-            "en": "Без прямой речи",
-            "es": "Sin mención directa",
+            "ru": "Без прямой речи",
+            "es": "Sin diálogo directo",
             "fr": "Sans discours direct",
             "de": "Ohne direkte Rede"
           },
@@ -572,7 +563,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children1": {
           "content": {
-            "en": "Пример",
+            "ru": "Пример",
             "es": "Ejemplo",
             "fr": "Exemple",
             "de": "Beispiel"
@@ -581,26 +572,26 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children3": {
           "content": {
-            "en": "Продукт стоит на фоне, используется в сцене",
-            "es": "El producto aparece en el fondo, se utiliza en la escena",
+            "ru": "Продукт стоит на фоне, используется в сцене",
+            "es": "El producto está en el fondo, se utiliza en la escena",
             "fr": "Le produit est en arrière-plan, utilisé dans la scène",
-            "de": "Das Produkt steht im Hintergrund und wird in der Szene verwendet"
+            "de": "Produkt steht im Hintergrund, wird in der Szene verwendet"
           },
           "hash": "9d4e85f5e3bbb5c8c8497a47c2c96cc8"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children1": {
           "content": {
-            "en": "Интро / аутро вставка",
+            "ru": "Интро / аутро вставка",
             "es": "Inserción de intro/outro",
-            "fr": "Insertion intro / outro",
-            "de": "Intro / Outro Einspieler"
+            "fr": "Insert intro/outro",
+            "de": "Intro / Outro Einblendung"
           },
           "hash": "7568036cd970374215bc9c90b7397cf3"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children3": {
           "content": {
-            "en": "Короткий спонсорский блок в начале или конце",
-            "es": "Breve bloque patrocinado al principio o al final",
+            "ru": "Короткий спонсорский блок в начале или конце",
+            "es": "Breve bloque de patrocinio al principio o al final",
             "fr": "Court segment sponsorisé au début ou à la fin",
             "de": "Kurzer Sponsorenblock am Anfang oder Ende"
           },
@@ -608,7 +599,7 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children1": {
           "content": {
-            "en": "Формат",
+            "ru": "Формат",
             "es": "Formato",
             "fr": "Format",
             "de": "Format"
@@ -617,16 +608,16 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children3": {
           "content": {
-            "en": "5–15 секунд",
+            "ru": "5–15 секунд",
             "es": "5-15 segundos",
             "fr": "5 à 15 secondes",
-            "de": "5-15 Sekunden"
+            "de": "5–15 Sekunden"
           },
           "hash": "17e6808a05a1787ef1674926d5b52ed4"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children1": {
           "content": {
-            "en": "Пример",
+            "ru": "Пример",
             "es": "Ejemplo",
             "fr": "Exemple",
             "de": "Beispiel"
@@ -635,16 +626,16 @@
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children3": {
           "content": {
-            "en": "«Ролик создан при поддержке…»",
-            "es": "«Vídeo creado con el apoyo de...»",
-            "fr": "« Vidéo créée avec le soutien de... »",
-            "de": "«Das Video wurde erstellt mit Unterstützung von…»"
+            "ru": "«Ролик создан при поддержке…»",
+            "es": "«El video fue creado con el apoyo de...»",
+            "fr": "«Vidéo créée avec le soutien de...»",
+            "de": "„Video erstellt mit Unterstützung von..."
           },
           "hash": "0882f28bb6f4d23f4134d3ce5c0a5e96"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children1": {
           "content": {
-            "en": "Связаться с нами",
+            "ru": "Связаться с нами",
             "es": "Contacta con nosotros",
             "fr": "Nous contacter",
             "de": "Kontaktieren Sie uns"
@@ -653,16 +644,16 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children3": {
           "content": {
-            "en": "Готовы обсудить сотрудничество? Выберите удобный способ связи",
-            "es": "¿Listo para hablar sobre una colaboración? Elige tu método de contacto preferido",
+            "ru": "Готовы обсудить сотрудничество? Выберите удобный способ связи",
+            "es": "¿Listo para hablar sobre una colaboración? Elige el método de contacto que prefieras",
             "fr": "Prêt à discuter d'une collaboration ? Choisissez votre moyen de contact préféré",
-            "de": "Bereit, eine Zusammenarbeit zu besprechen? Wählen Sie Ihre bevorzugte Kontaktmethode"
+            "de": "Bereit für eine Zusammenarbeit? Wählen Sie Ihre bevorzugte Kontaktmethode"
           },
           "hash": "8a132ab188d263564ff09b197999e198"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children1": {
           "content": {
-            "en": "💬",
+            "ru": "💬",
             "es": "💬",
             "fr": "💬",
             "de": "💬"
@@ -671,7 +662,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children3": {
           "content": {
-            "en": "WhatsApp",
+            "ru": "WhatsApp",
             "es": "WhatsApp",
             "fr": "WhatsApp",
             "de": "WhatsApp"
@@ -680,7 +671,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children5": {
           "content": {
-            "en": "+37495051893",
+            "ru": "+37495051893",
             "es": "+37495051893",
             "fr": "+37495051893",
             "de": "+37495051893"
@@ -689,7 +680,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children1": {
           "content": {
-            "en": "✉️",
+            "ru": "✉️",
             "es": "✉️",
             "fr": "✉️",
             "de": "✉️"
@@ -698,16 +689,16 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children3": {
           "content": {
-            "en": "Email",
-            "es": "Correo electrónico",
-            "fr": "E-mail",
+            "ru": "Email",
+            "es": "Email",
+            "fr": "Email",
             "de": "E-Mail"
           },
           "hash": "ce8ae9da5b7cd6c3df2929543a9af92d"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children5": {
           "content": {
-            "en": "anastasia@faertag.com",
+            "ru": "anastasia@faertag.com",
             "es": "anastasia@faertag.com",
             "fr": "anastasia@faertag.com",
             "de": "anastasia@faertag.com"
@@ -716,7 +707,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children1": {
           "content": {
-            "en": "✈️",
+            "ru": "✈️",
             "es": "✈️",
             "fr": "✈️",
             "de": "✈️"
@@ -725,7 +716,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children3": {
           "content": {
-            "en": "Telegram",
+            "ru": "Telegram",
             "es": "Telegram",
             "fr": "Telegram",
             "de": "Telegram"
@@ -734,7 +725,7 @@
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children5": {
           "content": {
-            "en": "psych_faertag",
+            "ru": "psych_faertag",
             "es": "psych_faertag",
             "fr": "psych_faertag",
             "de": "psych_faertag"
@@ -743,7 +734,7 @@
         },
         "program/body2/declaration/body/body7/argument/children31/children1": {
           "content": {
-            "en": "©FAERTAG IN. Все права защищены.",
+            "ru": "©FAERTAG IN. Все права защищены.",
             "es": "©FAERTAG IN. Todos los derechos reservados.",
             "fr": "©FAERTAG IN. Tous droits réservés.",
             "de": "©FAERTAG IN. Alle Rechte vorbehalten."

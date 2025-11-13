@@ -9,7 +9,7 @@
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "<element:span>257 тысяч зрителей</element:span>ждут Вашу историю"
+          "content": "<element:span></element:span> ждут Вашу историю"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
           "type": "element",

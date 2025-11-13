@@ -6,738 +6,902 @@
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
           "content": {
             "ru": "<element:span></element:span> ждут Вашу историю",
-            "es": "<element:span></element:span> esperan tu historia",
+            "en": "<element:span></element:span> are waiting for your story",
+            "am": "<element:span></element:span> የእርስዎን ታሪክ ይጠብቃሉ",
+            "de": "<element:span></element:span> warten auf Ihre Geschichte",
             "fr": "<element:span></element:span> attendent votre histoire",
-            "de": "<element:span></element:span> warten auf Ihre Geschichte"
+            "es": "<element:span></element:span> esperan tu historia"
           },
           "hash": "c53ce4e217de22c08b0251835354820e"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
           "content": {
             "ru": "257 тысяч зрителей",
-            "es": "257 mil espectadores",
+            "en": "257 thousand viewers",
+            "am": "257 ሺህ ተመልካቾች",
+            "de": "257 Tausend Zuschauer",
             "fr": "257 mille spectateurs",
-            "de": "257 Tausend Zuschauer"
+            "es": "257 mil espectadores"
           },
           "hash": "d9a8afa0970d3f08fd2d83279c959f75"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
           "content": {
             "ru": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
-            "es": "Videos de colaboración e integraciones en el <element:a>canal de YouTube FAERTAG IN 🇦🇲</element:a>",
+            "en": "Partnership videos and integrations on <element:a>FAERTAG IN 🇦🇲 YouTube channel</element:a>",
+            "am": "የሽርክና ቪዲዮዎች እና ውህደቶች በ<element:a>የFAERTAG IN 🇦🇲 ዩቲዩብ ቻናል</element:a>",
+            "de": "Partnervideos und Integrationen auf dem <element:a>YouTube-Kanal FAERTAG IN 🇦🇲</element:a>",
             "fr": "Vidéos partenaires et intégrations sur la <element:a>chaîne YouTube FAERTAG IN 🇦🇲</element:a>",
-            "de": "Partnervideos und Integrationen auf dem <element:a>YouTube-Kanal FAERTAG IN 🇦🇲</element:a>"
+            "es": "Videos de colaboración e integraciones en el <element:a>canal de YouTube FAERTAG IN 🇦🇲</element:a>"
           },
           "hash": "981ca216ee6ab923ca9b4c1dc5042f31"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children3": {
           "content": {
             "ru": "YouTube-канале FAERTAG IN 🇦🇲",
-            "es": "canal de YouTube FAERTAG IN 🇦🇲",
+            "en": "FAERTAG IN 🇦🇲 YouTube channel",
+            "am": "የFAERTAG IN 🇦🇲 ዩቲዩብ ቻናል",
+            "de": "YouTube-Kanal FAERTAG IN 🇦🇲",
             "fr": "chaîne YouTube FAERTAG IN 🇦🇲",
-            "de": "YouTube-Kanal FAERTAG IN 🇦🇲"
+            "es": "canal de YouTube FAERTAG IN 🇦🇲"
           },
           "hash": "e762460e745a87e7c446d3c8b4f0ff32"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children5": {
           "content": {
             "ru": "Начать сотрудничество",
-            "es": "Comenzar colaboración",
+            "en": "Start collaboration",
+            "am": "ትብብር ይጀምሩ",
+            "de": "Zusammenarbeit beginnen",
             "fr": "Commencer la collaboration",
-            "de": "Zusammenarbeit beginnen"
+            "es": "Comenzar colaboración"
           },
           "hash": "4077035c1283e83a91a2cdca2bc1c915"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children1": {
           "content": {
             "ru": "10 000+",
-            "es": "10.000+",
+            "en": "10,000+",
+            "am": "10,000+",
+            "de": "10.000+",
             "fr": "10 000+",
-            "de": "10.000+"
+            "es": "10.000+"
           },
           "hash": "4a6be9a28067aeadd53f0e11a3f17197"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children3": {
           "content": {
             "ru": "подписчиков",
-            "es": "suscriptores",
+            "en": "subscribers",
+            "am": "ደንበኞች",
+            "de": "Abonnenten",
             "fr": "abonnés",
-            "de": "Abonnenten"
+            "es": "suscriptores"
           },
           "hash": "ba399afc55a69e58289230e64d3125bc"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children1": {
           "content": {
             "ru": "1,6 млн",
-            "es": "1,6 millones",
+            "en": "1.6 million",
+            "am": "1.6 ሚሊዮን",
+            "de": "1,6 Mio.",
             "fr": "1,6 million",
-            "de": "1,6 Mio."
+            "es": "1,6 millones"
           },
           "hash": "9c4d4e98ac0010a94ac397efc957af2d"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children3": {
           "content": {
             "ru": "просмотров за 28 дней",
-            "es": "de visualizaciones en 28 días",
+            "en": "views in 28 days",
+            "am": "በ28 ቀናት ውስጥ የታዩ",
+            "de": "Aufrufe in 28 Tagen",
             "fr": "de vues en 28 jours",
-            "de": "Aufrufe in 28 Tagen"
+            "es": "de visualizaciones en 28 días"
           },
           "hash": "3caecbcb3a4f2d61f4c8e00f015f86be"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children1": {
           "content": {
             "ru": "257 000",
-            "es": "257.000",
+            "en": "257,000",
+            "am": "257,000",
+            "de": "257.000",
             "fr": "257 000",
-            "de": "257.000"
+            "es": "257.000"
           },
           "hash": "669d042e9fe77edc75852cba69ee38fe"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children3": {
           "content": {
             "ru": "уникальных зрителей",
-            "es": "espectadores únicos",
+            "en": "unique viewers",
+            "am": "ልዩ ተመልካቾች",
+            "de": "einzigartige Zuschauer",
             "fr": "spectateurs uniques",
-            "de": "einzigartige Zuschauer"
+            "es": "espectadores únicos"
           },
           "hash": "dd8ecbfd85b39d0f6ce7fb9f6c21ccbc"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children1": {
           "content": {
             "ru": "44 %",
-            "es": "44 %",
+            "en": "44%",
+            "am": "44%",
+            "de": "44 %",
             "fr": "44 %",
-            "de": "44 %"
+            "es": "44 %"
           },
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children3": {
           "content": {
             "ru": "просмотров из 🇦🇲",
-            "es": "de visualizaciones desde 🇦🇲",
+            "en": "views from 🇦🇲",
+            "am": "ከ🇦🇲 የሚመጡ ተመልካቾች",
+            "de": "Aufrufe aus 🇦🇲",
             "fr": "de vues depuis 🇦🇲",
-            "de": "Aufrufe aus 🇦🇲"
+            "es": "de visualizaciones desde 🇦🇲"
           },
           "hash": "33ff069a251f8c7962256831be79c014"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children3/children1/children3": {
           "content": {
             "ru": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐",
-            "es": "⭐ LA OFERTA MÁS VALIOSA ⭐",
+            "en": "⭐ MOST VALUABLE OFFER ⭐",
+            "am": "⭐ ከሁሉም የላቀ ዋጋ ያለው ሀሳብ ⭐",
+            "de": "⭐ DAS WERTVOLLSTE ANGEBOT ⭐",
             "fr": "⭐ OFFRE LA PLUS PRÉCIEUSE ⭐",
-            "de": "⭐ DAS WERTVOLLSTE ANGEBOT ⭐"
+            "es": "⭐ LA OFERTA MÁS VALIOSA ⭐"
           },
           "hash": "9f737970ab245710e48b03547cfcab14"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children5/children1": {
           "content": {
             "ru": "Специальный выпуск",
-            "es": "Episodio especial",
+            "en": "Special episode",
+            "am": "ልዩ ዕትም",
+            "de": "Spezialausgabe",
             "fr": "Épisode spécial",
-            "de": "Spezialausgabe"
+            "es": "Episodio especial"
           },
           "hash": "0580da59285b21effb4858897a5ea8f7"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children5/children3": {
           "content": {
             "ru": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.",
-            "es": "Un video completo dedicado exclusivamente a tu marca, producto o campaña.\n              Creado en el estilo del canal para que sea percibido de manera orgánica por la audiencia y genere confianza.",
+            "en": "A full-featured video completely dedicated to your brand, product, or campaign.\nCreated in the channel's style to be organically perceived by the audience and build trust.",
+            "am": "ሙሉ በሙሉ ለብራንድ፣ ለምርት ወይም ለዘመቻ የተዘጋጀ ሙሉ ቪዲዮ።\n              በቻናሉ ዘይቤ የተዘጋጀ ሲሆን ለተመልካቾች በተፈጥሮአዊ መንገድ እንዲደርስ እና እምነት እንዲፈጥር ተደርጎ የተዘጋጀ ነው።",
+            "de": "Ein vollwertiges Video, das komplett einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es vom Publikum organisch wahrgenommen wird und Vertrauen weckt.",
             "fr": "Une vidéo complète entièrement dédiée à votre marque, produit ou campagne.\nCréée dans le style de la chaîne pour être perçue de manière organique par l'audience et inspirer confiance.",
-            "de": "Ein vollwertiges Video, das komplett einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es vom Publikum organisch wahrgenommen wird und Vertrauen weckt."
+            "es": "Un video completo dedicado exclusivamente a tu marca, producto o campaña.\n              Creado en el estilo del canal para que sea percibido de manera orgánica por la audiencia y genere confianza."
           },
           "hash": "aae6459237efbae27a58eebfa65df08a"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children1": {
           "content": {
             "ru": "Что включено",
-            "es": "Qué incluye",
+            "en": "What's included",
+            "am": "የሚካተቱት",
+            "de": "Was enthalten ist",
             "fr": "Ce qui est inclus",
-            "de": "Was enthalten ist"
+            "es": "Qué incluye"
           },
           "hash": "9d0d9fd8806e980239dafd3c2e376112"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children1": {
           "content": {
             "ru": "1",
-            "es": "1",
+            "en": "1",
+            "am": "1",
+            "de": "1",
             "fr": "1",
-            "de": "1"
+            "es": "1"
           },
           "hash": "c4ca4238a0b923820dcc509a6f75849b"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children1": {
           "content": {
             "ru": "Концепт и сценарий",
-            "es": "Concepto y guion",
+            "en": "Concept and script",
+            "am": "ጽንሰ-ሀሳብ እና ስክሪፕት",
+            "de": "Konzept und Drehbuch",
             "fr": "Concept et scénario",
-            "de": "Konzept und Drehbuch"
+            "es": "Concepto y guion"
           },
           "hash": "52a17e1c1486509bed520bd54e52b8f6"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children3": {
           "content": {
             "ru": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).",
-            "es": "Desarrollo de la idea del video, creatividad y guion en colaboración con la marca. Posibilidad de adaptar el producto al contenido del blogger (historia, desafío, experimento, etc.).",
+            "en": "Development of the video idea, creative approach, and script in collaboration with the brand. Possibility to adapt the product to the blogger's content (story, challenge, experiment, etc.).",
+            "am": "ከብራንዱ ጋር በመተባበር የቪዲዮ ሀሳብ፣ ፈጠራዊ ይዘት እና ስክሪፕት ማዘጋጀት። ምርቱን ከብሎገሩ ይዘት ጋር የማዋሃድ እድል (ታሪክ፣ ፈተና፣ ሙከራ ወዘተ)።",
+            "de": "Entwicklung der Videoidee, des Kreativkonzepts und des Drehbuchs gemeinsam mit der Marke. Möglichkeit, das Produkt an den Content des Bloggers anzupassen (Geschichte, Challenge, Experiment usw.).",
             "fr": "Développement de l'idée de la vidéo, du concept créatif et du scénario en collaboration avec la marque. Possibilité d'adapter le produit au contenu du blogueur (histoire, challenge, expérience, etc.).",
-            "de": "Entwicklung der Videoidee, des Kreativkonzepts und des Drehbuchs gemeinsam mit der Marke. Möglichkeit, das Produkt an den Content des Bloggers anzupassen (Geschichte, Challenge, Experiment usw.)."
+            "es": "Desarrollo de la idea del video, creatividad y guion en colaboración con la marca. Posibilidad de adaptar el producto al contenido del blogger (historia, desafío, experimento, etc.)."
           },
           "hash": "9530304be666ab969e9d6d3f8cbff755"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children1": {
           "content": {
             "ru": "2",
-            "es": "2",
+            "en": "2",
+            "am": "2",
+            "de": "2",
             "fr": "2",
-            "de": "2"
+            "es": "2"
           },
           "hash": "c81e728d9d4c2f636f067f89cc14862c"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children1": {
           "content": {
             "ru": "Съёмка и продакшн",
-            "es": "Grabación y producción",
+            "en": "Filming and Production",
+            "am": "ቀረጻና ፕሮዳክሽን",
+            "de": "Aufnahme und Produktion",
             "fr": "Tournage et production",
-            "de": "Aufnahme und Produktion"
+            "es": "Grabación y producción"
           },
           "hash": "e35ae825ffae8fcd71a8b8d24cfd1b29"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children3": {
           "content": {
             "ru": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.",
-            "es": "Producción completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido.",
+            "en": "Full-scale video production in the channel's style: staging, editing, color correction, graphics, sound.",
+            "am": "የቻናሉን ስታይል የሚከተል ሙሉ የቪዲዮ ቀረጻ፡ ዝግጅት፣ አርትኦት፣ የቀለም ማስተካከያ፣ ግራፊክስ፣ ድምፅ።",
+            "de": "Vollständige Videoproduktion im Kanalstil: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton.",
             "fr": "Production vidéo complète dans le style de la chaîne : mise en scène, montage, étalonnage, graphisme, son.",
-            "de": "Vollständige Videoproduktion im Kanalstil: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton."
+            "es": "Producción completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido."
           },
           "hash": "332e1f5b9eb3e97b8975af17fc440d9a"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children1": {
           "content": {
             "ru": "3",
-            "es": "3",
+            "en": "3",
+            "am": "3",
+            "de": "3",
             "fr": "3",
-            "de": "3"
+            "es": "3"
           },
           "hash": "eccbc87e4b5ce2fe28308fd9f2a7baf3"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children1": {
           "content": {
             "ru": "Полное упоминание бренда",
-            "es": "Mención completa de la marca",
+            "en": "Complete Brand Mention",
+            "am": "ሙሉ የብራንድ ማጠቃለያ",
+            "de": "Vollständige Markennennung",
             "fr": "Mention complète de la marque",
-            "de": "Vollständige Markennennung"
+            "es": "Mención completa de la marca"
           },
           "hash": "b146fb3d4f460f03b94d49e55cf5888d"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children3": {
           "content": {
             "ru": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.",
-            "es": "Integración durante todo el video: logotipo, producto, mensajes clave, demostración de ventajas.",
+            "en": "Integration throughout the entire video: logo, product, key messages, demonstration of benefits.",
+            "am": "በመላው ቪዲዮ ውስጥ ውህደት፡ ሎጎ፣ ምርት፣ ቁልፍ መልዕክቶች፣ የጥቅሞች ማሳያ።",
+            "de": "Integration während des gesamten Videos: Logo, Produkt, Kernbotschaften, Demonstration der Vorteile.",
             "fr": "Intégration tout au long de la vidéo : logo, produit, messages clés, démonstration des avantages.",
-            "de": "Integration während des gesamten Videos: Logo, Produkt, Kernbotschaften, Demonstration der Vorteile."
+            "es": "Integración durante todo el video: logotipo, producto, mensajes clave, demostración de ventajas."
           },
           "hash": "9e87d68279631fdfdd69a1e7aea0872d"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children1": {
           "content": {
             "ru": "4",
-            "es": "4",
+            "en": "4",
+            "am": "4",
+            "de": "4",
             "fr": "4",
-            "de": "4"
+            "es": "4"
           },
           "hash": "a87ff679a2f3e71d9181a67b7542122c"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children1": {
           "content": {
             "ru": "Размещение и продвижение",
-            "es": "Publicación y promoción",
+            "en": "Placement and Promotion",
+            "am": "ማስተዋወቅና ማስፋፋት",
+            "de": "Veröffentlichung und Promotion",
             "fr": "Publication et promotion",
-            "de": "Veröffentlichung und Promotion"
+            "es": "Publicación y promoción"
           },
           "hash": "ecd632cdae65d90b5eaa9f0dca255f8c"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children3": {
           "content": {
             "ru": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.",
-            "es": "Publicación en el canal principal de YouTube con enlace fijado en la descripción y en el primer comentario. Opcionalmente - publicación en la comunidad de YouTube o historias en otras redes sociales.",
+            "en": "Publication on the main YouTube channel with a pinned link in the description and first comment. Optionally - a post in the YouTube community or stories on other social networks.",
+            "am": "በዋናው የዩቲዩብ ቻናል ላይ ማሳተም፣ በማብራሪያው እና በመጀመሪያው አስተያየት ውስጥ የተሰካ ሊንክ ማካተት። አማራጭ - በዩቲዩብ ኮሚዩኒቲ ላይ ወይም በሌሎች ማህበራዊ ሚዲያዎች ላይ ስቶሪዎችን ማድረግ።",
+            "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – ein Beitrag in der YouTube-Community oder Stories in anderen sozialen Netzwerken.",
             "fr": "Publication sur la chaîne YouTube principale avec lien épinglé dans la description et premier commentaire. En option - post dans la communauté YouTube ou stories sur d'autres réseaux sociaux.",
-            "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – ein Beitrag in der YouTube-Community oder Stories in anderen sozialen Netzwerken."
+            "es": "Publicación en el canal principal de YouTube con enlace fijado en la descripción y en el primer comentario. Opcionalmente - publicación en la comunidad de YouTube o historias en otras redes sociales."
           },
           "hash": "f381326140c4bbd7f5245a1fbe79390f"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children1": {
           "content": {
             "ru": "5",
-            "es": "5",
+            "en": "5",
+            "am": "5",
+            "de": "5",
             "fr": "5",
-            "de": "5"
+            "es": "5"
           },
           "hash": "e4da3b7fbbce2345d7772b0674a318d5"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children1": {
           "content": {
             "ru": "Отчётность",
-            "es": "Informes",
+            "en": "Reporting",
+            "am": "ሪፖርት ማድረግ",
+            "de": "Berichterstattung",
             "fr": "Rapports",
-            "de": "Berichterstattung"
+            "es": "Informes"
           },
           "hash": "1a6d2e076f1aacf13bd7216e05e63f42"
         },
         "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children3": {
           "content": {
             "ru": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.",
-            "es": "Presentación de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement.",
+            "en": "Providing statistics after 7 and 30 days: views, retention, link clicks, engagement.",
+            "am": "ከ7 እና ከ30 ቀናት በኋላ የስታቲስቲክስ ማቅረብ፡ ዕይታዎች፣ የተመልካች ቆይታ፣ በሊንኮች ላይ ጠቅታዎች፣ ተሳትፎ።",
+            "de": "Bereitstellung von Statistiken nach 7 und 30 Tagen: Aufrufe, Verweildauer, Klicks auf Links, Engagement.",
             "fr": "Fourniture de statistiques après 7 et 30 jours : vues, rétention, clics sur les liens, engagement.",
-            "de": "Bereitstellung von Statistiken nach 7 und 30 Tagen: Aufrufe, Verweildauer, Klicks auf Links, Engagement."
+            "es": "Presentación de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement."
           },
           "hash": "0ce9b712d57176288b2152066df18475"
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children1": {
           "content": {
             "ru": "Обо мне",
-            "es": "Sobre mí",
+            "en": "About Me",
+            "am": "ስለ እኔ",
+            "de": "Über mich",
             "fr": "À propos de moi",
-            "de": "Über mich"
+            "es": "Sobre mí"
           },
           "hash": "cdc68bea105589853f2f508909596257"
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children1": {
           "content": {
             "ru": "Меня зовут Анастасия Фаертаг.",
-            "es": "Me llamo Anastasia Faertag.",
+            "en": "My name is Anastasia Faertag.",
+            "am": "ስሜ አናስታሲያ ፋኤርታግ ነው።",
+            "de": "Mein Name ist Anastasia Faertag.",
             "fr": "Je m'appelle Anastasia Faertag.",
-            "de": "Mein Name ist Anastasia Faertag."
+            "es": "Me llamo Anastasia Faertag."
           },
           "hash": "4769a0f51d9a692d769ea22a12929565"
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children3": {
           "content": {
             "ru": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.",
-            "es": "Llevo tres años viviendo en Armenia y compartiendo mi vida aquí en YouTube.",
+            "en": "For three years now, I've been living in Armenia and sharing my life here on YouTube.",
+            "am": "ለሶስት ዓመታት በአርሜኒያ ኖሬያለሁ፣ በዩቲዩብ ላይም እዚህ ያለኝን ሕይወት እየጋራሁ ነው።",
+            "de": "Seit drei Jahren lebe ich in Armenien und teile mein Leben hier auf YouTube.",
             "fr": "Cela fait déjà trois ans que je vis en Arménie et que je partage ma vie ici sur YouTube.",
-            "de": "Seit drei Jahren lebe ich in Armenien und teile mein Leben hier auf YouTube."
+            "es": "Llevo tres años viviendo en Armenia y compartiendo mi vida aquí en YouTube."
           },
           "hash": "973488ed655fd63b0e258e0c35651a50"
         },
         "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children5": {
           "content": {
             "ru": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.",
-            "es": "En mis videos hablo sobre la gente, la cultura y las historias inspiradoras de este increíble país, desde la perspectiva de alguien que simplemente decidió quedarse a vivir aquí.",
+            "en": "In my videos, I talk about the people, culture, and inspiring stories of this amazing country - through the eyes of someone who once simply decided to stay and live here.",
+            "am": "በቪዲዮዎቼ ውስጥ፣ ስለዚህ አስደናቂ ሀገር ሰዎች፣ ባህል እና አነሳሽ ታሪኮች አወራለሁ - አንድ ጊዜ እዚህ መኖር ወስኖ የቆየ ሰው እይታ።",
+            "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und inspirierende Geschichten dieses erstaunlichen Landes – aus der Perspektive einer Person, die sich einst entschied, hier zu leben.",
             "fr": "Dans mes vidéos, je raconte les gens, la culture et les histoires inspirantes de ce pays étonnant - à travers les yeux de quelqu'un qui a simplement décidé d'y vivre.",
-            "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und inspirierende Geschichten dieses erstaunlichen Landes – aus der Perspektive einer Person, die sich einst entschied, hier zu leben."
+            "es": "En mis videos hablo sobre la gente, la cultura y las historias inspiradoras de este increíble país, desde la perspectiva de alguien que simplemente decidió quedarse a vivir aquí."
           },
           "hash": "0248b21d24caa3b9a16da25761ddd25c"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children1": {
           "content": {
             "ru": "Основная аудитория",
-            "es": "Audiencia principal",
+            "en": "Main Audience",
+            "am": "ዋና ታዳሚ",
+            "de": "Hauptzielgruppe",
             "fr": "Audience principale",
-            "de": "Hauptzielgruppe"
+            "es": "Audiencia principal"
           },
           "hash": "0db361f861312c9aea45346f04943e4c"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children1": {
           "content": {
             "ru": "География",
-            "es": "Geografía",
+            "en": "Geography",
+            "am": "ጂኦግራፊ",
+            "de": "Geografie",
             "fr": "Géographie",
-            "de": "Geografie"
+            "es": "Geografía"
           },
           "hash": "79b6dc939ec525454973749d1b848f59"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children1": {
           "content": {
             "ru": "🇦🇲 Армения",
-            "es": "🇦🇲 Armenia",
+            "en": "🇦🇲 Armenia",
+            "am": "🇦🇲 አርሜኒያ",
+            "de": "🇦🇲 Armenien",
             "fr": "🇦🇲 Arménie",
-            "de": "🇦🇲 Armenien"
+            "es": "🇦🇲 Armenia"
           },
           "hash": "937ce309b9670a3708b975e62654dee0"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children3": {
           "content": {
             "ru": "44 %",
-            "es": "44 %",
+            "en": "44%",
+            "am": "44%",
+            "de": "44 %",
             "fr": "44 %",
-            "de": "44 %"
+            "es": "44 %"
           },
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children1": {
           "content": {
             "ru": "🇷🇺 Россия",
-            "es": "🇷🇺 Rusia",
+            "en": "🇷🇺 Russia",
+            "am": "🇷🇺 ሩሲያ",
+            "de": "🇷🇺 Russland",
             "fr": "🇷🇺 Russie",
-            "de": "🇷🇺 Russland"
+            "es": "🇷🇺 Rusia"
           },
           "hash": "c5b7b93d54bb3f612c2f8c8b03cc9585"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children3": {
           "content": {
             "ru": "22 %",
-            "es": "22 %",
+            "en": "22 %",
+            "am": "22 %",
+            "de": "22 %",
             "fr": "22 %",
-            "de": "22 %"
+            "es": "22 %"
           },
           "hash": "24ed4d0fdf63f339ac47ca120b458aeb"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children1": {
           "content": {
             "ru": "Пол",
-            "es": "Género",
+            "en": "Gender",
+            "am": "ፆታ",
+            "de": "Geschlecht",
             "fr": "Sexe",
-            "de": "Geschlecht"
+            "es": "Género"
           },
           "hash": "516d25013f4f610460dba92134652f76"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children1": {
           "content": {
             "ru": "Мужчины",
-            "es": "Hombres",
+            "en": "Men",
+            "am": "ወንዶች",
+            "de": "Männer",
             "fr": "Hommes",
-            "de": "Männer"
+            "es": "Hombres"
           },
           "hash": "b3e37d5b60ced2930a609af6cda24350"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children3": {
           "content": {
             "ru": "69 %",
-            "es": "69 %",
+            "en": "69 %",
+            "am": "69 %",
+            "de": "69 %",
             "fr": "69 %",
-            "de": "69 %"
+            "es": "69 %"
           },
           "hash": "8f0a7be86df8a8f8cb382d0febb1a681"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children1": {
           "content": {
             "ru": "Женщины",
-            "es": "Mujeres",
+            "en": "Women",
+            "am": "ሴቶች",
+            "de": "Frauen",
             "fr": "Femmes",
-            "de": "Frauen"
+            "es": "Mujeres"
           },
           "hash": "7916588508db9a8f0e51b10767511499"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children3": {
           "content": {
             "ru": "31 %",
-            "es": "31 %",
+            "en": "31 %",
+            "am": "31 %",
+            "de": "31 %",
             "fr": "31 %",
-            "de": "31 %"
+            "es": "31 %"
           },
           "hash": "46bb5b3f8ddc24087893c43ed7732ba2"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children1": {
           "content": {
             "ru": "Возраст",
-            "es": "Edad",
+            "en": "Age",
+            "am": "እድሜ",
+            "de": "Alter",
             "fr": "Âge",
-            "de": "Alter"
+            "es": "Edad"
           },
           "hash": "00870b4106645ad3ade4f09812f60516"
         },
         "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children3/children1/children1": {
           "content": {
             "ru": "25+",
-            "es": "25+",
+            "en": "25+",
+            "am": "25+",
+            "de": "25+",
             "fr": "25+",
-            "de": "25+"
+            "es": "25+"
           },
           "hash": "c77ccc21397d66cd4e968049ce830c8c"
         },
         "program/body2/declaration/body/body7/argument/children19/children1/children1/children1": {
           "content": {
             "ru": "Подробная статистика",
-            "es": "Estadísticas detalladas",
+            "en": "Detailed Statistics",
+            "am": "ዝርዝር ስታቲስቲክስ",
+            "de": "Detaillierte Statistik",
             "fr": "Statistiques détaillées",
-            "de": "Detaillierte Statistik"
+            "es": "Estadísticas detalladas"
           },
           "hash": "dad6f81abe0d432860d0304b4c129ec2"
         },
         "program/body2/declaration/body/body7/argument/children19/children1/children1/children3": {
           "content": {
             "ru": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики.",
-            "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras están basadas en datos analíticos reales.",
+            "en": "YouTube Studio screenshots confirm channel statistics and build trust.\nAll figures are based on real analytics data.",
+            "am": "የYouTube Studio ስክሪንሾቶች የቻናሉን ስታቲስቲክስ ያረጋግጣሉ እና እምነት ይፈጥራሉ። \n              ሁሉም ቁጥሮች በእውነተኛ የትንተና ውሂብ ላይ የተመሰረቱ ናቸው።",
+            "de": "Screenshots aus YouTube Studio bestätigen die Kanalstatistiken und schaffen Vertrauen. Alle Zahlen basieren auf realen Analysedaten.",
             "fr": "Les captures d'écran de YouTube Studio confirment les statistiques de la chaîne et inspirent confiance.\nTous les chiffres sont basés sur des données analytiques réelles.",
-            "de": "Screenshots aus YouTube Studio bestätigen die Kanalstatistiken und schaffen Vertrauen. Alle Zahlen basieren auf realen Analysedaten."
+            "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras están basadas en datos analíticos reales."
           },
           "hash": "c0c2bb619789f35b576e699d7b9b13d2"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children1": {
           "content": {
             "ru": "Дополнительные услуги",
-            "es": "Servicios adicionales",
+            "en": "Additional Services",
+            "am": "ተጨማሪ አገልግሎቶች",
+            "de": "Zusätzliche Dienstleistungen",
             "fr": "Services supplémentaires",
-            "de": "Zusätzliche Dienstleistungen"
+            "es": "Servicios adicionales"
           },
           "hash": "2f65331185abdf3f4a7ac9f810ebbcb2"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children1": {
           "content": {
             "ru": "Прямая интеграция в видео",
-            "es": "Integración directa en el video",
+            "en": "Direct video integration",
+            "am": "በቪዲዮ ውስጥ ቀጥታ ውህደት",
+            "de": "Direkte Integration ins Video",
             "fr": "Intégration directe dans la vidéo",
-            "de": "Direkte Integration ins Video"
+            "es": "Integración directa en el video"
           },
           "hash": "6e56c1645ffa37e33df9f5cdbb8d4bb7"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children3": {
           "content": {
             "ru": "Упоминание продукта в основном видео",
-            "es": "Mención del producto en el video principal",
+            "en": "Product mention in the main video",
+            "am": "በዋናው ቪዲዮ ውስጥ የምርት ጥቆማ",
+            "de": "Produkterwähnung im Hauptvideo",
             "fr": "Mention du produit dans la vidéo principale",
-            "de": "Produkterwähnung im Hauptvideo"
+            "es": "Mención del producto en el video principal"
           },
           "hash": "08924c6d7933855c950f3bb74e234e75"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children1": {
           "content": {
             "ru": "Формат",
-            "es": "Formato",
+            "en": "Format",
+            "am": "ቅርጸት",
+            "de": "Format",
             "fr": "Format",
-            "de": "Format"
+            "es": "Formato"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children3": {
           "content": {
             "ru": "30–90 секунд",
-            "es": "30–90 segundos",
+            "en": "30-90 seconds",
+            "am": "30–90 ሰከንዶች",
+            "de": "30–90 Sekunden",
             "fr": "30–90 secondes",
-            "de": "30–90 Sekunden"
+            "es": "30–90 segundos"
           },
           "hash": "0c78c43eab259ed6dad4e71b1ce3b224"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children1": {
           "content": {
             "ru": "Пример",
-            "es": "Ejemplo",
+            "en": "Example",
+            "am": "ምሳሌ",
+            "de": "Beispiel",
             "fr": "Exemple",
-            "de": "Beispiel"
+            "es": "Ejemplo"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children3": {
           "content": {
             "ru": "«Сегодня я пользуюсь X, и вот почему…»",
-            "es": "«Hoy estoy usando X, y estas son las razones...»",
+            "en": "Today I use X, and here's why...",
+            "am": "«ዛሬ X እየተጠቀምኩ ነው፣ እነሆ ምክንያቱ...»",
+            "de": "\"Heute benutze ich X, und hier ist der Grund dafür...\"",
             "fr": "«Aujourd'hui j'utilise X, et voici pourquoi...»",
-            "de": "\"Heute benutze ich X, und hier ist der Grund dafür...\""
+            "es": "«Hoy estoy usando X, y estas son las razones...»"
           },
           "hash": "5c2830ec1bfab285e20977754ddd33fb"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children1": {
           "content": {
             "ru": "Product placement",
-            "es": "Product placement",
+            "en": "Product placement",
+            "am": "የምርት ምደባ",
+            "de": "Product Placement",
             "fr": "Placement de produit",
-            "de": "Product Placement"
+            "es": "Product placement"
           },
           "hash": "e005bba07c44b68cd7d35669856dc39d"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children3": {
           "content": {
             "ru": "Нативное размещение продукта в кадре",
-            "es": "Colocación nativa del producto en escena",
+            "en": "Native product placement in the frame",
+            "am": "በፍሬም ውስጥ ተፈጥሯዊ የምርት አቀማመጥ",
+            "de": "Native Produktplatzierung im Bild",
             "fr": "Placement natif du produit dans le cadre",
-            "de": "Native Produktplatzierung im Bild"
+            "es": "Colocación nativa del producto en escena"
           },
           "hash": "4aae658ccf41eced3314b2f1955f27f0"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children1": {
           "content": {
             "ru": "Формат",
-            "es": "Formato",
+            "en": "Format",
+            "am": "ቅርጸት",
+            "de": "Format",
             "fr": "Format",
-            "de": "Format"
+            "es": "Formato"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children3": {
           "content": {
             "ru": "Без прямой речи",
-            "es": "Sin diálogo directo",
+            "en": "Without direct speech",
+            "am": "ያለ ቀጥታ ንግግር",
+            "de": "Ohne direkte Rede",
             "fr": "Sans discours direct",
-            "de": "Ohne direkte Rede"
+            "es": "Sin diálogo directo"
           },
           "hash": "3ffb0d750ed49505eb0bc5e63e99d3cd"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children1": {
           "content": {
             "ru": "Пример",
-            "es": "Ejemplo",
+            "en": "Example",
+            "am": "ምሳሌ",
+            "de": "Beispiel",
             "fr": "Exemple",
-            "de": "Beispiel"
+            "es": "Ejemplo"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children3": {
           "content": {
             "ru": "Продукт стоит на фоне, используется в сцене",
-            "es": "El producto está en el fondo, se utiliza en la escena",
+            "en": "Product is in the background, used in the scene",
+            "am": "ምርቱ በጀርባ ላይ ቆሟል፣ በትዕይንቱ ውስጥ ጥቅም ላይ ይውላል",
+            "de": "Produkt steht im Hintergrund, wird in der Szene verwendet",
             "fr": "Le produit est en arrière-plan, utilisé dans la scène",
-            "de": "Produkt steht im Hintergrund, wird in der Szene verwendet"
+            "es": "El producto está en el fondo, se utiliza en la escena"
           },
           "hash": "9d4e85f5e3bbb5c8c8497a47c2c96cc8"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children1": {
           "content": {
             "ru": "Интро / аутро вставка",
-            "es": "Inserción de intro/outro",
+            "en": "Intro / outro insert",
+            "am": "መግቢያ / መዝጊያ ክፍል",
+            "de": "Intro / Outro Einblendung",
             "fr": "Insert intro/outro",
-            "de": "Intro / Outro Einblendung"
+            "es": "Inserción de intro/outro"
           },
           "hash": "7568036cd970374215bc9c90b7397cf3"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children3": {
           "content": {
             "ru": "Короткий спонсорский блок в начале или конце",
-            "es": "Breve bloque de patrocinio al principio o al final",
+            "en": "Short sponsorship block at the beginning or end",
+            "am": "በመጀመሪያ ወይም በመጨረሻ ላይ አጭር የስፖንሰር ክፍል",
+            "de": "Kurzer Sponsorenblock am Anfang oder Ende",
             "fr": "Court segment sponsorisé au début ou à la fin",
-            "de": "Kurzer Sponsorenblock am Anfang oder Ende"
+            "es": "Breve bloque de patrocinio al principio o al final"
           },
           "hash": "984d6b0cd4a7f3fec5aff7ba122fb163"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children1": {
           "content": {
             "ru": "Формат",
-            "es": "Formato",
+            "en": "Format",
+            "am": "ቅርጸት",
+            "de": "Format",
             "fr": "Format",
-            "de": "Format"
+            "es": "Formato"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children3": {
           "content": {
             "ru": "5–15 секунд",
-            "es": "5-15 segundos",
+            "en": "5–15 seconds",
+            "am": "5–15 ሰከንዶች",
+            "de": "5–15 Sekunden",
             "fr": "5 à 15 secondes",
-            "de": "5–15 Sekunden"
+            "es": "5-15 segundos"
           },
           "hash": "17e6808a05a1787ef1674926d5b52ed4"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children1": {
           "content": {
             "ru": "Пример",
-            "es": "Ejemplo",
+            "en": "Example",
+            "am": "ምሳሌ",
+            "de": "Beispiel",
             "fr": "Exemple",
-            "de": "Beispiel"
+            "es": "Ejemplo"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
         "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children3": {
           "content": {
             "ru": "«Ролик создан при поддержке…»",
-            "es": "«El video fue creado con el apoyo de...»",
+            "en": "\"Video created with the support of...\"",
+            "am": "«ቪዲዮው የተሰራው በ... ድጋፍ ነው»",
+            "de": "„Video erstellt mit Unterstützung von...",
             "fr": "«Vidéo créée avec le soutien de...»",
-            "de": "„Video erstellt mit Unterstützung von..."
+            "es": "«El video fue creado con el apoyo de...»"
           },
           "hash": "0882f28bb6f4d23f4134d3ce5c0a5e96"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children1": {
           "content": {
             "ru": "Связаться с нами",
-            "es": "Contacta con nosotros",
+            "en": "Contact us",
+            "am": "ከእኛ ጋር ይገናኙ",
+            "de": "Kontaktieren Sie uns",
             "fr": "Nous contacter",
-            "de": "Kontaktieren Sie uns"
+            "es": "Contacta con nosotros"
           },
           "hash": "a0bd28558c61642728c2b3ed71228830"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children3": {
           "content": {
             "ru": "Готовы обсудить сотрудничество? Выберите удобный способ связи",
-            "es": "¿Listo para hablar sobre una colaboración? Elige el método de contacto que prefieras",
+            "en": "Ready to discuss collaboration? Choose a convenient way to connect",
+            "am": "ለመተባበር ዝግጁ ነዎት? የሚመቸዎትን የመገናኛ መንገድ ይምረጡ",
+            "de": "Bereit für eine Zusammenarbeit? Wählen Sie Ihre bevorzugte Kontaktmethode",
             "fr": "Prêt à discuter d'une collaboration ? Choisissez votre moyen de contact préféré",
-            "de": "Bereit für eine Zusammenarbeit? Wählen Sie Ihre bevorzugte Kontaktmethode"
+            "es": "¿Listo para hablar sobre una colaboración? Elige el método de contacto que prefieras"
           },
           "hash": "8a132ab188d263564ff09b197999e198"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children1": {
           "content": {
             "ru": "💬",
-            "es": "💬",
+            "en": "💬",
+            "am": "💬",
+            "de": "💬",
             "fr": "💬",
-            "de": "💬"
+            "es": "💬"
           },
           "hash": "fdbe5f31832eb8e8697153ce6d003c69"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children3": {
           "content": {
             "ru": "WhatsApp",
-            "es": "WhatsApp",
+            "en": "WhatsApp",
+            "am": "WhatsApp",
+            "de": "WhatsApp",
             "fr": "WhatsApp",
-            "de": "WhatsApp"
+            "es": "WhatsApp"
           },
           "hash": "8b777ebcc5034ce0fe96dd154bcb370e"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children5": {
           "content": {
             "ru": "+37495051893",
-            "es": "+37495051893",
+            "en": "+37495051893",
+            "am": "+37495051893",
+            "de": "+37495051893",
             "fr": "+37495051893",
-            "de": "+37495051893"
+            "es": "+37495051893"
           },
           "hash": "5f106639ef2f27cf22844f29d9c6dc47"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children1": {
           "content": {
             "ru": "✉️",
-            "es": "✉️",
+            "en": "✉️",
+            "am": "✉️",
+            "de": "✉️",
             "fr": "✉️",
-            "de": "✉️"
+            "es": "✉️"
           },
           "hash": "43a32fe6d19ae73d9a4aa6085c5f9165"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children3": {
           "content": {
             "ru": "Email",
-            "es": "Email",
+            "en": "Email",
+            "am": "ኢሜይል",
+            "de": "E-Mail",
             "fr": "Email",
-            "de": "E-Mail"
+            "es": "Email"
           },
           "hash": "ce8ae9da5b7cd6c3df2929543a9af92d"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children5": {
           "content": {
             "ru": "anastasia@faertag.com",
-            "es": "anastasia@faertag.com",
+            "en": "anastasia@faertag.com",
+            "am": "anastasia@faertag.com",
+            "de": "anastasia@faertag.com",
             "fr": "anastasia@faertag.com",
-            "de": "anastasia@faertag.com"
+            "es": "anastasia@faertag.com"
           },
           "hash": "118a8bc0e7222e4d82dfab8eaee17395"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children1": {
           "content": {
             "ru": "✈️",
-            "es": "✈️",
+            "en": "✈️",
+            "am": "✈️",
+            "de": "✈️",
             "fr": "✈️",
-            "de": "✈️"
+            "es": "✈️"
           },
           "hash": "92334ebc6030367a208909776a7b9d3a"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children3": {
           "content": {
             "ru": "Telegram",
-            "es": "Telegram",
+            "en": "Telegram",
+            "am": "ቴሌግራም",
+            "de": "Telegram",
             "fr": "Telegram",
-            "de": "Telegram"
+            "es": "Telegram"
           },
           "hash": "c915683f3ec888b8edcc7b06bd1428ec"
         },
         "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children5": {
           "content": {
             "ru": "psych_faertag",
-            "es": "psych_faertag",
+            "en": "psych_faertag",
+            "am": "ሳይክ_ፋርታግ",
+            "de": "psych_faertag",
             "fr": "psych_faertag",
-            "de": "psych_faertag"
+            "es": "psych_faertag"
           },
           "hash": "953bd81cf8b28c347b3348f310657339"
         },
         "program/body2/declaration/body/body7/argument/children31/children1": {
           "content": {
             "ru": "©FAERTAG IN. Все права защищены.",
-            "es": "©FAERTAG IN. Todos los derechos reservados.",
+            "en": "©FAERTAG IN. All rights reserved.",
+            "am": "©ፋርታግ ኢን። መብቶቹ በሙሉ የተጠበቁ ናቸው።",
+            "de": "©FAERTAG IN. Alle Rechte vorbehalten.",
             "fr": "©FAERTAG IN. Tous droits réservés.",
-            "de": "©FAERTAG IN. Alle Rechte vorbehalten."
+            "es": "©FAERTAG IN. Todos los derechos reservados."
           },
           "hash": "09926952d335bbc5247a4daa0a94ea85"
         }

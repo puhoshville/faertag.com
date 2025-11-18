@@ -9,7 +9,7 @@
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "<element:span></element:span> ждут Вашу историю"
+          "content": "<element:span>257 тысяч зрителей</element:span>ждут Вашу историю"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
           "type": "element",
@@ -658,6 +658,34 @@
           "skip": false,
           "overrides": {},
           "content": "©FAERTAG IN. Все права защищены."
+        }
+      }
+    },
+    "node_modules/algebras-auto-intl/src/runtime/client/components/LocaleSwitcher.tsx": {
+      "scopes": {
+        "program/body4/declarations0/init/body/children1": {
+          "type": "element",
+          "hash": "c485b7bfb6dddc0e68359b58c67168a6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "🌐"
+        },
+        "program/body4/declarations0/init/body/children3": {
+          "type": "element",
+          "hash": "af39817945c356299594431f70c2d6d8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "▼"
+        },
+        "program/body6/declarations0/init/body/children1/expression/right": {
+          "type": "element",
+          "hash": "900eba0c97923d74bd8d9e6190e07264",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "✓"
         }
       }
     }

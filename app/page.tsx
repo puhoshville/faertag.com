@@ -58,7 +58,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl mb-6 leading-tight">
-                <span className="text-indigo-600">257 тысяч зрителей</span> ждут Вашу историю
+                257 тысяч зрителей ждут Вашу историю
               </h1>
               <p className="text-xl text-gray-700 max-w-3xl lg:max-w-none mx-auto lg:mx-0 mb-8 leading-relaxed">
                 Партнёрские видео и интеграции на{" "}

@@ -16,6 +16,6 @@ const nextConfig = {
 export default autoIntl({
   defaultLocale: LanguageCode.ru,
   includeNodeModules: false,
-  targetLocales: [LanguageCode.en, LanguageCode.am, LanguageCode.de, LanguageCode.fr, LanguageCode.es],
+  targetLocales: [LanguageCode.en, LanguageCode.hy, LanguageCode.de, LanguageCode.fr, LanguageCode.es],
   outputDir: "src/intl",
 })(nextConfig);

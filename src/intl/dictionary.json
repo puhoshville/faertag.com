@@ -5,12 +5,12 @@
       "entries": {
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
           "content": {
-            "ru": "<element:span></element:span> ждут Вашу историю",
-            "en": "<element:span></element:span> are waiting for your story",
-            "am": "<element:span></element:span> የእርስዎን ታሪክ ይጠብቃሉ",
-            "de": "<element:span></element:span> warten auf Ihre Geschichte",
-            "fr": "<element:span></element:span> attendent votre histoire",
-            "es": "<element:span></element:span> esperan tu historia"
+            "ru": "<element:span>257 тысяч зрителей</element:span>ждут Вашу историю",
+            "en": "<element:span>257 thousand viewers</element:span> are waiting for your story",
+            "hy": "<element:span>257 հազար դիտորդ</element:span> սպասում են Ձեր պատմությանը",
+            "de": "<element:span>257 Tausend Zuschauer</element:span> warten auf Ihre Geschichte",
+            "fr": "<element:span>257 mille spectateurs</element:span> attendent votre histoire",
+            "es": "<element:span>257 mil espectadores</element:span> esperan tu historia"
           },
           "hash": "c53ce4e217de22c08b0251835354820e"
         },
@@ -18,7 +18,7 @@
           "content": {
             "ru": "257 тысяч зрителей",
             "en": "257 thousand viewers",
-            "am": "257 ሺህ ተመልካቾች",
+            "hy": "257 հազար դիտորդ",
             "de": "257 Tausend Zuschauer",
             "fr": "257 mille spectateurs",
             "es": "257 mil espectadores"
@@ -29,7 +29,7 @@
           "content": {
             "ru": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
             "en": "Partnership videos and integrations on <element:a>FAERTAG IN 🇦🇲 YouTube channel</element:a>",
-            "am": "የሽርክና ቪዲዮዎች እና ውህደቶች በ<element:a>የFAERTAG IN 🇦🇲 ዩቲዩብ ቻናል</element:a>",
+            "hy": "Գործընկերային տեսանյութեր և ինտեգրացիաներ <element:a>FAERTAG IN 🇦🇲 YouTube-ալիքում</element:a>",
             "de": "Partnervideos und Integrationen auf dem <element:a>YouTube-Kanal FAERTAG IN 🇦🇲</element:a>",
             "fr": "Vidéos partenaires et intégrations sur la <element:a>chaîne YouTube FAERTAG IN 🇦🇲</element:a>",
             "es": "Videos de colaboración e integraciones en el <element:a>canal de YouTube FAERTAG IN 🇦🇲</element:a>"
@@ -40,7 +40,7 @@
           "content": {
             "ru": "YouTube-канале FAERTAG IN 🇦🇲",
             "en": "FAERTAG IN 🇦🇲 YouTube channel",
-            "am": "የFAERTAG IN 🇦🇲 ዩቲዩብ ቻናል",
+            "hy": "FAERTAG IN 🇦🇲 YouTube-ալիքում",
             "de": "YouTube-Kanal FAERTAG IN 🇦🇲",
             "fr": "chaîne YouTube FAERTAG IN 🇦🇲",
             "es": "canal de YouTube FAERTAG IN 🇦🇲"
@@ -51,7 +51,7 @@
           "content": {
             "ru": "Начать сотрудничество",
             "en": "Start collaboration",
-            "am": "ትብብር ይጀምሩ",
+            "hy": "Սկսել համագործակցությունը",
             "de": "Zusammenarbeit beginnen",
             "fr": "Commencer la collaboration",
             "es": "Comenzar colaboración"
@@ -62,7 +62,7 @@
           "content": {
             "ru": "10 000+",
             "en": "10,000+",
-            "am": "10,000+",
+            "hy": "10 000+",
             "de": "10.000+",
             "fr": "10 000+",
             "es": "10.000+"
@@ -73,7 +73,7 @@
           "content": {
             "ru": "подписчиков",
             "en": "subscribers",
-            "am": "ደንበኞች",
+            "hy": "բաժանորդներ",
             "de": "Abonnenten",
             "fr": "abonnés",
             "es": "suscriptores"
@@ -84,7 +84,7 @@
           "content": {
             "ru": "1,6 млн",
             "en": "1.6 million",
-            "am": "1.6 ሚሊዮን",
+            "hy": "1,6 մլն",
             "de": "1,6 Mio.",
             "fr": "1,6 million",
             "es": "1,6 millones"
@@ -95,7 +95,7 @@
           "content": {
             "ru": "просмотров за 28 дней",
             "en": "views in 28 days",
-            "am": "በ28 ቀናት ውስጥ የታዩ",
+            "hy": "դիտումներ 28 օրվա ընթացքում",
             "de": "Aufrufe in 28 Tagen",
             "fr": "de vues en 28 jours",
             "es": "de visualizaciones en 28 días"
@@ -106,7 +106,7 @@
           "content": {
             "ru": "257 000",
             "en": "257,000",
-            "am": "257,000",
+            "hy": "257 000",
             "de": "257.000",
             "fr": "257 000",
             "es": "257.000"
@@ -117,7 +117,7 @@
           "content": {
             "ru": "уникальных зрителей",
             "en": "unique viewers",
-            "am": "ልዩ ተመልካቾች",
+            "hy": "եզակի դիտորդներ",
             "de": "einzigartige Zuschauer",
             "fr": "spectateurs uniques",
             "es": "espectadores únicos"
@@ -128,7 +128,7 @@
           "content": {
             "ru": "44 %",
             "en": "44%",
-            "am": "44%",
+            "hy": "44 %",
             "de": "44 %",
             "fr": "44 %",
             "es": "44 %"
@@ -139,7 +139,7 @@
           "content": {
             "ru": "просмотров из 🇦🇲",
             "en": "views from 🇦🇲",
-            "am": "ከ🇦🇲 የሚመጡ ተመልካቾች",
+            "hy": "դիտումներ 🇦🇲-ից",
             "de": "Aufrufe aus 🇦🇲",
             "fr": "de vues depuis 🇦🇲",
             "es": "de visualizaciones desde 🇦🇲"
@@ -150,7 +150,7 @@
           "content": {
             "ru": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐",
             "en": "⭐ MOST VALUABLE OFFER ⭐",
-            "am": "⭐ ከሁሉም የላቀ ዋጋ ያለው ሀሳብ ⭐",
+            "hy": "⭐ ԱՄԵՆԱԱՐԺԵՔԱՎՈՐ ԱՌԱՋԱՐԿ ⭐",
             "de": "⭐ DAS WERTVOLLSTE ANGEBOT ⭐",
             "fr": "⭐ OFFRE LA PLUS PRÉCIEUSE ⭐",
             "es": "⭐ LA OFERTA MÁS VALIOSA ⭐"
@@ -161,7 +161,7 @@
           "content": {
             "ru": "Специальный выпуск",
             "en": "Special episode",
-            "am": "ልዩ ዕትም",
+            "hy": "Հատուկ թողարկում",
             "de": "Spezialausgabe",
             "fr": "Épisode spécial",
             "es": "Episodio especial"
@@ -172,7 +172,7 @@
           "content": {
             "ru": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.",
             "en": "A full-featured video completely dedicated to your brand, product, or campaign.\nCreated in the channel's style to be organically perceived by the audience and build trust.",
-            "am": "ሙሉ በሙሉ ለብራንድ፣ ለምርት ወይም ለዘመቻ የተዘጋጀ ሙሉ ቪዲዮ።\n              በቻናሉ ዘይቤ የተዘጋጀ ሲሆን ለተመልካቾች በተፈጥሮአዊ መንገድ እንዲደርስ እና እምነት እንዲፈጥር ተደርጎ የተዘጋጀ ነው።",
+            "hy": "Լիարժեք տեսահոլովակ՝ ամբողջությամբ նվիրված բրենդին, ապրանքին կամ արշավին։\n              Ստեղծվում է ալիքի ոճով, որպեսզի օրգանական ընկալվի լսարանի կողմից և վստահություն առաջացնի։",
             "de": "Ein vollwertiges Video, das komplett einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es vom Publikum organisch wahrgenommen wird und Vertrauen weckt.",
             "fr": "Une vidéo complète entièrement dédiée à votre marque, produit ou campagne.\nCréée dans le style de la chaîne pour être perçue de manière organique par l'audience et inspirer confiance.",
             "es": "Un video completo dedicado exclusivamente a tu marca, producto o campaña.\n              Creado en el estilo del canal para que sea percibido de manera orgánica por la audiencia y genere confianza."
@@ -183,7 +183,7 @@
           "content": {
             "ru": "Что включено",
             "en": "What's included",
-            "am": "የሚካተቱት",
+            "hy": "Ինչ է ներառված",
             "de": "Was enthalten ist",
             "fr": "Ce qui est inclus",
             "es": "Qué incluye"
@@ -194,7 +194,7 @@
           "content": {
             "ru": "1",
             "en": "1",
-            "am": "1",
+            "hy": "1",
             "de": "1",
             "fr": "1",
             "es": "1"
@@ -205,7 +205,7 @@
           "content": {
             "ru": "Концепт и сценарий",
             "en": "Concept and script",
-            "am": "ጽንሰ-ሀሳብ እና ስክሪፕት",
+            "hy": "Կոնցեպտ և սցենար",
             "de": "Konzept und Drehbuch",
             "fr": "Concept et scénario",
             "es": "Concepto y guion"
@@ -216,7 +216,7 @@
           "content": {
             "ru": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).",
             "en": "Development of the video idea, creative approach, and script in collaboration with the brand. Possibility to adapt the product to the blogger's content (story, challenge, experiment, etc.).",
-            "am": "ከብራንዱ ጋር በመተባበር የቪዲዮ ሀሳብ፣ ፈጠራዊ ይዘት እና ስክሪፕት ማዘጋጀት። ምርቱን ከብሎገሩ ይዘት ጋር የማዋሃድ እድል (ታሪክ፣ ፈተና፣ ሙከራ ወዘተ)።",
+            "hy": "Տեսահոլովակի գաղափարի, ստեղծագործական մոտեցման և սցենարի մշակում՝ համատեղ բրենդի հետ։ Հնարավորություն՝ հարմարեցնել ապրանքը բլոգերի բովանդակությանը (պատմություն, մարտահրավեր, փորձարկում և այլն)։",
             "de": "Entwicklung der Videoidee, des Kreativkonzepts und des Drehbuchs gemeinsam mit der Marke. Möglichkeit, das Produkt an den Content des Bloggers anzupassen (Geschichte, Challenge, Experiment usw.).",
             "fr": "Développement de l'idée de la vidéo, du concept créatif et du scénario en collaboration avec la marque. Possibilité d'adapter le produit au contenu du blogueur (histoire, challenge, expérience, etc.).",
             "es": "Desarrollo de la idea del video, creatividad y guion en colaboración con la marca. Posibilidad de adaptar el producto al contenido del blogger (historia, desafío, experimento, etc.)."
@@ -227,7 +227,7 @@
           "content": {
             "ru": "2",
             "en": "2",
-            "am": "2",
+            "hy": "2",
             "de": "2",
             "fr": "2",
             "es": "2"
@@ -238,7 +238,7 @@
           "content": {
             "ru": "Съёмка и продакшн",
             "en": "Filming and Production",
-            "am": "ቀረጻና ፕሮዳክሽን",
+            "hy": "Նկարահանում և պրոդաքշն",
             "de": "Aufnahme und Produktion",
             "fr": "Tournage et production",
             "es": "Grabación y producción"
@@ -249,7 +249,7 @@
           "content": {
             "ru": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.",
             "en": "Full-scale video production in the channel's style: staging, editing, color correction, graphics, sound.",
-            "am": "የቻናሉን ስታይል የሚከተል ሙሉ የቪዲዮ ቀረጻ፡ ዝግጅት፣ አርትኦት፣ የቀለም ማስተካከያ፣ ግራፊክስ፣ ድምፅ።",
+            "hy": "Լիարժեք տեսանյութի նկարահանում ալիքի ոճով՝ բեմադրություն, մոնտաժ, գունային շտկում, գրաֆիկա, ձայն։",
             "de": "Vollständige Videoproduktion im Kanalstil: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton.",
             "fr": "Production vidéo complète dans le style de la chaîne : mise en scène, montage, étalonnage, graphisme, son.",
             "es": "Producción completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido."
@@ -260,7 +260,7 @@
           "content": {
             "ru": "3",
             "en": "3",
-            "am": "3",
+            "hy": "3",
             "de": "3",
             "fr": "3",
             "es": "3"
@@ -271,7 +271,7 @@
           "content": {
             "ru": "Полное упоминание бренда",
             "en": "Complete Brand Mention",
-            "am": "ሙሉ የብራንድ ማጠቃለያ",
+            "hy": "Բրենդի լիարժեք ներկայացում",
             "de": "Vollständige Markennennung",
             "fr": "Mention complète de la marque",
             "es": "Mención completa de la marca"
@@ -282,7 +282,7 @@
           "content": {
             "ru": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.",
             "en": "Integration throughout the entire video: logo, product, key messages, demonstration of benefits.",
-            "am": "በመላው ቪዲዮ ውስጥ ውህደት፡ ሎጎ፣ ምርት፣ ቁልፍ መልዕክቶች፣ የጥቅሞች ማሳያ።",
+            "hy": "Ինտեգրացիա ամբողջ տեսանյութի ընթացքում՝ լոգոտիպ, արտադրանք, հիմնական ուղերձներ, առավելությունների ցուցադրում։",
             "de": "Integration während des gesamten Videos: Logo, Produkt, Kernbotschaften, Demonstration der Vorteile.",
             "fr": "Intégration tout au long de la vidéo : logo, produit, messages clés, démonstration des avantages.",
             "es": "Integración durante todo el video: logotipo, producto, mensajes clave, demostración de ventajas."
@@ -293,7 +293,7 @@
           "content": {
             "ru": "4",
             "en": "4",
-            "am": "4",
+            "hy": "4",
             "de": "4",
             "fr": "4",
             "es": "4"
@@ -304,7 +304,7 @@
           "content": {
             "ru": "Размещение и продвижение",
             "en": "Placement and Promotion",
-            "am": "ማስተዋወቅና ማስፋፋት",
+            "hy": "Տեղադրում և առաջխաղացում",
             "de": "Veröffentlichung und Promotion",
             "fr": "Publication et promotion",
             "es": "Publicación y promoción"
@@ -315,7 +315,7 @@
           "content": {
             "ru": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.",
             "en": "Publication on the main YouTube channel with a pinned link in the description and first comment. Optionally - a post in the YouTube community or stories on other social networks.",
-            "am": "በዋናው የዩቲዩብ ቻናል ላይ ማሳተም፣ በማብራሪያው እና በመጀመሪያው አስተያየት ውስጥ የተሰካ ሊንክ ማካተት። አማራጭ - በዩቲዩብ ኮሚዩኒቲ ላይ ወይም በሌሎች ማህበራዊ ሚዲያዎች ላይ ስቶሪዎችን ማድረግ።",
+            "hy": "Հրապարակում հիմնական YouTube-ալիքում՝ ամրացված հղումով նկարագրության մեջ և առաջին մեկնաբանության մեջ։ Ընտրովի՝ գրառում YouTube համայնքում կամ պատմություններ այլ սոցցանցերում։",
             "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – ein Beitrag in der YouTube-Community oder Stories in anderen sozialen Netzwerken.",
             "fr": "Publication sur la chaîne YouTube principale avec lien épinglé dans la description et premier commentaire. En option - post dans la communauté YouTube ou stories sur d'autres réseaux sociaux.",
             "es": "Publicación en el canal principal de YouTube con enlace fijado en la descripción y en el primer comentario. Opcionalmente - publicación en la comunidad de YouTube o historias en otras redes sociales."
@@ -326,7 +326,7 @@
           "content": {
             "ru": "5",
             "en": "5",
-            "am": "5",
+            "hy": "5",
             "de": "5",
             "fr": "5",
             "es": "5"
@@ -337,7 +337,7 @@
           "content": {
             "ru": "Отчётность",
             "en": "Reporting",
-            "am": "ሪፖርት ማድረግ",
+            "hy": "Հաշվետվություն",
             "de": "Berichterstattung",
             "fr": "Rapports",
             "es": "Informes"
@@ -348,7 +348,7 @@
           "content": {
             "ru": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.",
             "en": "Providing statistics after 7 and 30 days: views, retention, link clicks, engagement.",
-            "am": "ከ7 እና ከ30 ቀናት በኋላ የስታቲስቲክስ ማቅረብ፡ ዕይታዎች፣ የተመልካች ቆይታ፣ በሊንኮች ላይ ጠቅታዎች፣ ተሳትፎ።",
+            "hy": "Վիճակագրության տրամադրում 7 և 30 օր անց՝ դիտումներ, պահպանում, հղումների սեղմումներ, ներգրավվածություն։",
             "de": "Bereitstellung von Statistiken nach 7 und 30 Tagen: Aufrufe, Verweildauer, Klicks auf Links, Engagement.",
             "fr": "Fourniture de statistiques après 7 et 30 jours : vues, rétention, clics sur les liens, engagement.",
             "es": "Presentación de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement."
@@ -359,7 +359,7 @@
           "content": {
             "ru": "Обо мне",
             "en": "About Me",
-            "am": "ስለ እኔ",
+            "hy": "Իմ մասին",
             "de": "Über mich",
             "fr": "À propos de moi",
             "es": "Sobre mí"
@@ -370,7 +370,7 @@
           "content": {
             "ru": "Меня зовут Анастасия Фаертаг.",
             "en": "My name is Anastasia Faertag.",
-            "am": "ስሜ አናስታሲያ ፋኤርታግ ነው።",
+            "hy": "Իմ անունը Անաստասիա Ֆաերտագ է։",
             "de": "Mein Name ist Anastasia Faertag.",
             "fr": "Je m'appelle Anastasia Faertag.",
             "es": "Me llamo Anastasia Faertag."
@@ -381,7 +381,7 @@
           "content": {
             "ru": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.",
             "en": "For three years now, I've been living in Armenia and sharing my life here on YouTube.",
-            "am": "ለሶስት ዓመታት በአርሜኒያ ኖሬያለሁ፣ በዩቲዩብ ላይም እዚህ ያለኝን ሕይወት እየጋራሁ ነው።",
+            "hy": "Արդեն երեք տարի է, ինչ ապրում եմ Հայաստանում և YouTube-ում կիսվում եմ այստեղի իմ կյանքով։",
             "de": "Seit drei Jahren lebe ich in Armenien und teile mein Leben hier auf YouTube.",
             "fr": "Cela fait déjà trois ans que je vis en Arménie et que je partage ma vie ici sur YouTube.",
             "es": "Llevo tres años viviendo en Armenia y compartiendo mi vida aquí en YouTube."
@@ -392,7 +392,7 @@
           "content": {
             "ru": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.",
             "en": "In my videos, I talk about the people, culture, and inspiring stories of this amazing country - through the eyes of someone who once simply decided to stay and live here.",
-            "am": "በቪዲዮዎቼ ውስጥ፣ ስለዚህ አስደናቂ ሀገር ሰዎች፣ ባህል እና አነሳሽ ታሪኮች አወራለሁ - አንድ ጊዜ እዚህ መኖር ወስኖ የቆየ ሰው እይታ።",
+            "hy": "Իմ տեսանյութերում պատմում եմ այս զարմանահրաշ երկրի մարդկանց, մշակույթի և ոգեշնչող պատմությունների մասին՝ այն մարդու աչքերով, ով մի ժամանակ պարզապես որոշեց մնալ այստեղ ապրելու։",
             "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und inspirierende Geschichten dieses erstaunlichen Landes – aus der Perspektive einer Person, die sich einst entschied, hier zu leben.",
             "fr": "Dans mes vidéos, je raconte les gens, la culture et les histoires inspirantes de ce pays étonnant - à travers les yeux de quelqu'un qui a simplement décidé d'y vivre.",
             "es": "En mis videos hablo sobre la gente, la cultura y las historias inspiradoras de este increíble país, desde la perspectiva de alguien que simplemente decidió quedarse a vivir aquí."
@@ -403,7 +403,7 @@
           "content": {
             "ru": "Основная аудитория",
             "en": "Main Audience",
-            "am": "ዋና ታዳሚ",
+            "hy": "Հիմնական լսարան",
             "de": "Hauptzielgruppe",
             "fr": "Audience principale",
             "es": "Audiencia principal"
@@ -414,7 +414,7 @@
           "content": {
             "ru": "География",
             "en": "Geography",
-            "am": "ጂኦግራፊ",
+            "hy": "Աշխարհագրություն",
             "de": "Geografie",
             "fr": "Géographie",
             "es": "Geografía"
@@ -425,7 +425,7 @@
           "content": {
             "ru": "🇦🇲 Армения",
             "en": "🇦🇲 Armenia",
-            "am": "🇦🇲 አርሜኒያ",
+            "hy": "🇦🇲 Հայաստան",
             "de": "🇦🇲 Armenien",
             "fr": "🇦🇲 Arménie",
             "es": "🇦🇲 Armenia"
@@ -436,7 +436,7 @@
           "content": {
             "ru": "44 %",
             "en": "44%",
-            "am": "44%",
+            "hy": "44 %",
             "de": "44 %",
             "fr": "44 %",
             "es": "44 %"
@@ -447,7 +447,7 @@
           "content": {
             "ru": "🇷🇺 Россия",
             "en": "🇷🇺 Russia",
-            "am": "🇷🇺 ሩሲያ",
+            "hy": "🇷🇺 Ռուսաստան",
             "de": "🇷🇺 Russland",
             "fr": "🇷🇺 Russie",
             "es": "🇷🇺 Rusia"
@@ -458,7 +458,7 @@
           "content": {
             "ru": "22 %",
             "en": "22 %",
-            "am": "22 %",
+            "hy": "22 %",
             "de": "22 %",
             "fr": "22 %",
             "es": "22 %"
@@ -469,7 +469,7 @@
           "content": {
             "ru": "Пол",
             "en": "Gender",
-            "am": "ፆታ",
+            "hy": "Սեռ",
             "de": "Geschlecht",
             "fr": "Sexe",
             "es": "Género"
@@ -480,7 +480,7 @@
           "content": {
             "ru": "Мужчины",
             "en": "Men",
-            "am": "ወንዶች",
+            "hy": "Տղամարդիկ",
             "de": "Männer",
             "fr": "Hommes",
             "es": "Hombres"
@@ -491,7 +491,7 @@
           "content": {
             "ru": "69 %",
             "en": "69 %",
-            "am": "69 %",
+            "hy": "69 %",
             "de": "69 %",
             "fr": "69 %",
             "es": "69 %"
@@ -502,7 +502,7 @@
           "content": {
             "ru": "Женщины",
             "en": "Women",
-            "am": "ሴቶች",
+            "hy": "Կանայք",
             "de": "Frauen",
             "fr": "Femmes",
             "es": "Mujeres"
@@ -513,7 +513,7 @@
           "content": {
             "ru": "31 %",
             "en": "31 %",
-            "am": "31 %",
+            "hy": "31 %",
             "de": "31 %",
             "fr": "31 %",
             "es": "31 %"
@@ -524,7 +524,7 @@
           "content": {
             "ru": "Возраст",
             "en": "Age",
-            "am": "እድሜ",
+            "hy": "Տարիք",
             "de": "Alter",
             "fr": "Âge",
             "es": "Edad"
@@ -535,7 +535,7 @@
           "content": {
             "ru": "25+",
             "en": "25+",
-            "am": "25+",
+            "hy": "25+",
             "de": "25+",
             "fr": "25+",
             "es": "25+"
@@ -546,7 +546,7 @@
           "content": {
             "ru": "Подробная статистика",
             "en": "Detailed Statistics",
-            "am": "ዝርዝር ስታቲስቲክስ",
+            "hy": "Մանրամասն վիճակագրություն",
             "de": "Detaillierte Statistik",
             "fr": "Statistiques détaillées",
             "es": "Estadísticas detalladas"
@@ -557,7 +557,7 @@
           "content": {
             "ru": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики.",
             "en": "YouTube Studio screenshots confirm channel statistics and build trust.\nAll figures are based on real analytics data.",
-            "am": "የYouTube Studio ስክሪንሾቶች የቻናሉን ስታቲስቲክስ ያረጋግጣሉ እና እምነት ይፈጥራሉ። \n              ሁሉም ቁጥሮች በእውነተኛ የትንተና ውሂብ ላይ የተመሰረቱ ናቸው።",
+            "hy": "YouTube Studio-ի սքրինշոթները հաստատում են ալիքի վիճակագրությունը և վստահություն են առաջացնում։ \n              Բոլոր թվերը հիմնված են իրական վերլուծական տվյալների վրա։",
             "de": "Screenshots aus YouTube Studio bestätigen die Kanalstatistiken und schaffen Vertrauen. Alle Zahlen basieren auf realen Analysedaten.",
             "fr": "Les captures d'écran de YouTube Studio confirment les statistiques de la chaîne et inspirent confiance.\nTous les chiffres sont basés sur des données analytiques réelles.",
             "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras están basadas en datos analíticos reales."
@@ -568,7 +568,7 @@
           "content": {
             "ru": "Дополнительные услуги",
             "en": "Additional Services",
-            "am": "ተጨማሪ አገልግሎቶች",
+            "hy": "Լրացուցիչ ծառայություններ",
             "de": "Zusätzliche Dienstleistungen",
             "fr": "Services supplémentaires",
             "es": "Servicios adicionales"
@@ -579,7 +579,7 @@
           "content": {
             "ru": "Прямая интеграция в видео",
             "en": "Direct video integration",
-            "am": "በቪዲዮ ውስጥ ቀጥታ ውህደት",
+            "hy": "Ուղղակի ինտեգրում տեսանյութում",
             "de": "Direkte Integration ins Video",
             "fr": "Intégration directe dans la vidéo",
             "es": "Integración directa en el video"
@@ -590,7 +590,7 @@
           "content": {
             "ru": "Упоминание продукта в основном видео",
             "en": "Product mention in the main video",
-            "am": "በዋናው ቪዲዮ ውስጥ የምርት ጥቆማ",
+            "hy": "Ապրանքի հիշատակում հիմնական տեսանյութում",
             "de": "Produkterwähnung im Hauptvideo",
             "fr": "Mention du produit dans la vidéo principale",
             "es": "Mención del producto en el video principal"
@@ -601,7 +601,7 @@
           "content": {
             "ru": "Формат",
             "en": "Format",
-            "am": "ቅርጸት",
+            "hy": "Ձևաչափ",
             "de": "Format",
             "fr": "Format",
             "es": "Formato"
@@ -612,7 +612,7 @@
           "content": {
             "ru": "30–90 секунд",
             "en": "30-90 seconds",
-            "am": "30–90 ሰከንዶች",
+            "hy": "30–90 վայրկյան",
             "de": "30–90 Sekunden",
             "fr": "30–90 secondes",
             "es": "30–90 segundos"
@@ -623,7 +623,7 @@
           "content": {
             "ru": "Пример",
             "en": "Example",
-            "am": "ምሳሌ",
+            "hy": "Օրինակ",
             "de": "Beispiel",
             "fr": "Exemple",
             "es": "Ejemplo"
@@ -634,7 +634,7 @@
           "content": {
             "ru": "«Сегодня я пользуюсь X, и вот почему…»",
             "en": "Today I use X, and here's why...",
-            "am": "«ዛሬ X እየተጠቀምኩ ነው፣ እነሆ ምክንያቱ...»",
+            "hy": "«Այսօր ես օգտագործում եմ X, և ահա թե ինչու...»",
             "de": "\"Heute benutze ich X, und hier ist der Grund dafür...\"",
             "fr": "«Aujourd'hui j'utilise X, et voici pourquoi...»",
             "es": "«Hoy estoy usando X, y estas son las razones...»"
@@ -645,7 +645,7 @@
           "content": {
             "ru": "Product placement",
             "en": "Product placement",
-            "am": "የምርት ምደባ",
+            "hy": "Product placement",
             "de": "Product Placement",
             "fr": "Placement de produit",
             "es": "Product placement"
@@ -656,7 +656,7 @@
           "content": {
             "ru": "Нативное размещение продукта в кадре",
             "en": "Native product placement in the frame",
-            "am": "በፍሬም ውስጥ ተፈጥሯዊ የምርት አቀማመጥ",
+            "hy": "Ապրանքի բնական տեղադրում կադրում",
             "de": "Native Produktplatzierung im Bild",
             "fr": "Placement natif du produit dans le cadre",
             "es": "Colocación nativa del producto en escena"
@@ -667,7 +667,7 @@
           "content": {
             "ru": "Формат",
             "en": "Format",
-            "am": "ቅርጸት",
+            "hy": "Ձևաչափ",
             "de": "Format",
             "fr": "Format",
             "es": "Formato"
@@ -678,7 +678,7 @@
           "content": {
             "ru": "Без прямой речи",
             "en": "Without direct speech",
-            "am": "ያለ ቀጥታ ንግግር",
+            "hy": "Առանց ուղղակի խոսքի",
             "de": "Ohne direkte Rede",
             "fr": "Sans discours direct",
             "es": "Sin diálogo directo"
@@ -689,7 +689,7 @@
           "content": {
             "ru": "Пример",
             "en": "Example",
-            "am": "ምሳሌ",
+            "hy": "Օրինակ",
             "de": "Beispiel",
             "fr": "Exemple",
             "es": "Ejemplo"
@@ -700,7 +700,7 @@
           "content": {
             "ru": "Продукт стоит на фоне, используется в сцене",
             "en": "Product is in the background, used in the scene",
-            "am": "ምርቱ በጀርባ ላይ ቆሟል፣ በትዕይንቱ ውስጥ ጥቅም ላይ ይውላል",
+            "hy": "Ապրանքը գտնվում է ֆոնի վրա, օգտագործվում է տեսարանում",
             "de": "Produkt steht im Hintergrund, wird in der Szene verwendet",
             "fr": "Le produit est en arrière-plan, utilisé dans la scène",
             "es": "El producto está en el fondo, se utiliza en la escena"
@@ -711,7 +711,7 @@
           "content": {
             "ru": "Интро / аутро вставка",
             "en": "Intro / outro insert",
-            "am": "መግቢያ / መዝጊያ ክፍል",
+            "hy": "Ինտրո / աութրո ներդիր",
             "de": "Intro / Outro Einblendung",
             "fr": "Insert intro/outro",
             "es": "Inserción de intro/outro"
@@ -722,7 +722,7 @@
           "content": {
             "ru": "Короткий спонсорский блок в начале или конце",
             "en": "Short sponsorship block at the beginning or end",
-            "am": "በመጀመሪያ ወይም በመጨረሻ ላይ አጭር የስፖንሰር ክፍል",
+            "hy": "Կարճ հովանավորչական բլոկ սկզբում կամ վերջում",
             "de": "Kurzer Sponsorenblock am Anfang oder Ende",
             "fr": "Court segment sponsorisé au début ou à la fin",
             "es": "Breve bloque de patrocinio al principio o al final"
@@ -733,7 +733,7 @@
           "content": {
             "ru": "Формат",
             "en": "Format",
-            "am": "ቅርጸት",
+            "hy": "Ձևաչափ",
             "de": "Format",
             "fr": "Format",
             "es": "Formato"
@@ -744,7 +744,7 @@
           "content": {
             "ru": "5–15 секунд",
             "en": "5–15 seconds",
-            "am": "5–15 ሰከንዶች",
+            "hy": "5–15 վայրկյան",
             "de": "5–15 Sekunden",
             "fr": "5 à 15 secondes",
             "es": "5-15 segundos"
@@ -755,7 +755,7 @@
           "content": {
             "ru": "Пример",
             "en": "Example",
-            "am": "ምሳሌ",
+            "hy": "Օրինակ",
             "de": "Beispiel",
             "fr": "Exemple",
             "es": "Ejemplo"
@@ -766,7 +766,7 @@
           "content": {
             "ru": "«Ролик создан при поддержке…»",
             "en": "\"Video created with the support of...\"",
-            "am": "«ቪዲዮው የተሰራው በ... ድጋፍ ነው»",
+            "hy": "«Տեսանյութը ստեղծվել է աջակցությամբ...»",
             "de": "„Video erstellt mit Unterstützung von...",
             "fr": "«Vidéo créée avec le soutien de...»",
             "es": "«El video fue creado con el apoyo de...»"
@@ -777,7 +777,7 @@
           "content": {
             "ru": "Связаться с нами",
             "en": "Contact us",
-            "am": "ከእኛ ጋር ይገናኙ",
+            "hy": "Կապվեք մեզ հետ",
             "de": "Kontaktieren Sie uns",
             "fr": "Nous contacter",
             "es": "Contacta con nosotros"
@@ -788,7 +788,7 @@
           "content": {
             "ru": "Готовы обсудить сотрудничество? Выберите удобный способ связи",
             "en": "Ready to discuss collaboration? Choose a convenient way to connect",
-            "am": "ለመተባበር ዝግጁ ነዎት? የሚመቸዎትን የመገናኛ መንገድ ይምረጡ",
+            "hy": "Պատրա՞ստ եք քննարկել համագործակցությունը: Ընտրեք հարմար կապի միջոց",
             "de": "Bereit für eine Zusammenarbeit? Wählen Sie Ihre bevorzugte Kontaktmethode",
             "fr": "Prêt à discuter d'une collaboration ? Choisissez votre moyen de contact préféré",
             "es": "¿Listo para hablar sobre una colaboración? Elige el método de contacto que prefieras"
@@ -799,7 +799,7 @@
           "content": {
             "ru": "💬",
             "en": "💬",
-            "am": "💬",
+            "hy": "💬",
             "de": "💬",
             "fr": "💬",
             "es": "💬"
@@ -810,7 +810,7 @@
           "content": {
             "ru": "WhatsApp",
             "en": "WhatsApp",
-            "am": "WhatsApp",
+            "hy": "WhatsApp",
             "de": "WhatsApp",
             "fr": "WhatsApp",
             "es": "WhatsApp"
@@ -821,7 +821,7 @@
           "content": {
             "ru": "+37495051893",
             "en": "+37495051893",
-            "am": "+37495051893",
+            "hy": "+37495051893",
             "de": "+37495051893",
             "fr": "+37495051893",
             "es": "+37495051893"
@@ -832,7 +832,7 @@
           "content": {
             "ru": "✉️",
             "en": "✉️",
-            "am": "✉️",
+            "hy": "✉️",
             "de": "✉️",
             "fr": "✉️",
             "es": "✉️"
@@ -843,7 +843,7 @@
           "content": {
             "ru": "Email",
             "en": "Email",
-            "am": "ኢሜይል",
+            "hy": "Էլ․ փոստ",
             "de": "E-Mail",
             "fr": "Email",
             "es": "Email"
@@ -854,7 +854,7 @@
           "content": {
             "ru": "anastasia@faertag.com",
             "en": "anastasia@faertag.com",
-            "am": "anastasia@faertag.com",
+            "hy": "anastasia@faertag.com",
             "de": "anastasia@faertag.com",
             "fr": "anastasia@faertag.com",
             "es": "anastasia@faertag.com"
@@ -865,7 +865,7 @@
           "content": {
             "ru": "✈️",
             "en": "✈️",
-            "am": "✈️",
+            "hy": "✈️",
             "de": "✈️",
             "fr": "✈️",
             "es": "✈️"
@@ -876,7 +876,7 @@
           "content": {
             "ru": "Telegram",
             "en": "Telegram",
-            "am": "ቴሌግራም",
+            "hy": "Telegram",
             "de": "Telegram",
             "fr": "Telegram",
             "es": "Telegram"
@@ -887,7 +887,7 @@
           "content": {
             "ru": "psych_faertag",
             "en": "psych_faertag",
-            "am": "ሳይክ_ፋርታግ",
+            "hy": "psych_faertag",
             "de": "psych_faertag",
             "fr": "psych_faertag",
             "es": "psych_faertag"
@@ -898,12 +898,49 @@
           "content": {
             "ru": "©FAERTAG IN. Все права защищены.",
             "en": "©FAERTAG IN. All rights reserved.",
-            "am": "©ፋርታግ ኢን። መብቶቹ በሙሉ የተጠበቁ ናቸው።",
+            "hy": "©FAERTAG IN. Բոլոր իրավունքները պաշտպանված են։",
             "de": "©FAERTAG IN. Alle Rechte vorbehalten.",
             "fr": "©FAERTAG IN. Tous droits réservés.",
             "es": "©FAERTAG IN. Todos los derechos reservados."
           },
           "hash": "09926952d335bbc5247a4daa0a94ea85"
+        }
+      }
+    },
+    "node_modules/algebras-auto-intl/src/runtime/client/components/LocaleSwitcher.tsx": {
+      "entries": {
+        "program/body4/declarations0/init/body/children1": {
+          "content": {
+            "ru": "🌐",
+            "en": "🌐",
+            "hy": "🌐",
+            "de": "🌐",
+            "fr": "🌐",
+            "es": "🌐"
+          },
+          "hash": "c485b7bfb6dddc0e68359b58c67168a6"
+        },
+        "program/body4/declarations0/init/body/children3": {
+          "content": {
+            "ru": "▼",
+            "en": "▼",
+            "hy": "▼",
+            "de": "▼",
+            "fr": "▼",
+            "es": "▼"
+          },
+          "hash": "af39817945c356299594431f70c2d6d8"
+        },
+        "program/body6/declarations0/init/body/children1/expression/right": {
+          "content": {
+            "ru": "✓",
+            "en": "✓",
+            "hy": "✓",
+            "de": "✓",
+            "fr": "✓",
+            "es": "✓"
+          },
+          "hash": "900eba0c97923d74bd8d9e6190e07264"
         }
       }
     }

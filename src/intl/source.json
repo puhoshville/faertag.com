@@ -5,19 +5,11 @@
       "scopes": {
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
           "type": "element",
-          "hash": "c53ce4e217de22c08b0251835354820e",
+          "hash": "08c7a35396d2a27ce56186c24e0fa0e2",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "<element:span>257 тысяч зрителей</element:span>ждут Вашу историю"
-        },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1/children1": {
-          "type": "element",
-          "hash": "d9a8afa0970d3f08fd2d83279c959f75",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "257 тысяч зрителей"
+          "content": "257 тысяч зрителей ждут Вашу историю"
         },
         "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
           "type": "element",

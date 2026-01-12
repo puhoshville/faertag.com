@@ -9,8 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "algebras-auto-intl": "github:algebras-ai/nextjs-auto-translate",
-    "i18next-cli": "^1.24.5",
+    "@dima-algebras/algebras-auto-intl": "^1.1.0",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"

@@ -3,933 +3,3160 @@
   "files": {
     "app/page.tsx": {
       "entries": {
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children1/children1/children1": {
           "content": {
             "ru": "257 тысяч зрителей ждут Вашу историю",
-            "en": "257 thousand viewers are waiting for your story",
-            "hy": "257 հազար դիտորդ սպասում են Ձեր պատմությանը",
-            "de": "257 tausend Zuschauer warten auf Ihre Geschichte",
-            "fr": "257 mille spectateurs attendent votre histoire",
-            "es": "[ES] 257 тысяч зрителей ждут Вашу историю"
+            "en": "257 thousand viewers are waiting for your story"
           },
           "hash": "08c7a35396d2a27ce56186c24e0fa0e2"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children1/children1/children3": {
           "content": {
-            "ru": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
-            "en": "Partnership videos and integrations on <element:a>FAERTAG IN 🇦🇲 YouTube channel</element:a>",
-            "hy": "Գործընկերային տեսանյութեր և ինտեգրացիաներ <element:a>FAERTAG IN 🇦🇲 YouTube-ալիքում</element:a>",
-            "de": "Partnervideos und Integrationen auf dem <element:a>YouTube-Kanal FAERTAG IN 🇦🇲</element:a>",
-            "fr": "Vidéos partenaires et intégrations sur la <element:a>chaîne YouTube FAERTAG IN 🇦🇲</element:a>",
-            "es": "[ES] Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>"
+            "ru": "Партнёрские видео и интеграции на \n                <element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>",
+            "en": "Partner videos and integrations on the \n <element:a>YouTube channel FAERTAG IN 🇦🇲</element:a>"
           },
-          "hash": "981ca216ee6ab923ca9b4c1dc5042f31"
+          "hash": "ce819e384b725e7a6ded487f71e77978"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children3": {
-          "content": {
-            "ru": "YouTube-канале FAERTAG IN 🇦🇲",
-            "en": "FAERTAG IN 🇦🇲 YouTube channel",
-            "hy": "FAERTAG IN 🇦🇲 YouTube-ալիքում",
-            "de": "YouTube-Kanal FAERTAG IN 🇦🇲",
-            "fr": "chaîne YouTube FAERTAG IN 🇦🇲",
-            "es": "[ES] YouTube-канале FAERTAG IN 🇦🇲"
-          },
-          "hash": "e762460e745a87e7c446d3c8b4f0ff32"
-        },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children1/children1/children5": {
           "content": {
             "ru": "Начать сотрудничество",
-            "en": "Start collaboration",
-            "hy": "Սկսել համագործակցությունը",
-            "de": "Zusammenarbeit beginnen",
-            "fr": "Commencer la collaboration",
-            "es": "[ES] Начать сотрудничество"
+            "en": "Start collaboration"
           },
           "hash": "4077035c1283e83a91a2cdca2bc1c915"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children1": {
+        "program/body3/declaration/body/body1/declarations0_arr_0": {
+          "content": {
+            "ru": "/thumb0.png",
+            "en": "/thumb0.png"
+          },
+          "hash": "024b65718ffbb5f5d9f94f9e45ff8c83"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_1": {
+          "content": {
+            "ru": "/thumb1.png",
+            "en": "/thumb1.png"
+          },
+          "hash": "beee1c5db97aa5503d62fad34f72965b"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_2": {
+          "content": {
+            "ru": "/thumb2.png",
+            "en": "/thumb2.png"
+          },
+          "hash": "fed3d97ec932b1cee46262941eaa1d29"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_3": {
+          "content": {
+            "ru": "/thumb3.png",
+            "en": "/thumb3.png"
+          },
+          "hash": "0b747a890a205c49bcffbbad84562362"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_4": {
+          "content": {
+            "ru": "/thumb4.png",
+            "en": "/thumb4.png"
+          },
+          "hash": "1c48e6844ef1ad2f802586f28c1b7db2"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_5": {
+          "content": {
+            "ru": "/thumb5.png",
+            "en": "/thumb5.png"
+          },
+          "hash": "ffa79e85071fac20d6d275009dcf116b"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_6": {
+          "content": {
+            "ru": "/thumb6.png",
+            "en": "/thumb6.png"
+          },
+          "hash": "ad6affe1e4eda41bdf44f47e5346ad70"
+        },
+        "program/body3/declaration/body/body7/argument/children5/children1/children1/children3/children1/children1/expression/arguments0/body/openingElement/attributes5/value/expression_quasi_0": {
+          "content": {
+            "ru": "object-cover w-full h-full absolute inset-0 transition-opacity duration-1000 ",
+            "en": "object-cover w-full h-full absolute inset-0 transition-opacity duration-1000 "
+          },
+          "hash": "270575527511784eb502f9c076b868b4"
+        },
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children1/children1": {
           "content": {
             "ru": "10 000+",
-            "en": "10,000+",
-            "hy": "10 000+",
-            "de": "10.000+",
-            "fr": "10 000+",
-            "es": "[ES] 10 000+"
+            "en": "10,000+"
           },
           "hash": "4a6be9a28067aeadd53f0e11a3f17197"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children1/children3": {
           "content": {
             "ru": "подписчиков",
-            "en": "subscribers",
-            "hy": "բաժանորդներ",
-            "de": "Abonnenten",
-            "fr": "abonnés",
-            "es": "[ES] подписчиков"
+            "en": "subscribers"
           },
           "hash": "ba399afc55a69e58289230e64d3125bc"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children3/children1": {
           "content": {
             "ru": "1,6 млн",
-            "en": "1.6 million",
-            "hy": "1,6 մլն",
-            "de": "1,6 Mio.",
-            "fr": "1,6 million",
-            "es": "[ES] 1,6 млн"
+            "en": "1.6 million"
           },
           "hash": "9c4d4e98ac0010a94ac397efc957af2d"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children3/children3": {
           "content": {
             "ru": "просмотров за 28 дней",
-            "en": "views in 28 days",
-            "hy": "դիտումներ 28 օրվա ընթացքում",
-            "de": "Aufrufe in 28 Tagen",
-            "fr": "de vues en 28 jours",
-            "es": "[ES] просмотров за 28 дней"
+            "en": "views in 28 days"
           },
           "hash": "3caecbcb3a4f2d61f4c8e00f015f86be"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children5/children1": {
           "content": {
             "ru": "257 000",
-            "en": "257,000",
-            "hy": "257 000",
-            "de": "257.000",
-            "fr": "257 000",
-            "es": "[ES] 257 000"
+            "en": "257,000"
           },
           "hash": "669d042e9fe77edc75852cba69ee38fe"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children5/children3": {
           "content": {
             "ru": "уникальных зрителей",
-            "en": "unique viewers",
-            "hy": "եզակի դիտորդներ",
-            "de": "einzigartige Zuschauer",
-            "fr": "spectateurs uniques",
-            "es": "[ES] уникальных зрителей"
+            "en": "unique viewers"
           },
           "hash": "dd8ecbfd85b39d0f6ce7fb9f6c21ccbc"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children7/children1": {
           "content": {
             "ru": "44 %",
-            "en": "44%",
-            "hy": "44 %",
-            "de": "44 %",
-            "fr": "44 %",
-            "es": "[ES] 44 %"
+            "en": "44%"
           },
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children5/children1/children5/children7/children3": {
           "content": {
             "ru": "просмотров из 🇦🇲",
-            "en": "views from 🇦🇲",
-            "hy": "դիտումներ 🇦🇲-ից",
-            "de": "Aufrufe aus 🇦🇲",
-            "fr": "de vues depuis 🇦🇲",
-            "es": "[ES] просмотров из 🇦🇲"
+            "en": "views from 🇦🇲"
           },
           "hash": "33ff069a251f8c7962256831be79c014"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children3/children1/children3": {
           "content": {
             "ru": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐",
-            "en": "⭐ MOST VALUABLE OFFER ⭐",
-            "hy": "⭐ ԱՄԵՆԱԱՐԺԵՔԱՎՈՐ ԱՌԱՋԱՐԿ ⭐",
-            "de": "⭐ DAS WERTVOLLSTE ANGEBOT ⭐",
-            "fr": "⭐ OFFRE LA PLUS PRÉCIEUSE ⭐",
-            "es": "[ES] ⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐"
+            "en": "⭐ MOST VALUABLE OFFER ⭐"
           },
           "hash": "9f737970ab245710e48b03547cfcab14"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children5/children1": {
           "content": {
             "ru": "Специальный выпуск",
-            "en": "Special episode",
-            "hy": "Հատուկ թողարկում",
-            "de": "Spezialausgabe",
-            "fr": "Épisode spécial",
-            "es": "[ES] Специальный выпуск"
+            "en": "Special episode"
           },
           "hash": "0580da59285b21effb4858897a5ea8f7"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children5/children3": {
           "content": {
             "ru": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие.",
-            "en": "A full-featured video completely dedicated to your brand, product, or campaign.\nCreated in the channel's style to be organically perceived by the audience and build trust.",
-            "hy": "Լիարժեք տեսահոլովակ՝ ամբողջությամբ նվիրված բրենդին, ապրանքին կամ արշավին։\n              Ստեղծվում է ալիքի ոճով, որպեսզի օրգանական ընկալվի լսարանի կողմից և վստահություն առաջացնի։",
-            "de": "Ein vollwertiges Video, das komplett einer Marke, einem Produkt oder einer Kampagne gewidmet ist.\nEs wird im Stil des Kanals erstellt, damit es vom Publikum organisch wahrgenommen wird und Vertrauen weckt.",
-            "fr": "Une vidéo complète entièrement dédiée à votre marque, produit ou campagne.\nCréée dans le style de la chaîne pour être perçue de manière organique par l'audience et inspirer confiance.",
-            "es": "[ES] Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие."
+            "en": "A full-featured video completely dedicated to your brand, product, or campaign.\nCreated in the channel's style to be organically perceived by the audience and build trust."
           },
           "hash": "aae6459237efbae27a58eebfa65df08a"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children1": {
           "content": {
             "ru": "Что включено",
-            "en": "What's included",
-            "hy": "Ինչ է ներառված",
-            "de": "Was enthalten ist",
-            "fr": "Ce qui est inclus",
-            "es": "[ES] Что включено"
+            "en": "What's included"
           },
           "hash": "9d0d9fd8806e980239dafd3c2e376112"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children1/children1/children1": {
           "content": {
             "ru": "1",
-            "en": "1",
-            "hy": "1",
-            "de": "1",
-            "fr": "1",
-            "es": "[ES] 1"
+            "en": "1"
           },
           "hash": "c4ca4238a0b923820dcc509a6f75849b"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children1/children1/children3/children1": {
           "content": {
             "ru": "Концепт и сценарий",
-            "en": "Concept and script",
-            "hy": "Կոնցեպտ և սցենար",
-            "de": "Konzept und Drehbuch",
-            "fr": "Concept et scénario",
-            "es": "[ES] Концепт и сценарий"
+            "en": "Concept and script"
           },
           "hash": "52a17e1c1486509bed520bd54e52b8f6"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children1/children1/children3/children3": {
           "content": {
             "ru": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.).",
-            "en": "Development of the video idea, creative approach, and script in collaboration with the brand. Possibility to adapt the product to the blogger's content (story, challenge, experiment, etc.).",
-            "hy": "Տեսահոլովակի գաղափարի, ստեղծագործական մոտեցման և սցենարի մշակում՝ համատեղ բրենդի հետ։ Հնարավորություն՝ հարմարեցնել ապրանքը բլոգերի բովանդակությանը (պատմություն, մարտահրավեր, փորձարկում և այլն)։",
-            "de": "Entwicklung der Videoidee, des Kreativkonzepts und des Drehbuchs gemeinsam mit der Marke. Möglichkeit, das Produkt an den Content des Bloggers anzupassen (Geschichte, Challenge, Experiment usw.).",
-            "fr": "Développement de l'idée de la vidéo, du concept créatif et du scénario en collaboration avec la marque. Possibilité d'adapter le produit au contenu du blogueur (histoire, challenge, expérience, etc.).",
-            "es": "[ES] Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.)."
+            "en": "Development of the video idea, creative approach, and script in collaboration with the brand. Possibility to adapt the product to the blogger's content (story, challenge, experiment, etc.)."
           },
           "hash": "9530304be666ab969e9d6d3f8cbff755"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children3/children1/children1": {
           "content": {
             "ru": "2",
-            "en": "2",
-            "hy": "2",
-            "de": "2",
-            "fr": "2",
-            "es": "[ES] 2"
+            "en": "2"
           },
           "hash": "c81e728d9d4c2f636f067f89cc14862c"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children3/children1/children3/children1": {
           "content": {
             "ru": "Съёмка и продакшн",
-            "en": "Filming and Production",
-            "hy": "Նկարահանում և պրոդաքշն",
-            "de": "Aufnahme und Produktion",
-            "fr": "Tournage et production",
-            "es": "Grabación y producción"
+            "en": "Filming and Production"
           },
           "hash": "e35ae825ffae8fcd71a8b8d24cfd1b29"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children3/children1/children3/children3": {
           "content": {
             "ru": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук.",
-            "en": "Full-scale video production in the channel's style: staging, editing, color correction, graphics, sound.",
-            "hy": "Լիարժեք տեսանյութի նկարահանում ալիքի ոճով՝ բեմադրություն, մոնտաժ, գունային շտկում, գրաֆիկա, ձայն։",
-            "de": "Vollständige Videoproduktion im Kanalstil: Inszenierung, Schnitt, Farbkorrektur, Grafik, Ton.",
-            "fr": "Production vidéo complète dans le style de la chaîne : mise en scène, montage, étalonnage, graphisme, son.",
-            "es": "Producción completa de video en el estilo del canal: dirección, montaje, corrección de color, gráficos, sonido."
+            "en": "Full-scale video production in the channel's style: staging, editing, color correction, graphics, sound."
           },
           "hash": "332e1f5b9eb3e97b8975af17fc440d9a"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children5/children1/children1": {
           "content": {
             "ru": "3",
-            "en": "3",
-            "hy": "3",
-            "de": "3",
-            "fr": "3",
-            "es": "3"
+            "en": "3"
           },
           "hash": "eccbc87e4b5ce2fe28308fd9f2a7baf3"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children5/children1/children3/children1": {
           "content": {
             "ru": "Полное упоминание бренда",
-            "en": "Complete Brand Mention",
-            "hy": "Բրենդի լիարժեք ներկայացում",
-            "de": "Vollständige Markennennung",
-            "fr": "Mention complète de la marque",
-            "es": "Mención completa de la marca"
+            "en": "Complete Brand Mention"
           },
           "hash": "b146fb3d4f460f03b94d49e55cf5888d"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children5/children1/children3/children3": {
           "content": {
             "ru": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ.",
-            "en": "Integration throughout the entire video: logo, product, key messages, demonstration of benefits.",
-            "hy": "Ինտեգրացիա ամբողջ տեսանյութի ընթացքում՝ լոգոտիպ, արտադրանք, հիմնական ուղերձներ, առավելությունների ցուցադրում։",
-            "de": "Integration während des gesamten Videos: Logo, Produkt, Kernbotschaften, Demonstration der Vorteile.",
-            "fr": "Intégration tout au long de la vidéo : logo, produit, messages clés, démonstration des avantages.",
-            "es": "Integración durante todo el video: logotipo, producto, mensajes clave, demostración de ventajas."
+            "en": "Integration throughout the entire video: logo, product, key messages, demonstration of benefits."
           },
           "hash": "9e87d68279631fdfdd69a1e7aea0872d"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children7/children1/children1": {
           "content": {
             "ru": "4",
-            "en": "4",
-            "hy": "4",
-            "de": "4",
-            "fr": "4",
-            "es": "4"
+            "en": "4"
           },
           "hash": "a87ff679a2f3e71d9181a67b7542122c"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children7/children1/children3/children1": {
           "content": {
             "ru": "Размещение и продвижение",
-            "en": "Placement and Promotion",
-            "hy": "Տեղադրում և առաջխաղացում",
-            "de": "Veröffentlichung und Promotion",
-            "fr": "Publication et promotion",
-            "es": "Publicación y promoción"
+            "en": "Placement and Promotion"
           },
           "hash": "ecd632cdae65d90b5eaa9f0dca255f8c"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children7/children1/children3/children3": {
           "content": {
             "ru": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях.",
-            "en": "Publication on the main YouTube channel with a pinned link in the description and first comment. Optionally - a post in the YouTube community or stories on other social networks.",
-            "hy": "Հրապարակում հիմնական YouTube-ալիքում՝ ամրացված հղումով նկարագրության մեջ և առաջին մեկնաբանության մեջ։ Ընտրովի՝ գրառում YouTube համայնքում կամ պատմություններ այլ սոցցանցերում։",
-            "de": "Veröffentlichung auf dem Haupt-YouTube-Kanal mit einem angepinnten Link in der Beschreibung und im ersten Kommentar. Optional – ein Beitrag in der YouTube-Community oder Stories in anderen sozialen Netzwerken.",
-            "fr": "Publication sur la chaîne YouTube principale avec lien épinglé dans la description et premier commentaire. En option - post dans la communauté YouTube ou stories sur d'autres réseaux sociaux.",
-            "es": "Publicación en el canal principal de YouTube con enlace fijado en la descripción y en el primer comentario. Opcionalmente - publicación en la comunidad de YouTube o historias en otras redes sociales."
+            "en": "Publication on the main YouTube channel with a pinned link in the description and first comment. Optionally - a post in the YouTube community or stories on other social networks."
           },
           "hash": "f381326140c4bbd7f5245a1fbe79390f"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children9/children1/children1": {
           "content": {
             "ru": "5",
-            "en": "5",
-            "hy": "5",
-            "de": "5",
-            "fr": "5",
-            "es": "5"
+            "en": "5"
           },
           "hash": "e4da3b7fbbce2345d7772b0674a318d5"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children9/children1/children3/children1": {
           "content": {
             "ru": "Отчётность",
-            "en": "Reporting",
-            "hy": "Հաշվետվություն",
-            "de": "Berichterstattung",
-            "fr": "Rapports",
-            "es": "Informes"
+            "en": "Reporting"
           },
           "hash": "1a6d2e076f1aacf13bd7216e05e63f42"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children9/children1/children9/children1/children3/children9/children1/children3/children3": {
           "content": {
             "ru": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость.",
-            "en": "Providing statistics after 7 and 30 days: views, retention, link clicks, engagement.",
-            "hy": "Վիճակագրության տրամադրում 7 և 30 օր անց՝ դիտումներ, պահպանում, հղումների սեղմումներ, ներգրավվածություն։",
-            "de": "Bereitstellung von Statistiken nach 7 und 30 Tagen: Aufrufe, Verweildauer, Klicks auf Links, Engagement.",
-            "fr": "Fourniture de statistiques après 7 et 30 jours : vues, rétention, clics sur les liens, engagement.",
-            "es": "Presentación de estadísticas a los 7 y 30 días: visualizaciones, retención, clics en enlaces, engagement."
+            "en": "Providing statistics after 7 and 30 days: views, retention, link clicks, engagement."
           },
           "hash": "0ce9b712d57176288b2152066df18475"
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children13/children1/children1": {
           "content": {
             "ru": "Обо мне",
-            "en": "About Me",
-            "hy": "Իմ մասին",
-            "de": "Über mich",
-            "fr": "À propos de moi",
-            "es": "Sobre mí"
+            "en": "About Me"
           },
           "hash": "cdc68bea105589853f2f508909596257"
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children1/children1": {
           "content": {
             "ru": "Меня зовут Анастасия Фаертаг.",
-            "en": "My name is Anastasia Faertag.",
-            "hy": "Իմ անունը Անաստասիա Ֆաերտագ է։",
-            "de": "Mein Name ist Anastasia Faertag.",
-            "fr": "Je m'appelle Anastasia Faertag.",
-            "es": "Me llamo Anastasia Faertag."
+            "en": "My name is Anastasia Faertag."
           },
           "hash": "4769a0f51d9a692d769ea22a12929565"
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children1/children3": {
           "content": {
             "ru": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube.",
-            "en": "For three years now, I've been living in Armenia and sharing my life here on YouTube.",
-            "hy": "Արդեն երեք տարի է, ինչ ապրում եմ Հայաստանում և YouTube-ում կիսվում եմ այստեղի իմ կյանքով։",
-            "de": "Seit drei Jahren lebe ich in Armenien und teile mein Leben hier auf YouTube.",
-            "fr": "Cela fait déjà trois ans que je vis en Arménie et que je partage ma vie ici sur YouTube.",
-            "es": "Llevo tres años viviendo en Armenia y compartiendo mi vida aquí en YouTube."
+            "en": "For three years now, I've been living in Armenia and sharing my life here on YouTube."
           },
           "hash": "973488ed655fd63b0e258e0c35651a50"
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children1/children5": {
           "content": {
             "ru": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить.",
-            "en": "In my videos, I talk about the people, culture, and inspiring stories of this amazing country - through the eyes of someone who once simply decided to stay and live here.",
-            "hy": "Իմ տեսանյութերում պատմում եմ այս զարմանահրաշ երկրի մարդկանց, մշակույթի և ոգեշնչող պատմությունների մասին՝ այն մարդու աչքերով, ով մի ժամանակ պարզապես որոշեց մնալ այստեղ ապրելու։",
-            "de": "In meinen Videos erzähle ich über die Menschen, die Kultur und inspirierende Geschichten dieses erstaunlichen Landes – aus der Perspektive einer Person, die sich einst entschied, hier zu leben.",
-            "fr": "Dans mes vidéos, je raconte les gens, la culture et les histoires inspirantes de ce pays étonnant - à travers les yeux de quelqu'un qui a simplement décidé d'y vivre.",
-            "es": "En mis videos hablo sobre la gente, la cultura y las historias inspiradoras de este increíble país, desde la perspectiva de alguien que simplemente decidió quedarse a vivir aquí."
+            "en": "In my videos, I talk about the people, culture, and inspiring stories of this amazing country - through the eyes of someone who once simply decided to stay and live here."
           },
           "hash": "0248b21d24caa3b9a16da25761ddd25c"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children1": {
+        "program/body3/declaration/body/body0/declarations0_arr_0": {
+          "content": {
+            "ru": "/anastasia.jpg",
+            "en": "/anastasia.jpg"
+          },
+          "hash": "b6a565feef660426807e09abe5c49f05"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_1": {
+          "content": {
+            "ru": "/anastasia1.jpg",
+            "en": "/anastasia1.jpg"
+          },
+          "hash": "0c6dc96433c95d09eb6afef7573e5550"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_2": {
+          "content": {
+            "ru": "/anastasia2.jpg",
+            "en": "/anastasia2.jpg"
+          },
+          "hash": "4f200874d290c20ea05a052bbba9bf77"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_3": {
+          "content": {
+            "ru": "/anastasia3.jpg",
+            "en": "/anastasia3.jpg"
+          },
+          "hash": "092b7530b9c5aadef67e19d3802964c0"
+        },
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children3/children1/children1/expression/arguments0/body/openingElement/attributes0/value/expression_quasi_0": {
+          "content": {
+            "ru": "story-",
+            "en": "story-"
+          },
+          "hash": "3313bbcc2d142579dad6df0da71a9da7"
+        },
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children3/children1/children1/expression/arguments0/body/openingElement/attributes5/value/expression_quasi_0": {
+          "content": {
+            "ru": "object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 ",
+            "en": "object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 "
+          },
+          "hash": "790a85de08f0fc641b0f3a49cd3d5ac1"
+        },
+        "program/body3/declaration/body/body7/argument/children17/children1/children1": {
           "content": {
             "ru": "Основная аудитория",
-            "en": "Main Audience",
-            "hy": "Հիմնական լսարան",
-            "de": "Hauptzielgruppe",
-            "fr": "Audience principale",
-            "es": "Audiencia principal"
+            "en": "Main Audience"
           },
           "hash": "0db361f861312c9aea45346f04943e4c"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children1/children1": {
           "content": {
             "ru": "География",
-            "en": "Geography",
-            "hy": "Աշխարհագրություն",
-            "de": "Geografie",
-            "fr": "Géographie",
-            "es": "Geografía"
+            "en": "Geography"
           },
           "hash": "79b6dc939ec525454973749d1b848f59"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children1/children3/children1/children1": {
           "content": {
             "ru": "🇦🇲 Армения",
-            "en": "🇦🇲 Armenia",
-            "hy": "🇦🇲 Հայաստան",
-            "de": "🇦🇲 Armenien",
-            "fr": "🇦🇲 Arménie",
-            "es": "🇦🇲 Armenia"
+            "en": "🇦🇲 Armenia"
           },
           "hash": "937ce309b9670a3708b975e62654dee0"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children1/children3/children1/children3": {
           "content": {
             "ru": "44 %",
-            "en": "44%",
-            "hy": "44 %",
-            "de": "44 %",
-            "fr": "44 %",
-            "es": "44 %"
+            "en": "44%"
           },
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children1/children3/children5/children1": {
           "content": {
             "ru": "🇷🇺 Россия",
-            "en": "🇷🇺 Russia",
-            "hy": "🇷🇺 Ռուսաստան",
-            "de": "🇷🇺 Russland",
-            "fr": "🇷🇺 Russie",
-            "es": "🇷🇺 Rusia"
+            "en": "🇷🇺 Russia"
           },
           "hash": "c5b7b93d54bb3f612c2f8c8b03cc9585"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children1/children3/children5/children3": {
           "content": {
             "ru": "22 %",
-            "en": "22 %",
-            "hy": "22 %",
-            "de": "22 %",
-            "fr": "22 %",
-            "es": "22 %"
+            "en": "22 %"
           },
           "hash": "24ed4d0fdf63f339ac47ca120b458aeb"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children3/children1": {
           "content": {
             "ru": "Пол",
-            "en": "Gender",
-            "hy": "Սեռ",
-            "de": "Geschlecht",
-            "fr": "Sexe",
-            "es": "Género"
+            "en": "Gender"
           },
           "hash": "516d25013f4f610460dba92134652f76"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children3/children3/children1/children1": {
           "content": {
             "ru": "Мужчины",
-            "en": "Men",
-            "hy": "Տղամարդիկ",
-            "de": "Männer",
-            "fr": "Hommes",
-            "es": "Hombres"
+            "en": "Men"
           },
           "hash": "b3e37d5b60ced2930a609af6cda24350"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children3/children3/children1/children3": {
           "content": {
             "ru": "69 %",
-            "en": "69 %",
-            "hy": "69 %",
-            "de": "69 %",
-            "fr": "69 %",
-            "es": "69 %"
+            "en": "69 %"
           },
           "hash": "8f0a7be86df8a8f8cb382d0febb1a681"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children3/children3/children5/children1": {
           "content": {
             "ru": "Женщины",
-            "en": "Women",
-            "hy": "Կանայք",
-            "de": "Frauen",
-            "fr": "Femmes",
-            "es": "Mujeres"
+            "en": "Women"
           },
           "hash": "7916588508db9a8f0e51b10767511499"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children3/children3/children5/children3": {
           "content": {
             "ru": "31 %",
-            "en": "31 %",
-            "hy": "31 %",
-            "de": "31 %",
-            "fr": "31 %",
-            "es": "31 %"
+            "en": "31 %"
           },
           "hash": "46bb5b3f8ddc24087893c43ed7732ba2"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children5/children1": {
           "content": {
             "ru": "Возраст",
-            "en": "Age",
-            "hy": "Տարիք",
-            "de": "Alter",
-            "fr": "Âge",
-            "es": "Edad"
+            "en": "Age"
           },
           "hash": "00870b4106645ad3ade4f09812f60516"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children17/children1/children3/children5/children3/children1/children1": {
           "content": {
             "ru": "25+",
-            "en": "25+",
-            "hy": "25+",
-            "de": "25+",
-            "fr": "25+",
-            "es": "25+"
+            "en": "25+"
           },
           "hash": "c77ccc21397d66cd4e968049ce830c8c"
         },
-        "program/body2/declaration/body/body7/argument/children19/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children21/children1/children1/children1": {
           "content": {
             "ru": "Подробная статистика",
-            "en": "Detailed Statistics",
-            "hy": "Մանրամասն վիճակագրություն",
-            "de": "Detaillierte Statistik",
-            "fr": "Statistiques détaillées",
-            "es": "Estadísticas detalladas"
+            "en": "Detailed Statistics"
           },
           "hash": "dad6f81abe0d432860d0304b4c129ec2"
         },
-        "program/body2/declaration/body/body7/argument/children19/children1/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children21/children1/children1/children3": {
           "content": {
             "ru": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики.",
-            "en": "YouTube Studio screenshots confirm channel statistics and build trust.\nAll figures are based on real analytics data.",
-            "hy": "YouTube Studio-ի սքրինշոթները հաստատում են ալիքի վիճակագրությունը և վստահություն են առաջացնում։ \n              Բոլոր թվերը հիմնված են իրական վերլուծական տվյալների վրա։",
-            "de": "Screenshots aus YouTube Studio bestätigen die Kanalstatistiken und schaffen Vertrauen. Alle Zahlen basieren auf realen Analysedaten.",
-            "fr": "Les captures d'écran de YouTube Studio confirment les statistiques de la chaîne et inspirent confiance.\nTous les chiffres sont basés sur des données analytiques réelles.",
-            "es": "Las capturas de pantalla de YouTube Studio confirman las estadísticas del canal y generan confianza.\nTodas las cifras están basadas en datos analíticos reales."
+            "en": "YouTube Studio screenshots confirm channel statistics and build trust.\nAll figures are based on real analytics data."
           },
           "hash": "c0c2bb619789f35b576e699d7b9b13d2"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children1": {
+        "program/body3/declaration/body/body2/declarations0_arr_0": {
+          "content": {
+            "ru": "/screen0.jpeg",
+            "en": "/screen0.jpeg"
+          },
+          "hash": "d2f254dd6f61953f70758b4930352da4"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_1": {
+          "content": {
+            "ru": "/screen1.jpeg",
+            "en": "/screen1.jpeg"
+          },
+          "hash": "9b0727d0ba463e8d9f1b10462d6ce90a"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_2": {
+          "content": {
+            "ru": "/screen2.jpeg",
+            "en": "/screen2.jpeg"
+          },
+          "hash": "7d0ed9eefe17224ff65d55cffa782051"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_3": {
+          "content": {
+            "ru": "/screen3.jpeg",
+            "en": "/screen3.jpeg"
+          },
+          "hash": "973ba8e18265a55bc7f49ae1049bc68d"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_4": {
+          "content": {
+            "ru": "/screen4.jpeg",
+            "en": "/screen4.jpeg"
+          },
+          "hash": "f8d4a64f9f82bcdbe657bb3cba57aba5"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_5": {
+          "content": {
+            "ru": "/screen5.jpeg",
+            "en": "/screen5.jpeg"
+          },
+          "hash": "17cf2411f1a8d227ed51ac47e2d68cf0"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_6": {
+          "content": {
+            "ru": "/screen6.jpeg",
+            "en": "/screen6.jpeg"
+          },
+          "hash": "2c002fd4bb18f83e5bf6b3c89911c165"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_7": {
+          "content": {
+            "ru": "/screen7.jpeg",
+            "en": "/screen7.jpeg"
+          },
+          "hash": "1b30d4d82e43b3ae07b37e3f2e854be3"
+        },
+        "program/body3/declaration/body/body7/argument/children21/children1/children3/children1/expression/arguments0/body/children1/openingElement/attributes1/value/expression_quasi_0": {
+          "content": {
+            "ru": "Статистика канала ",
+            "en": "Channel statistics "
+          },
+          "hash": "f5c7e4c34b293d142f18be8393e0c5f0"
+        },
+        "program/body3/declaration/body/body7/argument/children25/children1/children1": {
           "content": {
             "ru": "Дополнительные услуги",
-            "en": "Additional Services",
-            "hy": "Լրացուցիչ ծառայություններ",
-            "de": "Zusätzliche Dienstleistungen",
-            "fr": "Services supplémentaires",
-            "es": "Servicios adicionales"
+            "en": "Additional Services"
           },
           "hash": "2f65331185abdf3f4a7ac9f810ebbcb2"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children1": {
           "content": {
             "ru": "Прямая интеграция в видео",
-            "en": "Direct video integration",
-            "hy": "Ուղղակի ինտեգրում տեսանյութում",
-            "de": "Direkte Integration ins Video",
-            "fr": "Intégration directe dans la vidéo",
-            "es": "Integración directa en el video"
+            "en": "Direct video integration"
           },
           "hash": "6e56c1645ffa37e33df9f5cdbb8d4bb7"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children3": {
           "content": {
             "ru": "Упоминание продукта в основном видео",
-            "en": "Product mention in the main video",
-            "hy": "Ապրանքի հիշատակում հիմնական տեսանյութում",
-            "de": "Produkterwähnung im Hauptvideo",
-            "fr": "Mention du produit dans la vidéo principale",
-            "es": "Mención del producto en el video principal"
+            "en": "Product mention in the main video"
           },
           "hash": "08924c6d7933855c950f3bb74e234e75"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children5/children1": {
           "content": {
             "ru": "Формат",
-            "en": "Format",
-            "hy": "Ձևաչափ",
-            "de": "Format",
-            "fr": "Format",
-            "es": "Formato"
+            "en": "Format"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children5/children3": {
           "content": {
             "ru": "30–90 секунд",
-            "en": "30-90 seconds",
-            "hy": "30–90 վայրկյան",
-            "de": "30–90 Sekunden",
-            "fr": "30–90 secondes",
-            "es": "30–90 segundos"
+            "en": "30-90 seconds"
           },
           "hash": "0c78c43eab259ed6dad4e71b1ce3b224"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children7/children1": {
           "content": {
             "ru": "Пример",
-            "en": "Example",
-            "hy": "Օրինակ",
-            "de": "Beispiel",
-            "fr": "Exemple",
-            "es": "Ejemplo"
+            "en": "Example"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children1/children7/children3": {
           "content": {
             "ru": "«Сегодня я пользуюсь X, и вот почему…»",
-            "en": "Today I use X, and here's why...",
-            "hy": "«Այսօր ես օգտագործում եմ X, և ահա թե ինչու...»",
-            "de": "\"Heute benutze ich X, und hier ist der Grund dafür...\"",
-            "fr": "«Aujourd'hui j'utilise X, et voici pourquoi...»",
-            "es": "«Hoy estoy usando X, y estas son las razones...»"
+            "en": "Today I use X, and here's why..."
           },
           "hash": "5c2830ec1bfab285e20977754ddd33fb"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children1": {
           "content": {
             "ru": "Product placement",
-            "en": "Product placement",
-            "hy": "Product placement",
-            "de": "Product Placement",
-            "fr": "Placement de produit",
-            "es": "Product placement"
+            "en": "Product placement"
           },
           "hash": "e005bba07c44b68cd7d35669856dc39d"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children3": {
           "content": {
             "ru": "Нативное размещение продукта в кадре",
-            "en": "Native product placement in the frame",
-            "hy": "Ապրանքի բնական տեղադրում կադրում",
-            "de": "Native Produktplatzierung im Bild",
-            "fr": "Placement natif du produit dans le cadre",
-            "es": "Colocación nativa del producto en escena"
+            "en": "Native product placement in the frame"
           },
           "hash": "4aae658ccf41eced3314b2f1955f27f0"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children5/children1": {
           "content": {
             "ru": "Формат",
-            "en": "Format",
-            "hy": "Ձևաչափ",
-            "de": "Format",
-            "fr": "Format",
-            "es": "Formato"
+            "en": "Format"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children5/children3": {
           "content": {
             "ru": "Без прямой речи",
-            "en": "Without direct speech",
-            "hy": "Առանց ուղղակի խոսքի",
-            "de": "Ohne direkte Rede",
-            "fr": "Sans discours direct",
-            "es": "Sin diálogo directo"
+            "en": "Without direct speech"
           },
           "hash": "3ffb0d750ed49505eb0bc5e63e99d3cd"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children7/children1": {
           "content": {
             "ru": "Пример",
-            "en": "Example",
-            "hy": "Օրինակ",
-            "de": "Beispiel",
-            "fr": "Exemple",
-            "es": "Ejemplo"
+            "en": "Example"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children3/children7/children3": {
           "content": {
             "ru": "Продукт стоит на фоне, используется в сцене",
-            "en": "Product is in the background, used in the scene",
-            "hy": "Ապրանքը գտնվում է ֆոնի վրա, օգտագործվում է տեսարանում",
-            "de": "Produkt steht im Hintergrund, wird in der Szene verwendet",
-            "fr": "Le produit est en arrière-plan, utilisé dans la scène",
-            "es": "El producto está en el fondo, se utiliza en la escena"
+            "en": "Product is in the background, used in the scene"
           },
           "hash": "9d4e85f5e3bbb5c8c8497a47c2c96cc8"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children1": {
           "content": {
             "ru": "Интро / аутро вставка",
-            "en": "Intro / outro insert",
-            "hy": "Ինտրո / աութրո ներդիր",
-            "de": "Intro / Outro Einblendung",
-            "fr": "Insert intro/outro",
-            "es": "Inserción de intro/outro"
+            "en": "Intro / outro insert"
           },
           "hash": "7568036cd970374215bc9c90b7397cf3"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children3": {
           "content": {
             "ru": "Короткий спонсорский блок в начале или конце",
-            "en": "Short sponsorship block at the beginning or end",
-            "hy": "Կարճ հովանավորչական բլոկ սկզբում կամ վերջում",
-            "de": "Kurzer Sponsorenblock am Anfang oder Ende",
-            "fr": "Court segment sponsorisé au début ou à la fin",
-            "es": "Breve bloque de patrocinio al principio o al final"
+            "en": "Short sponsorship block at the beginning or end"
           },
           "hash": "984d6b0cd4a7f3fec5aff7ba122fb163"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children5/children1": {
           "content": {
             "ru": "Формат",
-            "en": "Format",
-            "hy": "Ձևաչափ",
-            "de": "Format",
-            "fr": "Format",
-            "es": "Formato"
+            "en": "Format"
           },
           "hash": "f8331b9a03f86f839d48d2e2b9496684"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children5/children3": {
           "content": {
             "ru": "5–15 секунд",
-            "en": "5–15 seconds",
-            "hy": "5–15 վայրկյան",
-            "de": "5–15 Sekunden",
-            "fr": "5 à 15 secondes",
-            "es": "5-15 segundos"
+            "en": "5–15 seconds"
           },
           "hash": "17e6808a05a1787ef1674926d5b52ed4"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children7/children1": {
           "content": {
             "ru": "Пример",
-            "en": "Example",
-            "hy": "Օրինակ",
-            "de": "Beispiel",
-            "fr": "Exemple",
-            "es": "Ejemplo"
+            "en": "Example"
           },
           "hash": "643b0b0fd7d0194b40c648c417b58a79"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children25/children1/children3/children5/children7/children3": {
           "content": {
             "ru": "«Ролик создан при поддержке…»",
-            "en": "\"Video created with the support of...\"",
-            "hy": "«Տեսանյութը ստեղծվել է աջակցությամբ...»",
-            "de": "„Video erstellt mit Unterstützung von...",
-            "fr": "«Vidéo créée avec le soutien de...»",
-            "es": "«El video fue creado con el apoyo de...»"
+            "en": "\"Video created with the support of...\""
           },
           "hash": "0882f28bb6f4d23f4134d3ce5c0a5e96"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children1": {
           "content": {
             "ru": "Связаться с нами",
-            "en": "Contact us",
-            "hy": "Կապվեք մեզ հետ",
-            "de": "Kontaktieren Sie uns",
-            "fr": "Nous contacter",
-            "es": "Contacta con nosotros"
+            "en": "Contact us"
           },
           "hash": "a0bd28558c61642728c2b3ed71228830"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children3": {
           "content": {
             "ru": "Готовы обсудить сотрудничество? Выберите удобный способ связи",
-            "en": "Ready to discuss collaboration? Choose a convenient way to connect",
-            "hy": "Պատրա՞ստ եք քննարկել համագործակցությունը: Ընտրեք հարմար կապի միջոց",
-            "de": "Bereit für eine Zusammenarbeit? Wählen Sie Ihre bevorzugte Kontaktmethode",
-            "fr": "Prêt à discuter d'une collaboration ? Choisissez votre moyen de contact préféré",
-            "es": "¿Listo para hablar sobre una colaboración? Elige el método de contacto que prefieras"
+            "en": "Ready to discuss collaboration? Choose a convenient way to connect"
           },
           "hash": "8a132ab188d263564ff09b197999e198"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children1/children1": {
           "content": {
             "ru": "💬",
-            "en": "💬",
-            "hy": "💬",
-            "de": "💬",
-            "fr": "💬",
-            "es": "💬"
+            "en": "💬"
           },
           "hash": "fdbe5f31832eb8e8697153ce6d003c69"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children1/children3": {
           "content": {
             "ru": "WhatsApp",
-            "en": "WhatsApp",
-            "hy": "WhatsApp",
-            "de": "WhatsApp",
-            "fr": "WhatsApp",
-            "es": "WhatsApp"
+            "en": "WhatsApp"
           },
           "hash": "8b777ebcc5034ce0fe96dd154bcb370e"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children1/children5": {
           "content": {
             "ru": "+37495051893",
-            "en": "+37495051893",
-            "hy": "+37495051893",
-            "de": "+37495051893",
-            "fr": "+37495051893",
-            "es": "+37495051893"
+            "en": "+37495051893"
           },
           "hash": "5f106639ef2f27cf22844f29d9c6dc47"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children3/children1": {
           "content": {
             "ru": "✉️",
-            "en": "✉️",
-            "hy": "✉️",
-            "de": "✉️",
-            "fr": "✉️",
-            "es": "✉️"
+            "en": "✉️"
           },
           "hash": "43a32fe6d19ae73d9a4aa6085c5f9165"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children3/children3": {
           "content": {
             "ru": "Email",
-            "en": "Email",
-            "hy": "Էլ․ փոստ",
-            "de": "E-Mail",
-            "fr": "Email",
-            "es": "Email"
+            "en": "Email"
           },
           "hash": "ce8ae9da5b7cd6c3df2929543a9af92d"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children5": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children3/children5": {
           "content": {
             "ru": "anastasia@faertag.com",
-            "en": "anastasia@faertag.com",
-            "hy": "anastasia@faertag.com",
-            "de": "anastasia@faertag.com",
-            "fr": "anastasia@faertag.com",
-            "es": "anastasia@faertag.com"
+            "en": "anastasia@faertag.com"
           },
           "hash": "118a8bc0e7222e4d82dfab8eaee17395"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children5/children1": {
           "content": {
             "ru": "✈️",
-            "en": "✈️",
-            "hy": "✈️",
-            "de": "✈️",
-            "fr": "✈️",
-            "es": "✈️"
+            "en": "✈️"
           },
           "hash": "92334ebc6030367a208909776a7b9d3a"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children5/children3": {
           "content": {
             "ru": "Telegram",
-            "en": "Telegram",
-            "hy": "Telegram",
-            "de": "Telegram",
-            "fr": "Telegram",
-            "es": "Telegram"
+            "en": "Telegram"
           },
           "hash": "c915683f3ec888b8edcc7b06bd1428ec"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children5": {
+        "program/body3/declaration/body/body7/argument/children29/children1/children5/children5/children5": {
           "content": {
             "ru": "psych_faertag",
-            "en": "psych_faertag",
-            "hy": "psych_faertag",
-            "de": "psych_faertag",
-            "fr": "psych_faertag",
-            "es": "psych_faertag"
+            "en": "psych_faertag"
           },
           "hash": "953bd81cf8b28c347b3348f310657339"
         },
-        "program/body2/declaration/body/body7/argument/children31/children1": {
+        "program/body3/declaration/body/body7/argument/children33/children1": {
           "content": {
-            "ru": "©FAERTAG IN. Все права защищены.",
-            "en": "©FAERTAG IN. All rights reserved.",
-            "hy": "©FAERTAG IN. Բոլոր իրավունքները պաշտպանված են։",
-            "de": "©FAERTAG IN. Alle Rechte vorbehalten.",
-            "fr": "[FR] ©FAERTAG IN. Все права защищены.",
-            "es": "©FAERTAG IN. Todos los derechos reservados."
+            "ru": "©  FAERTAG IN. Все права защищены.",
+            "en": "© FAERTAG IN. All rights reserved."
           },
-          "hash": "09926952d335bbc5247a4daa0a94ea85"
+          "hash": "f064b4dc0da03d331a45ac4a6b35bc58"
+        },
+        "program/body3/declaration/body/body7/argument/children5/children1/children1/children3/children1/children1/expression/arguments0/body/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Анастасия Фаертаг",
+            "en": "Anastasia Faertag"
+          },
+          "hash": "03ee0c9c5bb39701227c30e9095397fa"
+        },
+        "program/body3/declaration/body/body7/argument/children13/children1/children3/children3/children1/children1/expression/arguments0/body/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Анастасия Фаертаг",
+            "en": "Anastasia Faertag"
+          },
+          "hash": "03ee0c9c5bb39701227c30e9095397fa"
+        },
+        "program/body3/declaration/body/body7/argument/children21/children1/children3/children1/expression/arguments0/body/children1/openingElement/attributes1_attr_alt": {
+          "content": {
+            "ru": "Статистика канала {expr}",
+            "en": "Channel statistics {expr}"
+          },
+          "hash": "e9568b1ef316fb2c88b86fbb6174128d"
         }
       }
     },
-    "node_modules/algebras-auto-intl/src/runtime/client/components/LocaleSwitcher.tsx": {
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/next.js-15/app/page.tsx": {
       "entries": {
-        "program/body4/declarations0/init/body/children1": {
+        "program/body1/declaration/body/body0/argument/children1/children3/children1": {
           "content": {
-            "ru": "🌐",
-            "en": "🌐",
-            "hy": "🌐",
-            "de": "🌐",
-            "fr": "[FR] 🌐",
-            "es": "🌐"
+            "ru": "Get started by editing \n            <element:code>app/page.tsx</element:code>\n            .",
+            "en": "Get started by editing \n <element:code>app/page.tsx</element:code>\n ."
           },
-          "hash": "c485b7bfb6dddc0e68359b58c67168a6"
+          "hash": "c796613b4ef8c6a0c37c510f23169553"
         },
-        "program/body4/declarations0/init/body/children3": {
+        "program/body1/declaration/body/body0/argument/children1/children3/children3": {
+          "content": {
+            "ru": "Save and see your changes instantly.",
+            "en": "Save and see your changes instantly."
+          },
+          "hash": "2607755c4ddbc775d069493771b09537"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children1": {
+          "content": {
+            "ru": "<element:Image></element:Image>\n            Deploy now",
+            "en": "<element:Image></element:Image>\n Deploy now"
+          },
+          "hash": "8698aaaeb5ce0aba5aee9b06fcbb383b"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children3": {
+          "content": {
+            "ru": "Read our docs",
+            "en": "Read our docs"
+          },
+          "hash": "e6fea0df9c3eed26b518a5db6d04c1e1"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "<element:Image></element:Image>\n          Learn",
+            "en": "<element:Image></element:Image>\n Learn"
+          },
+          "hash": "c8afb52bd3e9a656961977023daf6c9f"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children3": {
+          "content": {
+            "ru": "<element:Image></element:Image>\n          Examples",
+            "en": "<element:Image></element:Image>\n Examples"
+          },
+          "hash": "32ec4c2f6362ebb44d30d8601db6caea"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children5": {
+          "content": {
+            "ru": "<element:Image></element:Image>\n          Go to nextjs.org →",
+            "en": "<element:Image></element:Image>\n Go to nextjs.org →"
+          },
+          "hash": "4157373099e225bb0c6f5ee7fce62de3"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Next.js logo",
+            "en": "Next.js logo"
+          },
+          "hash": "db343f150b4b41bb2d905f1937aebf3c"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children1/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Vercel logomark",
+            "en": "Vercel logomark"
+          },
+          "hash": "900e6c79dce19a29c7cf4b444dae8943"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "File icon",
+            "en": "File icon"
+          },
+          "hash": "e12d8d9bcc383759722a4bc32c3f9637"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children3/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Window icon",
+            "en": "Window icon"
+          },
+          "hash": "a03fbeb80e8aed35f9e683360ef015cb"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children5/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Globe icon",
+            "en": "Globe icon"
+          },
+          "hash": "2af077e93468b3fb9a929692fb0833ac"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/next.js-16/app/page.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body0/argument/children1/children3/children1": {
+          "content": {
+            "ru": "To get started, edit the page.tsx file.",
+            "en": "To get started, edit the page.tsx file."
+          },
+          "hash": "bdff3fcf8d61c130ed99cb03802d4309"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children3/children3": {
+          "content": {
+            "ru": "Looking for a starting point or more instructions? Head over to \n            <element:a>Templates</element:a> \n            or the \n            <element:a>Learning</element:a> \n            center.",
+            "en": "Looking for a starting point or more instructions? Head over to \n <element:a>Templates</element:a> \n or the \n <element:a>Learning</element:a> \n center."
+          },
+          "hash": "f1eb6e28241ddcc0816cb42e83ec7916"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children5/children1": {
+          "content": {
+            "ru": "<element:Image></element:Image>\n            Deploy Now",
+            "en": "<element:Image></element:Image>\n Deploy Now"
+          },
+          "hash": "aa0de4f9a2633a20879ae75c87adf6d0"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children5/children3": {
+          "content": {
+            "ru": "Documentation",
+            "en": "Documentation"
+          },
+          "hash": "5b6cf869265c13af8566f192b4ab3d2a"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Next.js logo",
+            "en": "Next.js logo"
+          },
+          "hash": "db343f150b4b41bb2d905f1937aebf3c"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children5/children1/children1/openingElement/attributes2_attr_alt": {
+          "content": {
+            "ru": "Vercel logomark",
+            "en": "Vercel logomark"
+          },
+          "hash": "900e6c79dce19a29c7cf4b444dae8943"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/1-direct-rendering/components/SimpleText.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>Simple text</div>",
+            "en": "<div>Simple text</div>"
+          },
+          "hash": "9cc7957f78d6a68033415cdf27360485"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Simple text",
+            "en": "Simple text"
+          },
+          "hash": "e69eabf2014b5bb19e8f7ecb8213afe6"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> The simplest way - a string directly\n        between opening and closing tags.",
+            "en": "<element:strong>AST Type:</element:strong> JSXText\n <element:br></element:br>\n <element:strong>Description:</element:strong> The simplest way - a string directly\n between opening and closing tags."
+          },
+          "hash": "a8ad654199323b5fc28aaa92a3e4f297"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/1-direct-rendering/components/TextBetweenElements.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>Text <span>between</span> elements</div>",
+            "en": "<div>Text <span>between</span> elements</div>"
+          },
+          "hash": "9a43720e8ff6085d1b68e68a7d2de08d"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text <element:span>between</element:span> elements",
+            "en": "Text <element:span>between</element:span> elements"
+          },
+          "hash": "56e027cf5988f666f1a81bdd0ef43973"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> Multiple JSXText nodes\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Each text fragment between elements\n        becomes a separate JSXText node.",
+            "en": "<element:strong>AST Type:</element:strong> Multiple JSXText nodes\n <element:br></element:br>\n <element:strong>Description:</element:strong> Each text fragment between elements\n becomes a separate JSXText node."
+          },
+          "hash": "e99d143c84f63889dadac916bbe35b1c"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/1-direct-rendering/components/TextWithExplicitSpaces.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>Text{ } <span>with space</span> \n          { }between elements</div>",
+            "en": "<div>Text{ } <span>with space</span> \n { }between elements</div>"
+          },
+          "hash": "a9e98a8e5cc9271915076dd332aa80b4"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text \n          <element:span>with space</element:span>\n           between elements",
+            "en": "Text \n <element:span>with space</element:span>\n between elements"
+          },
+          "hash": "be06bd39cdd267e4f36ec9bb8dc30f28"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText + JSXExpressionContainer +\n        JSXElement\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Uses { } to explicitly preserve\n        spaces between elements.",
+            "en": "<element:strong>AST Type:</element:strong> JSXText + JSXExpressionContainer +\n JSXElement\n <element:br></element:br>\n <element:strong>Description:</element:strong> Uses { } to explicitly preserve\n spaces between elements."
+          },
+          "hash": "286ae646a4a72711658ab30d8a3fb942"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/1-direct-rendering/components/TextWithSpaces.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>Text with spaces and line breaks</div>",
+            "en": "<div>Text with spaces and line breaks</div>"
+          },
+          "hash": "fd6cd8d566a7769a9214b191106b20cc"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text with spaces and line breaks",
+            "en": "Text with spaces and line breaks"
+          },
+          "hash": "f505eeed95599f5b052c12126fd697c3"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Spaces and line breaks are preserved in\n        JSXText, but React normalizes them during rendering.",
+            "en": "<element:strong>AST Type:</element:strong> JSXText\n <element:br></element:br>\n <element:strong>Description:</element:strong> Spaces and line breaks are preserved in\n JSXText, but React normalizes them during rendering."
+          },
+          "hash": "1672f534864f1fd88f62c02428ee5189"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/1-direct-rendering/page.tsx": {
+      "entries": {
+        "program/body4/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "1. Direct Rendering - JSXText between tags",
+            "en": "1. Direct Rendering - JSXText between tags"
+          },
+          "hash": "353b9ffd4b835fff6902a40a08eb5cac"
+        },
+        "program/body4/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "1.1 Simple text between tags",
+            "en": "1.1 Simple text between tags"
+          },
+          "hash": "55d5c089982b9df64b510b54c370a15c"
+        },
+        "program/body4/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "1.2 Text with spaces",
+            "en": "1.2 Text with spaces"
+          },
+          "hash": "4871133373336feda1880382cc9b6496"
+        },
+        "program/body4/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "1.3 Text with spaces between elements",
+            "en": "1.3 Text with spaces between elements"
+          },
+          "hash": "280b903c34527fb8d65afbc564ff8f50"
+        },
+        "program/body4/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "1.4 Text with explicit spaces via expression",
+            "en": "1.4 Text with explicit spaces via expression"
+          },
+          "hash": "ea5be83c9d137553da1690b08996da68"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/10-special-cases/components/ErrorBoundary.tsx": {
+      "entries": {
+        "program/body4/body/body1/argument": {
+          "content": {
+            "ru": "This won't render",
+            "en": "This won't render"
+          },
+          "hash": "7cd8009edd1d99dc22ebc62f60a35c50"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<ErrorBoundary fallback={<div>An error occurred</div>}>",
+            "en": "<ErrorBoundary fallback={<div>An error occurred</div>}>"
+          },
+          "hash": "de918de0afbdcbb4aaa3153a7777e435"
+        },
+        "program/body5/declaration/body/body0/argument/children3/children1/openingElement/attributes0/value/expression": {
+          "content": {
+            "ru": "An error occurred",
+            "en": "An error occurred"
+          },
+          "hash": "a25c753ee3e4be15ec0daa5a40deb7b8"
+        },
+        "program/body5/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement with JSXAttribute (fallback)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String in Error Boundary fallback component.",
+            "en": "<element:strong>AST Type:</element:strong> JSXElement with JSXAttribute (fallback) \n <element:br></element:br>\n <element:strong>Description:</element:strong> String in Error Boundary fallback component."
+          },
+          "hash": "4feb15f8e21190ba79e0f4756059add5"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/10-special-cases/components/Portals.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body3/argument/children1/children1": {
+          "content": {
+            "ru": "createPortal(<div>Content in portal</div>, document.body)",
+            "en": "createPortal (<div>Content in portal</div>, document.body)"
+          },
+          "hash": "5543d17e5165044a48d00039d2e28f1a"
+        },
+        "program/body2/declaration/body/body3/argument/children3": {
+          "content": {
+            "ru": "Portal content is rendered to document.body (check browser inspector)\n        ",
+            "en": "Portal content is rendered to document.body (check browser inspector)\n        "
+          },
+          "hash": "1f24b36d5d87b25ce81ec91d0a04a485"
+        },
+        "program/body2/declaration/body/body3/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (createPortal)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are rendered through a portal to\n        another DOM node.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (createPortal) \n <element:br></element:br>\n <element:strong>Description:</element:strong> Strings are rendered through a portal to\n another DOM node."
+          },
+          "hash": "69fabd80bc1b82ee9631c2e1b614148b"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/10-special-cases/components/SuspenseFallback.tsx": {
+      "entries": {
+        "program/body1/body/body1/argument": {
+          "content": {
+            "ru": "Async content loaded",
+            "en": "Async content loaded"
+          },
+          "hash": "84bad8843fe76ca2703e360a4934c77a"
+        },
+        "program/body2/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Suspense fallback={<div>Loading...</div>}>",
+            "en": "<Suspense fallback={<div>Loading...</div>}>"
+          },
+          "hash": "fb26ac56e492404dbbf023bd99f65ffa"
+        },
+        "program/body2/declaration/body/body0/argument/children3/children1/openingElement/attributes0/value/expression": {
+          "content": {
+            "ru": "Loading...",
+            "en": "Loading..."
+          },
+          "hash": "8524de963f07201e5c086830d370797f"
+        },
+        "program/body2/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement (Suspense) with JSXAttribute (fallback)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String in Suspense fallback component.",
+            "en": "<element:strong>AST Type:</element:strong> JSXElement (Suspense) with JSXAttribute (fallback) \n <element:br></element:br>\n <element:strong>Description:</element:strong> String in Suspense fallback component."
+          },
+          "hash": "054e77a4d71ddc9fbc28a3cb291088b2"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/10-special-cases/page.tsx": {
+      "entries": {
+        "program/body3/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "10. Special Cases - portals, Suspense, Error Boundary",
+            "en": "10. Special Cases - portals, Suspense, Error Boundary"
+          },
+          "hash": "d6da010aaf4b4c219722ee76591c3a1d"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "10.1 Portals",
+            "en": "10.1 Portals"
+          },
+          "hash": "ca40bd6d16e464c04ea0f0a9ed1fdf6f"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "10.2 Suspense with fallback",
+            "en": "10.2 Suspense with fallback"
+          },
+          "hash": "2d126df09ad6ac0ba81a390f7e2a23fe"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "10.3 Error Boundary with message",
+            "en": "10.3 Error Boundary with message"
+          },
+          "hash": "d77b4f5d848c970fa4608850d7bd984b"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/ConditionalExpression.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{isLoggedIn ? \"Logout\" : \"Login\"\n          }</div>",
+            "en": "<div>{isLoggedIn ? \"Logout\": \"Login\"\n }</div>"
+          },
+          "hash": "1c5a94d89bcc9b060d63916df00c5eeb"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Toggle Login State",
+            "en": "Toggle Login State"
+          },
+          "hash": "b6e179cec630f45910cd3c506e3e8bc0"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1": {
+          "content": {
+            "ru": "{? \"Logout\" : \"Login\"}",
+            "en": "{? \"Logout\": \"Login\"}"
+          },
+          "hash": "bc5d44bc04b4db2f71d11344e8caca00"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_cond_0_consequent": {
+          "content": {
+            "ru": "Logout",
+            "en": "Logout"
+          },
+          "hash": "0323de4f66a1700e2173e9bcdce02715"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_cond_0_alternate": {
+          "content": {
+            "ru": "Login",
+            "en": "Login"
+          },
+          "hash": "99dea78007133396a7b8ed70578ac6ae"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with\n        ConditionalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Conditional expression returns a string\n        that is rendered.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with\nConditionalExpression\n<element:br></element:br>\n<element:strong>Description:</element:strong> Conditional expression returns a string\nthat is rendered."
+          },
+          "hash": "352b9f5541ed78f894ef5e89b1b5c83c"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/FunctionCall.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{getGreeting()}</div>",
+            "en": "<div>{getGreeting () }</div>"
+          },
+          "hash": "069e50b211afbbcdce365cd589bd12cb"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Hello from function",
+            "en": "Hello from function"
+          },
+          "hash": "bc27719767b2740a2f52973c138c9edd"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Function is called and returns a string\n        that is rendered.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n<element:br></element:br>\n<element:strong>Description:</element:strong> Function is called and returns a string\nthat is rendered."
+          },
+          "hash": "7bece7ef8da9c27483dd9bffafaa7a33"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/LogicalAnd.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{isVisible && \"Visible text\"}</div>",
+            "en": "<div>{isVisible && \"Visible text\"}</div>"
+          },
+          "hash": "3b718bd67d65eed9fe0888ffaf54bd15"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Toggle Visibility",
+            "en": "Toggle Visibility"
+          },
+          "hash": "923cf754dc998f7ecfca555db1fb1c36"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1": {
+          "content": {
+            "ru": "Visible text",
+            "en": "Visible text"
+          },
+          "hash": "59ec4127bbd76101af792d315cc264dc"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_logic_0_and_right": {
+          "content": {
+            "ru": "Visible text",
+            "en": "Visible text"
+          },
+          "hash": "59ec4127bbd76101af792d315cc264dc"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> If the left part is true, the right part\n        (string) is rendered.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n<element:br></element:br>\n<element:strong>Description:</element:strong> If the left part is true, the right part\n (string) is rendered."
+          },
+          "hash": "e95bf7b7f83aefc2f47f39ea83a73a60"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/StringConcatenation.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{\"Hello\" + \" \" + \"World\"\n          }</div>",
+            "en": "<div>{\"Hello\" + \" \" + \"World\"\n}</div>"
+          },
+          "hash": "de0cbb3a22d1855def61e26911102106"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Hello World",
+            "en": "Hello World"
+          },
+          "hash": "b10a8db164e0754105b7a99be72e3fe5"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with BinaryExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Result of string concatenation is rendered\n        as text.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with BinaryExpression\n<element:br></element:br>\n<element:strong>Description:</element:strong> Result of string concatenation is rendered\nas text."
+          },
+          "hash": "62d8eab7d8a342a902cf45f4e54b921e"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/StringLiteral.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{\"String in expression\"}</div>",
+            "en": "<div>{\"String in expression\"}</div>"
+          },
+          "hash": "47b7e7e734a0472f6261097140ea842d"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "String in expression",
+            "en": "String in expression"
+          },
+          "hash": "426756fb39cb710b433b30c5058f9545"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String wrapped in curly braces, but\n        it's still a string.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with StringLiteral\n<element:br></element:br>\n<element:strong>Description:</element:strong> String wrapped in curly braces, but\nit's still a string."
+          },
+          "hash": "1d306e2156eed69f434d170a1cf57ada"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/StringMethod.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{text.toUpperCase()}</div>",
+            "en": "<div>{text.toUpperCase () }</div>"
+          },
+          "hash": "5d9d7490a47ba2f625f01029f58e9e6d"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "HELLO WORLD",
+            "en": "HELLO WORLD"
+          },
+          "hash": "361fadf1c712e812d198c4cab5712a79"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        (MemberExpression)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String method returns a new string that\n        is rendered.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n (MemberExpression) \n<element:br></element:br>\n<element:strong>Description:</element:strong> String method returns a new string that\nis rendered."
+          },
+          "hash": "1724cbdbafe685e0bd3c24ce169aed69"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/TemplateLiteral.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "const name = \"World\"; <div>{`Hello, ${name\n          }\n          !`}</div>",
+            "en": "const name = \"World\"; <div>{'Hello, ${name\n}\n!'}</div>"
+          },
+          "hash": "02ece78d3b1ffd8e69d5cb9556c24298"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Hello, World!",
+            "en": "Hello, World!"
+          },
+          "hash": "65a8e27d8879283831b664bd8b7f0ad4"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with TemplateLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Template literal is evaluated and rendered\n        as a string.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with TemplateLiteral\n <element:br></element:br>\n <element:strong>Description:</element:strong> Template literal is evaluated and rendered\n as a string."
+          },
+          "hash": "061b7e72a409ff08c032c4bbef7fe695"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/components/VariableString.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "const text = \" Text from variable\"; <div>{text\n          }</div>",
+            "en": "const text = \" Text from variable\"; <div>{text\n }</div>"
+          },
+          "hash": "ec224ca43a4bc0512496ec503cedc29b"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Text from variable",
+            "en": "Text from variable"
+          },
+          "hash": "e640808fdfd2e22d8e9fade24d5b2a29"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Variable containing a string is rendered\n        as text.",
+            "en": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n <element:br></element:br>\n <element:strong>Description:</element:strong> Variable containing a string is rendered\n as text."
+          },
+          "hash": "192bcb7ebdd329b9065c1d16b20e19d1"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/2-expressions/page.tsx": {
+      "entries": {
+        "program/body8/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "2. Expressions - JSXExpressionContainer",
+            "en": "2. Expressions - JSXExpressionContainer"
+          },
+          "hash": "ad731ecee5ecec8af88f29b64ca69ee1"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "2.1 String literal in expression",
+            "en": "2.1 String literal in expression"
+          },
+          "hash": "0a37f1f6a65c9f3288d1cc646a6f8a3a"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "2.2 Variable with string",
+            "en": "2.2 Variable with string"
+          },
+          "hash": "6ba4384c267c95b7d77b3ccd6a684ad2"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "2.3 String concatenation",
+            "en": "2.3 String concatenation"
+          },
+          "hash": "5a11171781d3ad2cfaa354c878c2ba91"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "2.4 Template literals",
+            "en": "2.4 Template literals"
+          },
+          "hash": "39af14c7688252acb561419405338376"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "2.5 Conditional expression (ternary)",
+            "en": "2.5 Conditional expression (ternary)"
+          },
+          "hash": "785b04713602b8ef0b4d7b67afce358d"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children11/children1": {
+          "content": {
+            "ru": "2.6 Logical AND (&&)",
+            "en": "2.6 Logical AND (&&)"
+          },
+          "hash": "c7be86692baaed2134057cf19cb24c34"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children13/children1": {
+          "content": {
+            "ru": "2.7 Function call returning string",
+            "en": "2.7 Function call returning string"
+          },
+          "hash": "91dd6b3156125eb002230f6f8750ff44"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children15/children1": {
+          "content": {
+            "ru": "2.8 String method",
+            "en": "2.8 String method"
+          },
+          "hash": "d486831fb3dc3ba5644ab7490a41b139"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/3-visible-attributes/components/AltAttribute.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Image src=\"/next.svg\" alt=\"Image description\"\n          width= height= />",
+            "en": "<Image src=\"/next.svg\" alt=\"Image description\"\n width= height= />"
+          },
+          "hash": "7cd259bf76db2f50019c3a137a3ec9ea"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1/children3": {
+          "content": {
+            "ru": "Alt text: \"Image description\" (visible if image fails to\n            load or via screen readers)",
+            "en": "Alt text: \"Image description\" (visible if image fails to\n load or via screen readers)"
+          },
+          "hash": "4cbf9e0c24f7fe6c0c0694c22a6abf3a"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n        JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String in the alt attribute is displayed\n        if the image fails to load and is used by screen readers. Visible to\n        users.",
+            "en": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n JSXExpressionContainer\n <element:br></element:br>\n <element:strong>Description:</element:strong> String in the alt attribute is displayed\n if the image fails to load and is used by screen readers. Visible to\n users."
+          },
+          "hash": "a9d9fdc19e57fbca6bee7f1bdf233b18"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1/children1/openingElement/attributes1_attr_alt": {
+          "content": {
+            "ru": "Image description",
+            "en": "Image description"
+          },
+          "hash": "18f2ae2bda9a34f06975d5c124643168"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/3-visible-attributes/components/AriaAttributes.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<button aria-label=\"Close dialog\">×</button>",
+            "en": "<button aria-label=\"Close dialog\">×</button>"
+          },
+          "hash": "c0a3096726084b3c9ef2b9e1a774120d"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "×",
+            "en": "×"
+          },
+          "hash": "6392228661363e75c352077a2cfe66d7"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children3": {
+          "content": {
+            "ru": "aria-label is read by screen readers",
+            "en": "[EN] aria-label is read by screen readers"
+          },
+          "hash": "e78100c0b517984ffb7e0020727463c5"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n        JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> aria-label, aria-describedby,\n        aria-placeholder and other ARIA attributes are used by screen readers\n        and visible to users with disabilities. Subject to localization.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n        JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> aria-label, aria-describedby,\n        aria-placeholder and other ARIA attributes are used by screen readers\n        and visible to users with disabilities. Subject to localization."
+          },
+          "hash": "684d7df5a2b615265243b2efa1ff6e54"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/openingElement/attributes0_attr_aria-label": {
+          "content": {
+            "ru": "Close dialog",
+            "en": "[EN] Close dialog"
+          },
+          "hash": "3c62b9dcfe365792b2fbb6e15dc82c80"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/3-visible-attributes/components/TitleAttribute.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div title=\"Tooltip on hover\">Content</div>",
+            "en": "[EN] <div title=\"Tooltip on hover\">Content</div>"
+          },
+          "hash": "c8e2590d8cb41bbafcbd0cbd0752a492"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Hover over me to see tooltip",
+            "en": "[EN] Hover over me to see tooltip"
+          },
+          "hash": "6eecce389dbf7070ffa239a6ffba7051"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String in the title attribute is displayed\n        in a tooltip when hovering. Visible to users.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String in the title attribute is displayed\n        in a tooltip when hovering. Visible to users."
+          },
+          "hash": "1aff1779ce392c4a0e08c090d35a50d2"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/openingElement/attributes0_attr_title": {
+          "content": {
+            "ru": "Tooltip on hover",
+            "en": "[EN] Tooltip on hover"
+          },
+          "hash": "cafa289476a2aae5108bd795a0ad2f7c"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/3-visible-attributes/page.tsx": {
+      "entries": {
+        "program/body3/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "3. Visible Attributes - title, alt, aria-*",
+            "en": "[EN] 3. Visible Attributes - title, alt, aria-*"
+          },
+          "hash": "b2aafd9a6b651a9162ba84852682e697"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "3.1 title attribute (tooltip)",
+            "en": "[EN] 3.1 title attribute (tooltip)"
+          },
+          "hash": "61cc32fff565659bfde7d2ad3dc6b58e"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "3.2 alt attribute (alternative image text)",
+            "en": "[EN] 3.2 alt attribute (alternative image text)"
+          },
+          "hash": "60ce61e972aaa239c27c05be44d8c7c6"
+        },
+        "program/body3/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "3.3 Accessibility attributes (ARIA)",
+            "en": "[EN] 3.3 Accessibility attributes (ARIA)"
+          },
+          "hash": "83fbd431e369ae712276b3f11f5f2c34"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/components/ChildAsString.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Component>Child element text</Component>",
+            "en": "[EN] <Component>Child element text</Component>"
+          },
+          "hash": "6438dcb035e07862e2a93e033425e9b8"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Child element text",
+            "en": "[EN] Child element text"
+          },
+          "hash": "f9e3289e688364d487eefaf1ff52dd8f"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement with JSXText in children\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed as children of the component.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXElement with JSXText in children\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed as children of the component."
+          },
+          "hash": "1c45df7ef52dc240eaa7d15e7fe513f7"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/components/ChildrenProp.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Component>Text</Component>",
+            "en": "[EN] <Component>Text</Component>"
+          },
+          "hash": "4f3f75425d133c418a758015373a7d6e"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text",
+            "en": "[EN] Text"
+          },
+          "hash": "9dffbf69ffba8bc38bc4e01abf4b1675"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement with children\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed through the children prop.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXElement with children\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed through the children prop."
+          },
+          "hash": "b24bdfb42093300d2837d86bab3590f8"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/components/PropsAsString.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Button label=\"Click me\" />",
+            "en": "[EN] <Button label=\"Click me\" />"
+          },
+          "hash": "7fbd9728d7eb9a3815f7d4fc34e475c6"
+        },
+        "program/body2/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed through a prop and\n        rendered as visible text. Important: technical props (id, className,\n        data-*, etc.) are not subject to localization.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is passed through a prop and\n        rendered as visible text. Important: technical props (id, className,\n        data-*, etc.) are not subject to localization."
+          },
+          "hash": "37f01cb16cf5bf2ad3710cc4e53ab143"
+        },
+        "program/body2/declaration/body/body0/argument/children3/children1/openingElement/attributes0_attr_label": {
+          "content": {
+            "ru": "Click ",
+            "en": "[EN] Click "
+          },
+          "hash": "89e86fca338e017887dbde7965c10b75"
+        },
+        "program/body2/declaration/body/body0/argument/children3/children3/openingElement/attributes0_attr_message": {
+          "content": {
+            "ru": "An error occurred",
+            "en": "[EN] An error occurred"
+          },
+          "hash": "a25c753ee3e4be15ec0daa5a40deb7b8"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/components/RenderingViaComponent.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<TextComponent text=\"Text\" />",
+            "en": "[EN] <TextComponent text=\"Text\" />"
+          },
+          "hash": "fd8e8832adc8806b3349dd4671744fef"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement (component)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Component receives a string and renders it.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXElement (component)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Component receives a string and renders it."
+          },
+          "hash": "030d4c50c353d26b210f2b0fcaf3ac6f"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1/openingElement/attributes0_attr_text": {
+          "content": {
+            "ru": "Text",
+            "en": "[EN] Text"
+          },
+          "hash": "9dffbf69ffba8bc38bc4e01abf4b1675"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/components/WrapperComponent.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<Bold>Bold text</Bold>",
+            "en": "[EN] <Bold>Bold text</Bold>"
+          },
+          "hash": "2435d879ea8ca5461bbd381dfd2d08a1"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Bold text",
+            "en": "[EN] Bold text"
+          },
+          "hash": "da77091f0857719acccaeac900126758"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXElement with nested JSXText\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Component wraps a string in additional tags.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXElement with nested JSXText\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Component wraps a string in additional tags."
+          },
+          "hash": "205b53498f358674fbb56a35acd8abae"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/4-components/page.tsx": {
+      "entries": {
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "4. Components - through props and children",
+            "en": "[EN] 4. Components - through props and children"
+          },
+          "hash": "a0f8e7c96e4965961ffb48da8d65ec50"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "4.1 Child element as string",
+            "en": "[EN] 4.1 Child element as string"
+          },
+          "hash": "25f086e6de94b57219c8e21e31a87d6b"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "4.2 Props as string (visible to users)",
+            "en": "[EN] 4.2 Props as string (visible to users)"
+          },
+          "hash": "92607e20c796a3a11f17323a07cfa232"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "4.3 Children prop",
+            "en": "[EN] 4.3 Children prop"
+          },
+          "hash": "c347f9651c58dc2be21e7d67c560d588"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "4.4 Rendering via component",
+            "en": "[EN] 4.4 Rendering via component"
+          },
+          "hash": "f2515c396d6a0dbaac0060517f4a7ec1"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "4.5 Wrapper component",
+            "en": "[EN] 4.5 Wrapper component"
+          },
+          "hash": "b56f3f233688299e08d6e7ca43ae9718"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/components/ArrowFunction.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "const getText = () => \"Text\"; <div>{getText()}</div>",
+            "en": "[EN] const getText = () => \"Text\"; <div>{getText()}</div>"
+          },
+          "hash": "57c1dae78534c9411129ee54d6cae4eb"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text",
+            "en": "[EN] Text"
+          },
+          "hash": "9dffbf69ffba8bc38bc4e01abf4b1675"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Arrow function returning a string.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Arrow function returning a string."
+          },
+          "hash": "fdce8d61a5ddc6cfaf4a4a2287bc0613"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/components/ComponentFunction.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{getText()}</div>",
+            "en": "[EN] <div>{getText()}</div>"
+          },
+          "hash": "c4829648dc5d7386f7d88426410e4f02"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Text from function",
+            "en": "[EN] Text from function"
+          },
+          "hash": "dfa57e14a8f6a37cb6de467fb19f255b"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Function call returning a string.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Function call returning a string."
+          },
+          "hash": "9b3945c7712b8d57014a001ecfcfe26e"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/components/ObjectMethod.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{obj.getText()}</div>",
+            "en": "[EN] <div>{obj.getText()}</div>"
+          },
+          "hash": "7ef3b6fdc2e4294168466fb50e63727a"
+        },
+        "program/body1/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Hello World from object method",
+            "en": "[EN] Hello World from object method"
+          },
+          "hash": "8be6beb3441cafb974df847d128ffe7f"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        (MemberExpression)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Object method returning a string.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        (MemberExpression)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Object method returning a string."
+          },
+          "hash": "49d9acbaa551bedd2f83b6f43464cb4e"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/components/StringMethod.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1/children1": {
+          "content": {
+            "ru": "text.trim()",
+            "en": "[EN] text.trim()"
+          },
+          "hash": "f348275329c629ba4776cfdd3840542b"
+        },
+        "program/body0/declaration/body/body1/argument/children1/children3/children1": {
+          "content": {
+            "ru": "text.substring(0, 10)",
+            "en": "[EN] text.substring(0, 10)"
+          },
+          "hash": "b12274994137a8f7de47374867edc045"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Hello World",
+            "en": "[EN] Hello World"
+          },
+          "hash": "b10a8db164e0754105b7a99be72e3fe5"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children3": {
+          "content": {
+            "ru": "  Hello Wo",
+            "en": "  [EN]   Hello Wo"
+          },
+          "hash": "fec89edc451b94e30030ed84b8f33d88"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Built-in JavaScript string methods.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Built-in JavaScript string methods."
+          },
+          "hash": "c8195f443ad0acc8a637d2c9250d7a15"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/components/UtilityFunction.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "import { formatDate } from './utils'; <div>{formatDate(date)}</div>",
+            "en": "[EN] import { formatDate } from './utils'; <div>{formatDate(date)}</div>"
+          },
+          "hash": "d11a0969fa8c8d6787c8a10d11cbd14f"
+        },
+        "program/body1/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Imported function returning a string.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Imported function returning a string."
+          },
+          "hash": "d8d8ae91edeb607a1792927f859c4b2e"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/5-functions/page.tsx": {
+      "entries": {
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "5. Functions - through function calls",
+            "en": "[EN] 5. Functions - through function calls"
+          },
+          "hash": "36828f6699f31949e142a817e51ab348"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "5.1 Component function",
+            "en": "[EN] 5.1 Component function"
+          },
+          "hash": "3f4fa65cf30149b678006587990a81e2"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "5.2 Arrow function",
+            "en": "[EN] 5.2 Arrow function"
+          },
+          "hash": "3bd1326b971d767adc8320502ed07a12"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "5.3 Object method",
+            "en": "[EN] 5.3 Object method"
+          },
+          "hash": "f888f23a2f8618aee0c0eea1b259b48b"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "5.4 String method",
+            "en": "[EN] 5.4 String method"
+          },
+          "hash": "de05761703a0e99c6b1ed96906868dd3"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "5.5 Utility function",
+            "en": "[EN] 5.5 Utility function"
+          },
+          "hash": "3d8a3a35681c20aa035ca36bb0453b09"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/components/IfElseFunction.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{getMessage(status)}</div>",
+            "en": "[EN] <div>{getMessage(status)}</div>"
+          },
+          "hash": "bb4d388d80fd96a31f92c5205e13cb91"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children1": {
+          "content": {
+            "ru": "Ready",
+            "en": "[EN] Ready"
+          },
+          "hash": "e7d31fc0602fb2ede144d18cdffd816b"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children3": {
+          "content": {
+            "ru": "Loading",
+            "en": "[EN] Loading"
+          },
+          "hash": "16bfbf9c462762cf1cba4134ec53c504"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children5": {
+          "content": {
+            "ru": "Error",
+            "en": "[EN] Error"
+          },
+          "hash": "902b0d55fddef6f8d651fe1035b7d4bd"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getMessage_case_loading": {
+          "content": {
+            "ru": "Loading...",
+            "en": "[EN] Loading..."
+          },
+          "hash": "8524de963f07201e5c086830d370797f"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getMessage_case_error": {
+          "content": {
+            "ru": "Error",
+            "en": "[EN] Error"
+          },
+          "hash": "902b0d55fddef6f8d651fe1035b7d4bd"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getMessage_default": {
+          "content": {
+            "ru": "Ready",
+            "en": "[EN] Ready"
+          },
+          "hash": "e7d31fc0602fb2ede144d18cdffd816b"
+        },
+        "program/body2/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Conditional logic is extracted into a function.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Conditional logic is extracted into a function."
+          },
+          "hash": "57fb5db03701435f5dd6c2743134c9aa"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/components/LogicalAnd.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{error && `Error: ${error}`}</div>",
+            "en": "[EN] <div>{error && `Error: ${error}`}</div>"
+          },
+          "hash": "26d417dc5e8115fde02301911f9207a4"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Toggle Error",
+            "en": "[EN] Toggle Error"
+          },
+          "hash": "5f8511503a47eeef5ab3da61e3c0a873"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1": {
+          "content": {
+            "ru": "Error: {error}",
+            "en": "[EN] Error: {error}"
+          },
+          "hash": "80076ad5610360024b43514e96923a92"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_logic_0_and_right_quasi_0": {
+          "content": {
+            "ru": "Error: ",
+            "en": "[EN] Error: "
+          },
+          "hash": "f97d2eb0a66987899d02bb180936afa3"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is rendered only if the condition is true.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> String is rendered only if the condition is true."
+          },
+          "hash": "4c198bec289cff0461dd4583452ac761"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/components/LogicalOr.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{message || \"Default message\"}</div>",
+            "en": "[EN] <div>{message || \"Default message\"}</div>"
+          },
+          "hash": "ffcdb82116109b08123434027f9a1fe8"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Toggle Message",
+            "en": "[EN] Toggle Message"
+          },
+          "hash": "47be838012c368242e0a1e9651072e90"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1": {
+          "content": {
+            "ru": "Default message",
+            "en": "[EN] Default message"
+          },
+          "hash": "2da2fc7f382fa2e5b9d0e433fa71a475"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_logic_0_or_right": {
+          "content": {
+            "ru": "Default message",
+            "en": "[EN] Default message"
+          },
+          "hash": "2da2fc7f382fa2e5b9d0e433fa71a475"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Default string is rendered if the main one is missing.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with LogicalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Default string is rendered if the main one is missing."
+          },
+          "hash": "360b45aa5465134ca80b42d1ff2346d0"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/components/SwitchCaseFunction.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{getStatusText(status)}</div>",
+            "en": "[EN] <div>{getStatusText(status)}</div>"
+          },
+          "hash": "37a4eb84575a63d00e6101cf3764543e"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children1": {
+          "content": {
+            "ru": "Pending",
+            "en": "[EN] Pending"
+          },
+          "hash": "2d13df6f8b5e4c5af9f87e0dc39df69d"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children3": {
+          "content": {
+            "ru": "Success",
+            "en": "[EN] Success"
+          },
+          "hash": "505a83f220c02df2f85c3810cd9ceb38"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children1/children5": {
+          "content": {
+            "ru": "Unknown",
+            "en": "[EN] Unknown"
+          },
+          "hash": "88183b946cc5f0e8c96b2e66e1c74a7e"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getStatusText_case_pending": {
+          "content": {
+            "ru": "Pending",
+            "en": "[EN] Pending"
+          },
+          "hash": "2d13df6f8b5e4c5af9f87e0dc39df69d"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getStatusText_case_success": {
+          "content": {
+            "ru": "Success",
+            "en": "[EN] Success"
+          },
+          "hash": "505a83f220c02df2f85c3810cd9ceb38"
+        },
+        "program/body2/declaration/body/body1/argument/children3/children3/children1_call_0_getStatusText_default": {
+          "content": {
+            "ru": "Unknown",
+            "en": "[EN] Unknown"
+          },
+          "hash": "88183b946cc5f0e8c96b2e66e1c74a7e"
+        },
+        "program/body2/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Switch-case logic in a function.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Switch-case logic in a function."
+          },
+          "hash": "39b8ae3fc0e627ca1178c1f30ea000b4"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/components/TernaryOperator.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<div>{isLoading ? \"Loading...\" : \"Ready\"}</div>",
+            "en": "[EN] <div>{isLoading ? \"Loading...\" : \"Ready\"}</div>"
+          },
+          "hash": "52b3ba396713a7036c2b22de5b21a341"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1": {
+          "content": {
+            "ru": "Toggle Loading",
+            "en": "[EN] Toggle Loading"
+          },
+          "hash": "7a2275aa440efd4d337688102ab9a6b3"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1": {
+          "content": {
+            "ru": "{? \"Loading...\" : \"Ready\"}",
+            "en": "[EN] {? \"Loading...\" : \"Ready\"}"
+          },
+          "hash": "01ee2b75a7621836af17dfa14af01701"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_cond_0_consequent": {
+          "content": {
+            "ru": "Loading...",
+            "en": "[EN] Loading..."
+          },
+          "hash": "8524de963f07201e5c086830d370797f"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children3/children1_cond_0_alternate": {
+          "content": {
+            "ru": "Ready",
+            "en": "[EN] Ready"
+          },
+          "hash": "e7d31fc0602fb2ede144d18cdffd816b"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with ConditionalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Conditional choice of string for rendering.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with ConditionalExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Conditional choice of string for rendering."
+          },
+          "hash": "05aef2d629892094ce411d418145f543"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/6-conditional-logic/page.tsx": {
+      "entries": {
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "6. Conditional Logic - ternary operators",
+            "en": "[EN] 6. Conditional Logic - ternary operators"
+          },
+          "hash": "88fd2126cc45157983d28c10df43ce39"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "6.1 Ternary operator",
+            "en": "[EN] 6.1 Ternary operator"
+          },
+          "hash": "d2b328c6df8d0a4482516d6cc88f25e0"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "6.2 Logical AND",
+            "en": "[EN] 6.2 Logical AND"
+          },
+          "hash": "049adbb53debca843f43e321cfe6d9d2"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "6.3 Logical OR",
+            "en": "[EN] 6.3 Logical OR"
+          },
+          "hash": "9ccdfa4c5184ab71d9bd723b250e9d29"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "6.4 If-else via function",
+            "en": "[EN] 6.4 If-else via function"
+          },
+          "hash": "312fedc967345a9dfa09589ac7a6fc20"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "6.5 Switch-case via function",
+            "en": "[EN] 6.5 Switch-case via function"
+          },
+          "hash": "e0ec100876aa398c4523d02f5ade8ab7"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/components/FilterMap.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "items.filter(item => item.length > 5).map(...)",
+            "en": "[EN] items.filter(item => item.length > 5).map(...)"
+          },
+          "hash": "36f260dbdecb7f8424c24d1d9d25bbed"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_0": {
+          "content": {
+            "ru": "First",
+            "en": "[EN] First"
+          },
+          "hash": "7fb55ed0b7a30342ba6da306428cae04"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_1": {
+          "content": {
+            "ru": "Second",
+            "en": "[EN] Second"
+          },
+          "hash": "c22cf8376b1893dcfcef0649fe1a7d87"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_2": {
+          "content": {
+            "ru": "Third",
+            "en": "[EN] Third"
+          },
+          "hash": "168909c0b6f1dfbd48f679d47059c1d6"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_3": {
+          "content": {
+            "ru": "Fourth",
+            "en": "[EN] Fourth"
+          },
+          "hash": "6e599f7a2a9186d391be4537f105be98"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_4": {
+          "content": {
+            "ru": "Fifth",
+            "en": "[EN] Fifth"
+          },
+          "hash": "0abdfd715970bd0ef7d5574daa0e6d0b"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with chain of CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Chain of methods for filtering and rendering strings.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with chain of CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Chain of methods for filtering and rendering strings."
+          },
+          "hash": "0c8ff2f2a51017a4481475a732091f0b"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/components/ForEachJoin.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "items.join(\", \")",
+            "en": "[EN] items.join(\", \")"
+          },
+          "hash": "7879e64a91aeba22f31bbb6dfc8b270b"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_0": {
+          "content": {
+            "ru": "First",
+            "en": "[EN] First"
+          },
+          "hash": "7fb55ed0b7a30342ba6da306428cae04"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_1": {
+          "content": {
+            "ru": "Second",
+            "en": "[EN] Second"
+          },
+          "hash": "c22cf8376b1893dcfcef0649fe1a7d87"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_2": {
+          "content": {
+            "ru": "Third",
+            "en": "[EN] Third"
+          },
+          "hash": "168909c0b6f1dfbd48f679d47059c1d6"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (join)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Array of strings is combined into one string.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (join)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Array of strings is combined into one string."
+          },
+          "hash": "cc607234bc119b17dce37e86665bb1ff"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/components/MapWithFormatting.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "numbers.map(n => `Number: ${n}`)",
+            "en": "[EN] numbers.map(n => `Number: ${n}`)"
+          },
+          "hash": "b4a387a73ec71689484aacbc065e7cb7"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1/children1/expression/arguments0/body/children1/expression_quasi_0": {
+          "content": {
+            "ru": "Number: ",
+            "en": "[EN] Number: "
+          },
+          "hash": "ce55f1250b51cc2b58a9cdac3cd082de"
+        },
+        "program/body0/declaration/body/body1/argument/children3/children1/children1/expression/arguments0/body": {
+          "content": {
+            "ru": "Number: {n}",
+            "en": "[EN] Number: {n}"
+          },
+          "hash": "e3b751801ae7824c7ce6e8177cc99638"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are formed dynamically in map.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are formed dynamically in map."
+          },
+          "hash": "2b0ffb9a356bbece11bd4900c32e9928"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/components/MapWithStrings.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "items.map((item, index) => <div key={index}>{item\n          }</div>)",
+            "en": "[EN] items.map((item, index) => <div key={index}>{item\n          }</div>)"
+          },
+          "hash": "8bfb3bf7988d241c6c406ac52548bb7a"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_0": {
+          "content": {
+            "ru": "First",
+            "en": "[EN] First"
+          },
+          "hash": "7fb55ed0b7a30342ba6da306428cae04"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_1": {
+          "content": {
+            "ru": "Second",
+            "en": "[EN] Second"
+          },
+          "hash": "c22cf8376b1893dcfcef0649fe1a7d87"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_2": {
+          "content": {
+            "ru": "Third",
+            "en": "[EN] Third"
+          },
+          "hash": "168909c0b6f1dfbd48f679d47059c1d6"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        (map)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Array of strings is rendered through map.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression\n        (map)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Array of strings is rendered through map."
+          },
+          "hash": "2a40cce947c1c98831ff50a5ba95f929"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/components/ReduceCombine.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "items.reduce((acc, item) => `${acc}, ${item}`, \"\")",
+            "en": "[EN] items.reduce((acc, item) => `${acc}, ${item}`, \"\")"
+          },
+          "hash": "f4cde5fdeae0b6ffe0e19bdff80c513f"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_0": {
+          "content": {
+            "ru": "First",
+            "en": "[EN] First"
+          },
+          "hash": "7fb55ed0b7a30342ba6da306428cae04"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_1": {
+          "content": {
+            "ru": "Second",
+            "en": "[EN] Second"
+          },
+          "hash": "c22cf8376b1893dcfcef0649fe1a7d87"
+        },
+        "program/body0/declaration/body/body0/declarations0_arr_2": {
+          "content": {
+            "ru": "Third",
+            "en": "[EN] Third"
+          },
+          "hash": "168909c0b6f1dfbd48f679d47059c1d6"
+        },
+        "program/body0/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (reduce)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Reduce for combining strings into one.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with CallExpression (reduce)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Reduce for combining strings into one."
+          },
+          "hash": "02f1ce60f6a23b853c53222a6f6b3f2e"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/7-loops/page.tsx": {
+      "entries": {
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "7. Loops - map, forEach",
+            "en": "[EN] 7. Loops - map, forEach"
+          },
+          "hash": "1f7fcbb98fb335769927e8d03c4d19d2"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "7.1 map() with strings",
+            "en": "[EN] 7.1 map() with strings"
+          },
+          "hash": "0567df0eaa1a029aaa2018d05f0685b3"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "7.2 map() with formatting",
+            "en": "[EN] 7.2 map() with formatting"
+          },
+          "hash": "3fb2938bdba3891e1d355571ec0415a2"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "7.3 forEach (not recommended)",
+            "en": "[EN] 7.3 forEach (not recommended)"
+          },
+          "hash": "427132e215e645788a187e179aaf3431"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "7.4 filter + map",
+            "en": "[EN] 7.4 filter + map"
+          },
+          "hash": "bf99540e20350bb7438fc74d2114fc69"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "7.5 reduce for combining",
+            "en": "[EN] 7.5 reduce for combining"
+          },
+          "hash": "8cb089c8c5d5db4939ce639856f204c1"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/8-nextjs-specifics/components/ClientComponent.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "'use client'; const [text, setText] = useState(\"Client text\");",
+            "en": "[EN] 'use client'; const [text, setText] = useState(\"Client text\");"
+          },
+          "hash": "869551a7f0a73d24bf74b893224d9a83"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are rendered on the client.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are rendered on the client."
+          },
+          "hash": "79d6ca48c8008c1e949169553fc664d1"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/8-nextjs-specifics/components/GenerateMetadata.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "export async function generateMetadata(): Promise<Metadata> { \n          return { title: \"Dynamic title\", description: \"Dynamic description\" \n          }; }",
+            "en": "[EN] export async function generateMetadata(): Promise<Metadata> { \n          return { title: \"Dynamic title\", description: \"Dynamic description\" \n          }; }"
+          },
+          "hash": "5401b663f9763f2d3c99b956df977de1"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Dynamic metadata via function (can be async and fetch data)",
+            "en": "[EN] Dynamic metadata via function (can be async and fetch data)"
+          },
+          "hash": "c2a2e6b90adb906feed508706b34ba50"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> FunctionDeclaration with ReturnStatement\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Dynamic metadata via function.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> FunctionDeclaration with ReturnStatement\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Dynamic metadata via function."
+          },
+          "hash": "5c3e9936f25b7d80d60cca26d5525102"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/8-nextjs-specifics/components/Metadata.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "export const metadata: Metadata = { \n          {title: \"Page title\", description: \"Page description\"}\n          };",
+            "en": "[EN] export const metadata: Metadata = { \n          {title: \"Page title\", description: \"Page description\"}\n          };"
+          },
+          "hash": "d39dbec0bf55338b4a6c9d7f2e6ec69a"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Check the browser tab title - it should show \"8. Next.js Specifics\"",
+            "en": "[EN] Check the browser tab title - it should show \"8. Next.js Specifics\""
+          },
+          "hash": "db494bdd412063b2fa72390a82de5522"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> ExportNamedDeclaration with ObjectExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings in Next.js App Router metadata.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> ExportNamedDeclaration with ObjectExpression\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings in Next.js App Router metadata."
+          },
+          "hash": "0d76c1f0e3b744b1e46991e9e6e1b109"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/8-nextjs-specifics/components/ServerComponent.tsx": {
+      "entries": {
+        "program/body2/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "async function ServerComponent() { \n          const data = await fetchData(); return <div>{data.title}</div> \n          }",
+            "en": "[EN] async function ServerComponent() { \n          const data = await fetchData(); return <div>{data.title}</div> \n          }"
+          },
+          "hash": "ee999648e11f3e8deeb481fad34f3a68"
+        },
+        "program/body2/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are rendered on the server in App Router.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXExpressionContainer with Identifier\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Strings are rendered on the server in App Router."
+          },
+          "hash": "e03ad61e5e140f52bb42df50f7a1c0dc"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/8-nextjs-specifics/page.tsx": {
+      "entries": {
+        "program/body5/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "8. Next.js Specifics - metadata, Server/Client Components",
+            "en": "[EN] 8. Next.js Specifics - metadata, Server/Client Components"
+          },
+          "hash": "4248fbf1b24f1347edb0faf54932f59a"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "8.1 Metadata",
+            "en": "[EN] 8.1 Metadata"
+          },
+          "hash": "748db58fcca92c11915c66e8c0231d10"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "8.2 generateMetadata function",
+            "en": "[EN] 8.2 generateMetadata function"
+          },
+          "hash": "42e1d1fb35c42f04fc29238ff67175f9"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "8.3 Server Components",
+            "en": "[EN] 8.3 Server Components"
+          },
+          "hash": "272d3686a291ae16ea2ac8cb18d77c23"
+        },
+        "program/body5/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "8.4 Client Components",
+            "en": "[EN] 8.4 Client Components"
+          },
+          "hash": "acc69a8497fea3f585e8f88a757cc316"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/ButtonText.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<button>Submit</button>",
+            "en": "[EN] <button>Submit</button>"
+          },
+          "hash": "44f4e0c08652974bf5851ee2d3d5df73"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1": {
+          "content": {
+            "ru": "Submit",
+            "en": "[EN] Submit"
+          },
+          "hash": "a4d3b161ce1309df1c4e25df28694b7b"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText in JSXElement or JSXAttribute (value for input\n        type=\"submit\")\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Button text is visible to users. For\n        <input type=\"submit\"> text is set via the value attribute.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXText in JSXElement or JSXAttribute (value for input\n        type=\"submit\")\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Button text is visible to users. For\n        <input type=\"submit\"> text is set via the value attribute."
+          },
+          "hash": "1e7445e8ee01ea9199ab9821e4f94be2"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children3/openingElement/attributes1_attr_value": {
+          "content": {
+            "ru": "Submit form",
+            "en": "[EN] Submit form"
+          },
+          "hash": "723f11de57922cb639a4f2fd8d813532"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/DetailsSummary.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<details> <summary>Click to expand</summary> ... </details>",
+            "en": "[EN] <details> <summary>Click to expand</summary> ... </details>"
+          },
+          "hash": "934082ec72a734bc78f3c007d8b73fb8"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children1": {
+          "content": {
+            "ru": "Click to expand",
+            "en": "[EN] Click to expand"
+          },
+          "hash": "e3cfcd8feda52c804ffcc02c85292337"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children3/children1": {
+          "content": {
+            "ru": "Hidden content",
+            "en": "[EN] Hidden content"
+          },
+          "hash": "e43df5de2cb14fa198c6349652d9cf4c"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText in JSXElement (summary)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Text in <summary> is visible to users\n        as a clickable heading for an expandable block.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXText in JSXElement (summary)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Text in <summary> is visible to users\n        as a clickable heading for an expandable block."
+          },
+          "hash": "2b37195da5276b0e7d6ff10c3f9f7c8a"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/FieldsetLegend.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<fieldset> <legend>Field group</legend> ... </fieldset>",
+            "en": "[EN] <fieldset> <legend>Field group</legend> ... </fieldset>"
+          },
+          "hash": "a3c70e238e53deebada39355482930ca"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children1": {
+          "content": {
+            "ru": "Field group",
+            "en": "[EN] Field group"
+          },
+          "hash": "52c11ee2036946f458575360d1021a34"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText in JSXElement (legend)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Text in <legend> is visible to users\n        as a heading for a group of fields.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXText in JSXElement (legend)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Text in <legend> is visible to users\n        as a heading for a group of fields."
+          },
+          "hash": "9da9f8bc456c2510227f2385760b6f28"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children3/openingElement/attributes1_attr_placeholder": {
+          "content": {
+            "ru": "Input field",
+            "en": "[EN] Input field"
+          },
+          "hash": "9c5b386159b32cc72deadb789afd7109"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/Label.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<label htmlFor=\"input\">Field label</label>",
+            "en": "[EN] <label htmlFor=\"input\">Field label</label>"
+          },
+          "hash": "7dfe3553871a577f84927d920d5a531d"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children1": {
+          "content": {
+            "ru": "Field label",
+            "en": "[EN] Field label"
+          },
+          "hash": "d71675f75feb54ebb0bd3c94a7f1e755"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children3/children1": {
+          "content": {
+            "ru": "Email address\n            <element:input></element:input>",
+            "en": "[EN] Email address\n            <element:input></element:input>"
+          },
+          "hash": "a6095e3ff3927c3782b96ec4844cfcf9"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText in JSXElement\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Label text for input field is visible to\n        users. The htmlFor attribute (technical) is not localized, but text\n        inside <label> is subject to localization.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXText in JSXElement\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Label text for input field is visible to\n        users. The htmlFor attribute (technical) is not localized, but text\n        inside <label> is subject to localization."
+          },
+          "hash": "d3a17f6a8281241bed64d311096204a9"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/Placeholder.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<input placeholder=\"Enter text\" />",
+            "en": "[EN] <input placeholder=\"Enter text\" />"
+          },
+          "hash": "34c98e1ce1ce5e23e50c8a9c0929c815"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n        JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Hint string in input field is visible to\n        users before entering text.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or\n        JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Hint string in input field is visible to\n        users before entering text."
+          },
+          "hash": "6c0ffe7c1fb3dd260d6e591f0c50638c"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/openingElement/attributes1_attr_placeholder": {
+          "content": {
+            "ru": "Enter text",
+            "en": "[EN] Enter text"
+          },
+          "hash": "d6513d3686b9b49e5c14360dfda0fd94"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/SelectOptions.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<option value=\"1\">First option</option>",
+            "en": "[EN] <option value=\"1\">First option</option>"
+          },
+          "hash": "8b2f0774cd1edd692b9141b387946690"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children1": {
+          "content": {
+            "ru": "First option",
+            "en": "[EN] First option"
+          },
+          "hash": "ff9cf53441647734b4e45fe8b4c14847"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/children3": {
+          "content": {
+            "ru": "Second option",
+            "en": "[EN] Second option"
+          },
+          "hash": "52217b6cfed9b47cd29ed284ca44a0c3"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXText in JSXElement (option)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Option text in select is visible to users\n        when opening the list. The value attribute (technical) is not localized.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXText in JSXElement (option)\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Option text in select is visible to users\n        when opening the list. The value attribute (technical) is not localized."
+          },
+          "hash": "10de309a6a9ee9ee4e7ab274a019cbae"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/Textarea.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body1/argument/children1/children1": {
+          "content": {
+            "ru": "<textarea placeholder=\"Enter your comment\" />",
+            "en": "[EN] <textarea placeholder=\"Enter your comment\" />"
+          },
+          "hash": "9dcd4b20167997b8e29c5717b1bae2a3"
+        },
+        "program/body1/declaration/body/body1/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Placeholder and value in textarea are\n        visible to users.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral or JSXExpressionContainer\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Placeholder and value in textarea are\n        visible to users."
+          },
+          "hash": "fcd8ac058eb5cfc77aef7080dbf60692"
+        },
+        "program/body1/declaration/body/body1/argument/children3/children1/openingElement/attributes0_attr_placeholder": {
+          "content": {
+            "ru": "Enter your comment",
+            "en": "[EN] Enter your comment"
+          },
+          "hash": "4e9ce95a0f4e750b14ad77bc86d62479"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/components/Value.tsx": {
+      "entries": {
+        "program/body0/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "<input defaultValue=\"Default value\" />",
+            "en": "[EN] <input defaultValue=\"Default value\" />"
+          },
+          "hash": "17dbbbd94d77f06d0bc32d5168e8c25e"
+        },
+        "program/body0/declaration/body/body0/argument/children5": {
+          "content": {
+            "ru": "<element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Input field default value is visible to\n        users in the field. Used for pre-filled uncontrolled fields.",
+            "en": "[EN] <element:strong>AST Type:</element:strong> JSXAttribute with StringLiteral\n        <element:br></element:br>\n        <element:strong>Description:</element:strong> Input field default value is visible to\n        users in the field. Used for pre-filled uncontrolled fields."
+          },
+          "hash": "530aa568c38e85b1111f8d0959f30497"
+        },
+        "program/body0/declaration/body/body0/argument/children3/children1/openingElement/attributes1_attr_defaultValue": {
+          "content": {
+            "ru": "Default value",
+            "en": "[EN] Default value"
+          },
+          "hash": "31ce3cdcd67850870b616f75b555bbc5"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/9-forms/page.tsx": {
+      "entries": {
+        "program/body8/declaration/body/body0/argument/children1/children1": {
+          "content": {
+            "ru": "9. Forms - placeholder, value, label, button, option",
+            "en": "[EN] 9. Forms - placeholder, value, label, button, option"
+          },
+          "hash": "c0b0b2119dcad6e66fc789402df92007"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "9.1 Placeholder",
+            "en": "[EN] 9.1 Placeholder"
+          },
+          "hash": "2d8cba9a3d2e5a05eedd7aff7ab35b1a"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "9.2 Value",
+            "en": "[EN] 9.2 Value"
+          },
+          "hash": "d37e47e6ca8d9281b59fa65c09f02c94"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "9.3 Label",
+            "en": "[EN] 9.3 Label"
+          },
+          "hash": "175c1eb801e562760911af4493182d3b"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "9.4 Button text",
+            "en": "[EN] 9.4 Button text"
+          },
+          "hash": "9d2972e5c8c2d085301a5c862309c7f5"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "9.5 Textarea",
+            "en": "[EN] 9.5 Textarea"
+          },
+          "hash": "214cd91b22fb8b999701351d96d57a3e"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children11/children1": {
+          "content": {
+            "ru": "9.6 Select options",
+            "en": "[EN] 9.6 Select options"
+          },
+          "hash": "75a12f36beeb47f8ac56f0d73c17095a"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children13/children1": {
+          "content": {
+            "ru": "9.7 Fieldset and Legend",
+            "en": "[EN] 9.7 Fieldset and Legend"
+          },
+          "hash": "56a8cc87b75fbc552f45b980dd5fbdf1"
+        },
+        "program/body8/declaration/body/body0/argument/children1/children3/children15/children1": {
+          "content": {
+            "ru": "9.8 Details and Summary",
+            "en": "[EN] 9.8 Details and Summary"
+          },
+          "hash": "381729d986c26b835a352f36c1b36c44"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/app/page.tsx": {
+      "entries": {
+        "program/body1/declaration/body/body0/argument/children1/children1/children1": {
+          "content": {
+            "ru": "String Rendering Patterns",
+            "en": "[EN] String Rendering Patterns"
+          },
+          "hash": "d67cc33eea225011ccdd58c9e0ca06e9"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children1/children3": {
+          "content": {
+            "ru": "This demonstration shows all possible scenarios and patterns of how\n            strings can appear in the final DOM in React and Next.js\n            applications and be visible to users on screen (without using\n            devtools).",
+            "en": "[EN] This demonstration shows all possible scenarios and patterns of how\n            strings can appear in the final DOM in React and Next.js\n            applications and be visible to users on screen (without using\n            devtools)."
+          },
+          "hash": "fff863e8613d1ed5d434154d04034652"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children1/children1": {
+          "content": {
+            "ru": "1. Direct Rendering",
+            "en": "[EN] 1. Direct Rendering"
+          },
+          "hash": "7753cab87064841ac08330b7903c23f4"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children1/children3": {
+          "content": {
+            "ru": "JSXText between tags (visible text)",
+            "en": "[EN] JSXText between tags (visible text)"
+          },
+          "hash": "5f1916927704dca2e8ced3edef613278"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children3/children1": {
+          "content": {
+            "ru": "2. Expressions",
+            "en": "[EN] 2. Expressions"
+          },
+          "hash": "aa3330666ce5cb4e2af6d124eaea850e"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children3/children3": {
+          "content": {
+            "ru": "JSXExpressionContainer with various expression types returning\n              strings",
+            "en": "[EN] JSXExpressionContainer with various expression types returning\n              strings"
+          },
+          "hash": "dede56d2ddf969882179fd7611e6f3a7"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children5/children1": {
+          "content": {
+            "ru": "3. Visible Attributes",
+            "en": "[EN] 3. Visible Attributes"
+          },
+          "hash": "7d5731d461aa34dfe8d42adf990aac6b"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children5/children3": {
+          "content": {
+            "ru": "JSXAttribute with title, alt, aria-label, aria-describedby,\n              aria-placeholder and other accessibility attributes",
+            "en": "[EN] JSXAttribute with title, alt, aria-label, aria-describedby,\n              aria-placeholder and other accessibility attributes"
+          },
+          "hash": "bccfa1e64c356bd0c42918c17e03f716"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children7/children1": {
+          "content": {
+            "ru": "4. Components",
+            "en": "[EN] 4. Components"
+          },
+          "hash": "d818411a7fadf39d7d254950f90fccd3"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children7/children3": {
+          "content": {
+            "ru": "Through props and children that render visible text",
+            "en": "[EN] Through props and children that render visible text"
+          },
+          "hash": "47b840d31c2b347044c5455a4f0b8374"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children9/children1": {
+          "content": {
+            "ru": "5. Functions",
+            "en": "[EN] 5. Functions"
+          },
+          "hash": "d6e05261a7f4843df8296f36319c9c1b"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children9/children3": {
+          "content": {
+            "ru": "Through function calls returning strings for display",
+            "en": "[EN] Through function calls returning strings for display"
+          },
+          "hash": "172147bf604ce6d9733509a166e9b45b"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children11/children1": {
+          "content": {
+            "ru": "6. Conditional Logic",
+            "en": "[EN] 6. Conditional Logic"
+          },
+          "hash": "9c02a0b4114f56828488c2d480e91624"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children11/children3": {
+          "content": {
+            "ru": "Through ternary operators and logical expressions returning\n              strings",
+            "en": "[EN] Through ternary operators and logical expressions returning\n              strings"
+          },
+          "hash": "75845c573390c940fdee6119f986efc5"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children13/children1": {
+          "content": {
+            "ru": "7. Loops",
+            "en": "[EN] 7. Loops"
+          },
+          "hash": "1c9808157ad813946569332d5d35dfba"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children13/children3": {
+          "content": {
+            "ru": "Through map, forEach and other array methods rendering strings",
+            "en": "[EN] Through map, forEach and other array methods rendering strings"
+          },
+          "hash": "2bbab19efad5542ff13a38d2dcb70001"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children15/children1": {
+          "content": {
+            "ru": "8. Next.js Specifics",
+            "en": "[EN] 8. Next.js Specifics"
+          },
+          "hash": "591167f480486b955a2788d63f84118f"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children15/children3": {
+          "content": {
+            "ru": "Metadata (title, description), Server/Client Components",
+            "en": "[EN] Metadata (title, description), Server/Client Components"
+          },
+          "hash": "aeaaf0d7f559afc890833e182401ba42"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children17/children1": {
+          "content": {
+            "ru": "9. Forms",
+            "en": "[EN] 9. Forms"
+          },
+          "hash": "8e44440825308b758cbff00c9f861ec4"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children17/children3": {
+          "content": {
+            "ru": "Placeholder, value, label text, button text, option text",
+            "en": "[EN] Placeholder, value, label text, button text, option text"
+          },
+          "hash": "555e7d63fb94a39c14271deb58b3cbbb"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children19/children1": {
+          "content": {
+            "ru": "10. Special Cases",
+            "en": "[EN] 10. Special Cases"
+          },
+          "hash": "776624b96f5e8bc9501d36218cfc8a64"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children3/children19/children3": {
+          "content": {
+            "ru": "Portals, Suspense fallback, Error Boundary",
+            "en": "[EN] Portals, Suspense fallback, Error Boundary"
+          },
+          "hash": "4fe2f214967fca9b735b5b28a15f60aa"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children1": {
+          "content": {
+            "ru": "Exclusions (not localized):",
+            "en": "[EN] Exclusions (not localized):"
+          },
+          "hash": "e479ded3cbe39f719577358b3b16467a"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children3/children1": {
+          "content": {
+            "ru": "Technical attributes: \n              <element:code>id</element:code>\n              , \n              <element:code>className</element:code>\n              , \n              <element:code>htmlFor</element:code>\n              , \n              <element:code>data-*</element:code>\n              , \n              <element:code>key</element:code>\n              , \n              <element:code>ref</element:code>",
+            "en": "[EN] Technical attributes: \n              <element:code>id</element:code>\n              , \n              <element:code>className</element:code>\n              , \n              <element:code>htmlFor</element:code>\n              , \n              <element:code>data-*</element:code>\n              , \n              <element:code>key</element:code>\n              , \n              <element:code>ref</element:code>"
+          },
+          "hash": "34f1d87dc7adb94ec8823b2350f93c63"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children3/children3": {
+          "content": {
+            "ru": "Pure API responses without UI",
+            "en": "[EN] Pure API responses without UI"
+          },
+          "hash": "9fc4ad506e787fe8e987a79fcba3bfe0"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children3/children5": {
+          "content": {
+            "ru": "Code comments",
+            "en": "[EN] Code comments"
+          },
+          "hash": "b2219a195bef487ca6079bd6c767a388"
+        },
+        "program/body1/declaration/body/body0/argument/children1/children5/children3/children7": {
+          "content": {
+            "ru": "Technical identifiers and CSS classes",
+            "en": "[EN] Technical identifiers and CSS classes"
+          },
+          "hash": "2d37acd08c33d221bbdbc873439d6864"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/demo/string-parsing/components/Navigation.tsx": {
+      "entries": {
+        "program/body3/declaration/body/body1/argument/children1/children1/children1/children1": {
+          "content": {
+            "ru": "String Rendering Patterns",
+            "en": "[EN] String Rendering Patterns"
+          },
+          "hash": "d67cc33eea225011ccdd58c9e0ca06e9"
+        },
+        "program/body3/declaration/body/body1/argument/children1/children1/children3/children1/expression/arguments0/body/body1/argument/openingElement/attributes2/value/expression_quasi_0": {
+          "content": {
+            "ru": "rounded-md px-3 py-2 text-sm font-medium transition-colors ",
+            "en": "[EN] rounded-md px-3 py-2 text-sm font-medium transition-colors "
+          },
+          "hash": "c9352f5abc3aa91696ab90edffde0d35"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/src/runtime/client/components/LocaleSwitcher.tsx": {
+      "entries": {
+        "program/body5/declarations0/init/body/children1": {
+          "content": {
+            "ru": "🌐\n      ",
+            "en": "[EN] 🌐\n      "
+          },
+          "hash": "dd9ab3f673c293c1cb593cf5f53c2b41"
+        },
+        "program/body5/declarations0/init/body/children3": {
           "content": {
             "ru": "▼",
-            "en": "▼",
-            "hy": "▼",
-            "de": "▼",
-            "fr": "[FR] ▼",
-            "es": "▼"
+            "en": "[EN] ▼"
           },
           "hash": "af39817945c356299594431f70c2d6d8"
         },
-        "program/body6/declarations0/init/body/children1/expression/right": {
+        "program/body8/declarations0/init/body/body6/argument": {
           "content": {
-            "ru": "✓",
-            "en": "✓",
-            "hy": "✓",
-            "de": "✓",
-            "fr": "[FR] ✓",
-            "es": "✓"
+            "ru": "\n      <element:DropdownTrigger></element:DropdownTrigger>\n\n      \n      \n\n      \n      \n\n      <element:style>\n        @keyframes fadeIn {\n          from {\n            opacity: 0;\n            transform: translateY(-8px);\n          }\n          to {\n            opacity: 1;\n            transform: translateY(0);\n          }\n        }\n      </element:style>",
+            "en": "\n      [EN] \n      <element:DropdownTrigger></element:DropdownTrigger>\n\n      \n      \n\n      \n      \n\n      <element:style>\n        @keyframes fadeIn {\n          from {\n            opacity: 0;\n            transform: translateY(-8px);\n          }\n          to {\n            opacity: 1;\n            transform: translateY(0);\n          }\n        }\n      </element:style>"
           },
-          "hash": "900eba0c97923d74bd8d9e6190e07264"
+          "hash": "268d571ca69ce354829e971033b2579f"
+        }
+      }
+    },
+    "node_modules/@dima-algebras/algebras-auto-intl/tests/runtime.translated.test.tsx": {
+      "entries": {
+        "program/body9/expression/arguments1/body/body1/expression/arguments1/body/body0/expression/arguments0/children1/openingElement/attributes0_attr_tKey": {
+          "content": {
+            "ru": "src/F.tsx::x/y",
+            "en": "[EN] src/F.tsx::x/y"
+          },
+          "hash": "3f3c9565127a147fd87c4192601fc122"
+        },
+        "program/body9/expression/arguments1/body/body2/expression/arguments1/body/body0/expression/arguments0/children1/openingElement/attributes0_attr_tKey": {
+          "content": {
+            "ru": "src/F.tsx::x/y",
+            "en": "[EN] src/F.tsx::x/y"
+          },
+          "hash": "3f3c9565127a147fd87c4192601fc122"
+        },
+        "program/body9/expression/arguments1/body/body3/body/body0/expression/arguments1/body/body0/expression/arguments0/children1/openingElement/attributes0_attr_tKey": {
+          "content": {
+            "ru": "src/F.tsx::x/y",
+            "en": "[EN] src/F.tsx::x/y"
+          },
+          "hash": "3f3c9565127a147fd87c4192601fc122"
         }
       }
     }

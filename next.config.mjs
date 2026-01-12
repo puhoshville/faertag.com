@@ -1,21 +1,22 @@
-import autoIntl, { LanguageCode } from "algebras-auto-intl";
+import autoIntl, { LanguageCode } from 'algebras-auto-intl'
 
 const nextConfig = {
-  output: "standalone",
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
-  },
-};
+	output: 'standalone',
+	reactStrictMode: true,
+	images: {
+		remotePatterns: [
+			{
+				protocol: 'https',
+				hostname: 'images.unsplash.com',
+			},
+		],
+	},
+}
 
 // autoIntl bilan configni o'rash
 export default autoIntl({
-  defaultLocale: LanguageCode.ru,
-  includeNodeModules: false,
-  targetLocales: [LanguageCode.en, LanguageCode.hy, LanguageCode.de, LanguageCode.fr, LanguageCode.es],
-  outputDir: "src/intl",
-})(nextConfig);
+	defaultLocale: LanguageCode.en,
+	includeNodeModules: false,
+	targetLocales: [LanguageCode.ru],
+	outputDir: './src/intl',
+})(nextConfig)

@@ -37,8 +37,9 @@ RUN adduser --system --uid 1001 nextjs
 
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
 
-# Copy intl folder for translations
+# Copy intl folder for translations (both locations for compatibility)
 COPY --from=builder --chown=nextjs:nodejs /app/src/intl ./src/intl
+COPY --from=builder --chown=nextjs:nodejs /app/src/intl ./.intl
 
 # Set the correct permission for prerender cache
 RUN mkdir .next

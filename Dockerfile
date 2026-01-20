@@ -35,7 +35,10 @@ ENV NODE_ENV production
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
-COPY --from=builder /app/public ./public
+COPY --from=builder --chown=nextjs:nodejs /app/public ./public
+
+# Copy intl folder for translations
+COPY --from=builder --chown=nextjs:nodejs /app/src/intl ./src/intl
 
 # Set the correct permission for prerender cache
 RUN mkdir .next

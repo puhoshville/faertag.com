@@ -3,7 +3,7 @@
   "files": {
     "app/page.tsx": {
       "scopes": {
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children1/children1/children1": {
           "type": "element",
           "hash": "08c7a35396d2a27ce56186c24e0fa0e2",
           "context": "",
@@ -11,23 +11,15 @@
           "overrides": {},
           "content": "257 тысяч зрителей ждут Вашу историю"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children1/children1/children3": {
           "type": "element",
-          "hash": "981ca216ee6ab923ca9b4c1dc5042f31",
+          "hash": "ce819e384b725e7a6ded487f71e77978",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "Партнёрские видео и интеграции на<element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>"
+          "content": "Партнёрские видео и интеграции на \n                <element:a>YouTube-канале FAERTAG IN 🇦🇲</element:a>"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children3/children3": {
-          "type": "element",
-          "hash": "e762460e745a87e7c446d3c8b4f0ff32",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "YouTube-канале FAERTAG IN 🇦🇲"
-        },
-        "program/body2/declaration/body/body7/argument/children3/children1/children1/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children1/children1/children5": {
           "type": "element",
           "hash": "4077035c1283e83a91a2cdca2bc1c915",
           "context": "",
@@ -35,7 +27,71 @@
           "overrides": {},
           "content": "Начать сотрудничество"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children1": {
+        "program/body3/declaration/body/body1/declarations0_arr_0": {
+          "type": "text",
+          "hash": "024b65718ffbb5f5d9f94f9e45ff8c83",
+          "context": "Static string-array element (thumbnails[0]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb0.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_1": {
+          "type": "text",
+          "hash": "beee1c5db97aa5503d62fad34f72965b",
+          "context": "Static string-array element (thumbnails[1]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb1.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_2": {
+          "type": "text",
+          "hash": "fed3d97ec932b1cee46262941eaa1d29",
+          "context": "Static string-array element (thumbnails[2]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb2.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_3": {
+          "type": "text",
+          "hash": "0b747a890a205c49bcffbbad84562362",
+          "context": "Static string-array element (thumbnails[3]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb3.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_4": {
+          "type": "text",
+          "hash": "1c48e6844ef1ad2f802586f28c1b7db2",
+          "context": "Static string-array element (thumbnails[4]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb4.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_5": {
+          "type": "text",
+          "hash": "ffa79e85071fac20d6d275009dcf116b",
+          "context": "Static string-array element (thumbnails[5]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb5.png"
+        },
+        "program/body3/declaration/body/body1/declarations0_arr_6": {
+          "type": "text",
+          "hash": "ad6affe1e4eda41bdf44f47e5346ad70",
+          "context": "Static string-array element (thumbnails[6]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/thumb6.png"
+        },
+        "program/body3/declaration/body/body7/argument/children3/children3/children1/children3/children1/children1/expression/arguments0/body/openingElement/attributes5/value/expression_quasi_0": {
+          "type": "text",
+          "hash": "270575527511784eb502f9c076b868b4",
+          "context": "map() callback template quasi 0",
+          "skip": false,
+          "overrides": {},
+          "content": "object-cover w-full h-full absolute inset-0 transition-opacity duration-1000 "
+        },
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children1/children1": {
           "type": "element",
           "hash": "4a6be9a28067aeadd53f0e11a3f17197",
           "context": "",
@@ -43,7 +99,7 @@
           "overrides": {},
           "content": "10 000+"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children1/children3": {
           "type": "element",
           "hash": "ba399afc55a69e58289230e64d3125bc",
           "context": "",
@@ -51,7 +107,7 @@
           "overrides": {},
           "content": "подписчиков"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children3/children1": {
           "type": "element",
           "hash": "9c4d4e98ac0010a94ac397efc957af2d",
           "context": "",
@@ -59,7 +115,7 @@
           "overrides": {},
           "content": "1,6 млн"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children3/children3": {
           "type": "element",
           "hash": "3caecbcb3a4f2d61f4c8e00f015f86be",
           "context": "",
@@ -67,7 +123,7 @@
           "overrides": {},
           "content": "просмотров за 28 дней"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children5/children1": {
           "type": "element",
           "hash": "669d042e9fe77edc75852cba69ee38fe",
           "context": "",
@@ -75,7 +131,7 @@
           "overrides": {},
           "content": "257 000"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children5/children3": {
           "type": "element",
           "hash": "dd8ecbfd85b39d0f6ce7fb9f6c21ccbc",
           "context": "",
@@ -83,7 +139,7 @@
           "overrides": {},
           "content": "уникальных зрителей"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children7/children1": {
           "type": "element",
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80",
           "context": "",
@@ -91,7 +147,7 @@
           "overrides": {},
           "content": "44 %"
         },
-        "program/body2/declaration/body/body7/argument/children3/children1/children5/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children3/children3/children5/children7/children3": {
           "type": "element",
           "hash": "33ff069a251f8c7962256831be79c014",
           "context": "",
@@ -99,7 +155,7 @@
           "overrides": {},
           "content": "просмотров из 🇦🇲"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children3/children1/children3": {
           "type": "element",
           "hash": "9f737970ab245710e48b03547cfcab14",
           "context": "",
@@ -107,7 +163,7 @@
           "overrides": {},
           "content": "⭐ САМОЕ ЦЕННОЕ ПРЕДЛОЖЕНИЕ ⭐"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children5/children1": {
           "type": "element",
           "hash": "0580da59285b21effb4858897a5ea8f7",
           "context": "",
@@ -115,7 +171,7 @@
           "overrides": {},
           "content": "Специальный выпуск"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children5/children3": {
           "type": "element",
           "hash": "aae6459237efbae27a58eebfa65df08a",
           "context": "",
@@ -123,7 +179,7 @@
           "overrides": {},
           "content": "Полноценный видеоролик, полностью посвящённый бренду, продукту или кампании.\n              Создаётся в стилистике канала, чтобы органично воспринимался аудиторией и вызывал доверие."
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children1": {
           "type": "element",
           "hash": "9d0d9fd8806e980239dafd3c2e376112",
           "context": "",
@@ -131,7 +187,7 @@
           "overrides": {},
           "content": "Что включено"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children1": {
           "type": "element",
           "hash": "c4ca4238a0b923820dcc509a6f75849b",
           "context": "",
@@ -139,7 +195,7 @@
           "overrides": {},
           "content": "1"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children1": {
           "type": "element",
           "hash": "52a17e1c1486509bed520bd54e52b8f6",
           "context": "",
@@ -147,7 +203,7 @@
           "overrides": {},
           "content": "Концепт и сценарий"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children1/children1/children3/children3": {
           "type": "element",
           "hash": "9530304be666ab969e9d6d3f8cbff755",
           "context": "",
@@ -155,7 +211,7 @@
           "overrides": {},
           "content": "Разработка идеи ролика, креатива и сценария совместно с брендом. Возможность адаптировать продукт под контент блогера (история, челлендж, эксперимент и т.д.)."
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children1": {
           "type": "element",
           "hash": "c81e728d9d4c2f636f067f89cc14862c",
           "context": "",
@@ -163,7 +219,7 @@
           "overrides": {},
           "content": "2"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children1": {
           "type": "element",
           "hash": "e35ae825ffae8fcd71a8b8d24cfd1b29",
           "context": "",
@@ -171,7 +227,7 @@
           "overrides": {},
           "content": "Съёмка и продакшн"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children3/children1/children3/children3": {
           "type": "element",
           "hash": "332e1f5b9eb3e97b8975af17fc440d9a",
           "context": "",
@@ -179,7 +235,7 @@
           "overrides": {},
           "content": "Полноценная съёмка видео в стиле канала: постановка, монтаж, цветокоррекция, графика, звук."
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children1": {
           "type": "element",
           "hash": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
           "context": "",
@@ -187,7 +243,7 @@
           "overrides": {},
           "content": "3"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children1": {
           "type": "element",
           "hash": "b146fb3d4f460f03b94d49e55cf5888d",
           "context": "",
@@ -195,7 +251,7 @@
           "overrides": {},
           "content": "Полное упоминание бренда"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children5/children1/children3/children3": {
           "type": "element",
           "hash": "9e87d68279631fdfdd69a1e7aea0872d",
           "context": "",
@@ -203,7 +259,7 @@
           "overrides": {},
           "content": "Интеграция в течение всего видео: логотип, продукт, ключевые сообщения, демонстрация преимуществ."
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children1": {
           "type": "element",
           "hash": "a87ff679a2f3e71d9181a67b7542122c",
           "context": "",
@@ -211,7 +267,7 @@
           "overrides": {},
           "content": "4"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children1": {
           "type": "element",
           "hash": "ecd632cdae65d90b5eaa9f0dca255f8c",
           "context": "",
@@ -219,7 +275,7 @@
           "overrides": {},
           "content": "Размещение и продвижение"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children7/children1/children3/children3": {
           "type": "element",
           "hash": "f381326140c4bbd7f5245a1fbe79390f",
           "context": "",
@@ -227,7 +283,7 @@
           "overrides": {},
           "content": "Публикация на основном YouTube-канале с закреплённой ссылкой в описании и первом комментарии. Опционально — пост в сообществе YouTube или сторис в других соцсетях."
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children1": {
           "type": "element",
           "hash": "e4da3b7fbbce2345d7772b0674a318d5",
           "context": "",
@@ -235,7 +291,7 @@
           "overrides": {},
           "content": "5"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children1": {
           "type": "element",
           "hash": "1a6d2e076f1aacf13bd7216e05e63f42",
           "context": "",
@@ -243,7 +299,7 @@
           "overrides": {},
           "content": "Отчётность"
         },
-        "program/body2/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children7/children1/children9/children1/children3/children9/children1/children3/children3": {
           "type": "element",
           "hash": "0ce9b712d57176288b2152066df18475",
           "context": "",
@@ -251,7 +307,7 @@
           "overrides": {},
           "content": "Предоставление статистики через 7 и 30 дней: просмотры, удержание, клики по ссылкам, вовлечённость."
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children11/children1/children1": {
           "type": "element",
           "hash": "cdc68bea105589853f2f508909596257",
           "context": "",
@@ -259,7 +315,7 @@
           "overrides": {},
           "content": "Обо мне"
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children11/children1/children3/children1/children1": {
           "type": "element",
           "hash": "4769a0f51d9a692d769ea22a12929565",
           "context": "",
@@ -267,7 +323,7 @@
           "overrides": {},
           "content": "Меня зовут Анастасия Фаертаг."
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children11/children1/children3/children1/children3": {
           "type": "element",
           "hash": "973488ed655fd63b0e258e0c35651a50",
           "context": "",
@@ -275,7 +331,7 @@
           "overrides": {},
           "content": "Уже три года я живу в Армении и делюсь своей жизнью здесь на YouTube."
         },
-        "program/body2/declaration/body/body7/argument/children11/children1/children3/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children11/children1/children3/children1/children5": {
           "type": "element",
           "hash": "0248b21d24caa3b9a16da25761ddd25c",
           "context": "",
@@ -283,7 +339,55 @@
           "overrides": {},
           "content": "В своих видео рассказываю о людях, культуре и вдохновляющих историях этой удивительной страны — глазами человека, который когда-то просто решил остаться здесь жить."
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children1": {
+        "program/body3/declaration/body/body0/declarations0_arr_0": {
+          "type": "text",
+          "hash": "b6a565feef660426807e09abe5c49f05",
+          "context": "Static string-array element (images[0]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/anastasia.jpg"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_1": {
+          "type": "text",
+          "hash": "0c6dc96433c95d09eb6afef7573e5550",
+          "context": "Static string-array element (images[1]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/anastasia1.jpg"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_2": {
+          "type": "text",
+          "hash": "4f200874d290c20ea05a052bbba9bf77",
+          "context": "Static string-array element (images[2]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/anastasia2.jpg"
+        },
+        "program/body3/declaration/body/body0/declarations0_arr_3": {
+          "type": "text",
+          "hash": "092b7530b9c5aadef67e19d3802964c0",
+          "context": "Static string-array element (images[3]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/anastasia3.jpg"
+        },
+        "program/body3/declaration/body/body7/argument/children11/children1/children3/children3/children1/children1/expression/arguments0/body/openingElement/attributes0/value/expression_quasi_0": {
+          "type": "text",
+          "hash": "3313bbcc2d142579dad6df0da71a9da7",
+          "context": "map() callback template quasi 0",
+          "skip": false,
+          "overrides": {},
+          "content": "story-"
+        },
+        "program/body3/declaration/body/body7/argument/children11/children1/children3/children3/children1/children1/expression/arguments0/body/openingElement/attributes5/value/expression_quasi_0": {
+          "type": "text",
+          "hash": "790a85de08f0fc641b0f3a49cd3d5ac1",
+          "context": "map() callback template quasi 0",
+          "skip": false,
+          "overrides": {},
+          "content": "object-cover w-full h-full -scale-x-100 absolute inset-0 transition-opacity duration-1000 "
+        },
+        "program/body3/declaration/body/body7/argument/children15/children1/children1": {
           "type": "element",
           "hash": "0db361f861312c9aea45346f04943e4c",
           "context": "",
@@ -291,7 +395,7 @@
           "overrides": {},
           "content": "Основная аудитория"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children1/children1": {
           "type": "element",
           "hash": "79b6dc939ec525454973749d1b848f59",
           "context": "",
@@ -299,7 +403,7 @@
           "overrides": {},
           "content": "География"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children1": {
           "type": "element",
           "hash": "937ce309b9670a3708b975e62654dee0",
           "context": "",
@@ -307,7 +411,7 @@
           "overrides": {},
           "content": "🇦🇲 Армения"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children1/children3/children1/children3": {
           "type": "element",
           "hash": "4ae365ec771efd0e9b287cfb8fe43b80",
           "context": "",
@@ -315,7 +419,7 @@
           "overrides": {},
           "content": "44 %"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children1": {
           "type": "element",
           "hash": "c5b7b93d54bb3f612c2f8c8b03cc9585",
           "context": "",
@@ -323,7 +427,7 @@
           "overrides": {},
           "content": "🇷🇺 Россия"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children1/children3/children5/children3": {
           "type": "element",
           "hash": "24ed4d0fdf63f339ac47ca120b458aeb",
           "context": "",
@@ -331,7 +435,7 @@
           "overrides": {},
           "content": "22 %"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children3/children1": {
           "type": "element",
           "hash": "516d25013f4f610460dba92134652f76",
           "context": "",
@@ -339,7 +443,7 @@
           "overrides": {},
           "content": "Пол"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children1": {
           "type": "element",
           "hash": "b3e37d5b60ced2930a609af6cda24350",
           "context": "",
@@ -347,7 +451,7 @@
           "overrides": {},
           "content": "Мужчины"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children3/children3/children1/children3": {
           "type": "element",
           "hash": "8f0a7be86df8a8f8cb382d0febb1a681",
           "context": "",
@@ -355,7 +459,7 @@
           "overrides": {},
           "content": "69 %"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children1": {
           "type": "element",
           "hash": "7916588508db9a8f0e51b10767511499",
           "context": "",
@@ -363,7 +467,7 @@
           "overrides": {},
           "content": "Женщины"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children3/children3/children5/children3": {
           "type": "element",
           "hash": "46bb5b3f8ddc24087893c43ed7732ba2",
           "context": "",
@@ -371,7 +475,7 @@
           "overrides": {},
           "content": "31 %"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children5/children1": {
           "type": "element",
           "hash": "00870b4106645ad3ade4f09812f60516",
           "context": "",
@@ -379,7 +483,7 @@
           "overrides": {},
           "content": "Возраст"
         },
-        "program/body2/declaration/body/body7/argument/children15/children1/children3/children5/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children15/children1/children3/children5/children3/children1/children1": {
           "type": "element",
           "hash": "c77ccc21397d66cd4e968049ce830c8c",
           "context": "",
@@ -387,7 +491,7 @@
           "overrides": {},
           "content": "25+"
         },
-        "program/body2/declaration/body/body7/argument/children19/children1/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children19/children1/children1/children1": {
           "type": "element",
           "hash": "dad6f81abe0d432860d0304b4c129ec2",
           "context": "",
@@ -395,7 +499,7 @@
           "overrides": {},
           "content": "Подробная статистика"
         },
-        "program/body2/declaration/body/body7/argument/children19/children1/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children19/children1/children1/children3": {
           "type": "element",
           "hash": "c0c2bb619789f35b576e699d7b9b13d2",
           "context": "",
@@ -403,7 +507,79 @@
           "overrides": {},
           "content": "Скриншоты YouTube Studio подтверждают статистику канала и вызывают доверие. \n              Все цифры основаны на реальных данных аналитики."
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children1": {
+        "program/body3/declaration/body/body2/declarations0_arr_0": {
+          "type": "text",
+          "hash": "d2f254dd6f61953f70758b4930352da4",
+          "context": "Static string-array element (screenshots[0]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen0.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_1": {
+          "type": "text",
+          "hash": "9b0727d0ba463e8d9f1b10462d6ce90a",
+          "context": "Static string-array element (screenshots[1]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen1.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_2": {
+          "type": "text",
+          "hash": "7d0ed9eefe17224ff65d55cffa782051",
+          "context": "Static string-array element (screenshots[2]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen2.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_3": {
+          "type": "text",
+          "hash": "973ba8e18265a55bc7f49ae1049bc68d",
+          "context": "Static string-array element (screenshots[3]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen3.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_4": {
+          "type": "text",
+          "hash": "f8d4a64f9f82bcdbe657bb3cba57aba5",
+          "context": "Static string-array element (screenshots[4]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen4.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_5": {
+          "type": "text",
+          "hash": "17cf2411f1a8d227ed51ac47e2d68cf0",
+          "context": "Static string-array element (screenshots[5]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen5.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_6": {
+          "type": "text",
+          "hash": "2c002fd4bb18f83e5bf6b3c89911c165",
+          "context": "Static string-array element (screenshots[6]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen6.jpeg"
+        },
+        "program/body3/declaration/body/body2/declarations0_arr_7": {
+          "type": "text",
+          "hash": "1b30d4d82e43b3ae07b37e3f2e854be3",
+          "context": "Static string-array element (screenshots[7]) used by map()",
+          "skip": false,
+          "overrides": {},
+          "content": "/screen7.jpeg"
+        },
+        "program/body3/declaration/body/body7/argument/children19/children1/children3/children1/expression/arguments0/body/children1/openingElement/attributes1/value/expression_quasi_0": {
+          "type": "text",
+          "hash": "f5c7e4c34b293d142f18be8393e0c5f0",
+          "context": "map() callback template quasi 0",
+          "skip": false,
+          "overrides": {},
+          "content": "Статистика канала "
+        },
+        "program/body3/declaration/body/body7/argument/children23/children1/children1": {
           "type": "element",
           "hash": "2f65331185abdf3f4a7ac9f810ebbcb2",
           "context": "",
@@ -411,7 +587,7 @@
           "overrides": {},
           "content": "Дополнительные услуги"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children1": {
           "type": "element",
           "hash": "6e56c1645ffa37e33df9f5cdbb8d4bb7",
           "context": "",
@@ -419,7 +595,7 @@
           "overrides": {},
           "content": "Прямая интеграция в видео"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children3": {
           "type": "element",
           "hash": "08924c6d7933855c950f3bb74e234e75",
           "context": "",
@@ -427,7 +603,7 @@
           "overrides": {},
           "content": "Упоминание продукта в основном видео"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children5/children1": {
           "type": "element",
           "hash": "f8331b9a03f86f839d48d2e2b9496684",
           "context": "",
@@ -435,7 +611,7 @@
           "overrides": {},
           "content": "Формат"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children5/children3": {
           "type": "element",
           "hash": "0c78c43eab259ed6dad4e71b1ce3b224",
           "context": "",
@@ -443,7 +619,7 @@
           "overrides": {},
           "content": "30–90 секунд"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children7/children1": {
           "type": "element",
           "hash": "643b0b0fd7d0194b40c648c417b58a79",
           "context": "",
@@ -451,7 +627,7 @@
           "overrides": {},
           "content": "Пример"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children1/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children1/children7/children3": {
           "type": "element",
           "hash": "5c2830ec1bfab285e20977754ddd33fb",
           "context": "",
@@ -459,7 +635,7 @@
           "overrides": {},
           "content": "«Сегодня я пользуюсь X, и вот почему…»"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children1": {
           "type": "element",
           "hash": "e005bba07c44b68cd7d35669856dc39d",
           "context": "",
@@ -467,7 +643,7 @@
           "overrides": {},
           "content": "Product placement"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children3": {
           "type": "element",
           "hash": "4aae658ccf41eced3314b2f1955f27f0",
           "context": "",
@@ -475,7 +651,7 @@
           "overrides": {},
           "content": "Нативное размещение продукта в кадре"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children5/children1": {
           "type": "element",
           "hash": "f8331b9a03f86f839d48d2e2b9496684",
           "context": "",
@@ -483,7 +659,7 @@
           "overrides": {},
           "content": "Формат"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children5/children3": {
           "type": "element",
           "hash": "3ffb0d750ed49505eb0bc5e63e99d3cd",
           "context": "",
@@ -491,7 +667,7 @@
           "overrides": {},
           "content": "Без прямой речи"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children7/children1": {
           "type": "element",
           "hash": "643b0b0fd7d0194b40c648c417b58a79",
           "context": "",
@@ -499,7 +675,7 @@
           "overrides": {},
           "content": "Пример"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children3/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children3/children7/children3": {
           "type": "element",
           "hash": "9d4e85f5e3bbb5c8c8497a47c2c96cc8",
           "context": "",
@@ -507,7 +683,7 @@
           "overrides": {},
           "content": "Продукт стоит на фоне, используется в сцене"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children1": {
           "type": "element",
           "hash": "7568036cd970374215bc9c90b7397cf3",
           "context": "",
@@ -515,7 +691,7 @@
           "overrides": {},
           "content": "Интро / аутро вставка"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children3": {
           "type": "element",
           "hash": "984d6b0cd4a7f3fec5aff7ba122fb163",
           "context": "",
@@ -523,7 +699,7 @@
           "overrides": {},
           "content": "Короткий спонсорский блок в начале или конце"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children5/children1": {
           "type": "element",
           "hash": "f8331b9a03f86f839d48d2e2b9496684",
           "context": "",
@@ -531,7 +707,7 @@
           "overrides": {},
           "content": "Формат"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children5/children3": {
           "type": "element",
           "hash": "17e6808a05a1787ef1674926d5b52ed4",
           "context": "",
@@ -539,7 +715,7 @@
           "overrides": {},
           "content": "5–15 секунд"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children1": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children7/children1": {
           "type": "element",
           "hash": "643b0b0fd7d0194b40c648c417b58a79",
           "context": "",
@@ -547,7 +723,7 @@
           "overrides": {},
           "content": "Пример"
         },
-        "program/body2/declaration/body/body7/argument/children23/children1/children3/children5/children7/children3": {
+        "program/body3/declaration/body/body7/argument/children23/children1/children3/children5/children7/children3": {
           "type": "element",
           "hash": "0882f28bb6f4d23f4134d3ce5c0a5e96",
           "context": "",
@@ -555,7 +731,7 @@
           "overrides": {},
           "content": "«Ролик создан при поддержке…»"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children1": {
           "type": "element",
           "hash": "a0bd28558c61642728c2b3ed71228830",
           "context": "",
@@ -563,7 +739,7 @@
           "overrides": {},
           "content": "Связаться с нами"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children3": {
           "type": "element",
           "hash": "8a132ab188d263564ff09b197999e198",
           "context": "",
@@ -571,7 +747,7 @@
           "overrides": {},
           "content": "Готовы обсудить сотрудничество? Выберите удобный способ связи"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children1": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children1/children1": {
           "type": "element",
           "hash": "fdbe5f31832eb8e8697153ce6d003c69",
           "context": "",
@@ -579,7 +755,7 @@
           "overrides": {},
           "content": "💬"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children3": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children1/children3": {
           "type": "element",
           "hash": "8b777ebcc5034ce0fe96dd154bcb370e",
           "context": "",
@@ -587,7 +763,7 @@
           "overrides": {},
           "content": "WhatsApp"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children1/children5": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children1/children5": {
           "type": "element",
           "hash": "5f106639ef2f27cf22844f29d9c6dc47",
           "context": "",
@@ -595,7 +771,7 @@
           "overrides": {},
           "content": "+37495051893"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children1": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children3/children1": {
           "type": "element",
           "hash": "43a32fe6d19ae73d9a4aa6085c5f9165",
           "context": "",
@@ -603,7 +779,7 @@
           "overrides": {},
           "content": "✉️"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children3": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children3/children3": {
           "type": "element",
           "hash": "ce8ae9da5b7cd6c3df2929543a9af92d",
           "context": "",
@@ -611,7 +787,7 @@
           "overrides": {},
           "content": "Email"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children3/children5": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children3/children5": {
           "type": "element",
           "hash": "118a8bc0e7222e4d82dfab8eaee17395",
           "context": "",
@@ -619,7 +795,7 @@
           "overrides": {},
           "content": "anastasia@faertag.com"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children1": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children5/children1": {
           "type": "element",
           "hash": "92334ebc6030367a208909776a7b9d3a",
           "context": "",
@@ -627,7 +803,7 @@
           "overrides": {},
           "content": "✈️"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children3": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children5/children3": {
           "type": "element",
           "hash": "c915683f3ec888b8edcc7b06bd1428ec",
           "context": "",
@@ -635,7 +811,7 @@
           "overrides": {},
           "content": "Telegram"
         },
-        "program/body2/declaration/body/body7/argument/children27/children1/children5/children5/children5": {
+        "program/body3/declaration/body/body7/argument/children27/children1/children5/children5/children5": {
           "type": "element",
           "hash": "953bd81cf8b28c347b3348f310657339",
           "context": "",
@@ -643,41 +819,13 @@
           "overrides": {},
           "content": "psych_faertag"
         },
-        "program/body2/declaration/body/body7/argument/children31/children1": {
+        "program/body3/declaration/body/body7/argument/children31/children1": {
           "type": "element",
-          "hash": "09926952d335bbc5247a4daa0a94ea85",
+          "hash": "f064b4dc0da03d331a45ac4a6b35bc58",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "©FAERTAG IN. Все права защищены."
-        }
-      }
-    },
-    "node_modules/algebras-auto-intl/src/runtime/client/components/LocaleSwitcher.tsx": {
-      "scopes": {
-        "program/body4/declarations0/init/body/children1": {
-          "type": "element",
-          "hash": "c485b7bfb6dddc0e68359b58c67168a6",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "🌐"
-        },
-        "program/body4/declarations0/init/body/children3": {
-          "type": "element",
-          "hash": "af39817945c356299594431f70c2d6d8",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "▼"
-        },
-        "program/body6/declarations0/init/body/children1/expression/right": {
-          "type": "element",
-          "hash": "900eba0c97923d74bd8d9e6190e07264",
-          "context": "",
-          "skip": false,
-          "overrides": {},
-          "content": "✓"
+          "content": "©  FAERTAG IN. Все права защищены."
         }
       }
     }

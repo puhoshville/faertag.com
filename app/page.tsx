@@ -1,7 +1,8 @@
 "use client";
 
-import Image from "next/image";
-import { useState, useEffect } from "react";
+import LocaleSwitcher from '@dima-algebras/algebras-auto-intl/runtime/client/components/LocaleSwitcher'
+import Image from "next/image"
+import { useEffect, useState } from "react"
 
 export default function Home() {
   const images = [
@@ -53,7 +54,11 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
     {/* Hero Section */}
+    
       <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20 px-4 sm:py-32 sm:px-6 lg:px-8">
+      <div className="absolute top-4 right-4">
+          <LocaleSwitcher/>
+        </div>
         <div className="mx-auto max-w-7xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="text-center lg:text-left">
